@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="https://github.com/paddyroddy/paddyroddy/blob/master/cornwall.jpg"></p>
+<p align="center"><img width="80%" src="https://github.com/paddyroddy/paddyroddy/blob/master/cornwall.jpg"></p>
 
 # Cosmologist at UCL
 
