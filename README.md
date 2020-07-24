@@ -2,4 +2,4 @@
 
 # Cosmologist at UCL
 
-I am currently a PhD student at UCL working in astroinformatics.
+I am a PhD student at University College London working in the field of astroinformatics.
