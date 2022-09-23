@@ -1,5 +1,5 @@
-<p align="center"><img width="60%" src="https://github.com/paddyroddy/paddyroddy/blob/main/cornwall.jpg"></p>
+# Research Software Developer at UCL
 
-# Cosmologist at UCL
+I am a Research Software Developer at the Advanced Research Computing Centre, UCL.
 
-I am a PhD student at University College London working in the field of astroinformatics.
+https://paddyroddy.github.io/
