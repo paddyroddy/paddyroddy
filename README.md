@@ -48,8 +48,6 @@ Centre, UCL.
 
 ## ⭐ Recent Stars
 
-- [rickstaa/action-update-semver](https://github.com/rickstaa/action-update-semver) - Updates major/minor release tags on a tag push 
-  (2 days ago)
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
   (2 weeks ago)
 - [razekmh/database-paradigm-ppt](https://github.com/razekmh/database-paradigm-ppt)
@@ -58,6 +56,8 @@ Centre, UCL.
   (4 months ago)
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
   (5 months ago)
+- [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs) - Run `black` on python code blocks in documentation files
+  (7 months ago)
 
 ## 📫 Contact Me
 
