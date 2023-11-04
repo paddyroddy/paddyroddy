@@ -3,7 +3,7 @@
 I'm Paddy, a Research Software Developer at the Advanced Research Computing
 Centre, UCL.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/paddyroddy/paddyroddy?label=updated)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/paddyroddy/paddyroddy?label=updated)
 
 ## 📊 Statistics
 
