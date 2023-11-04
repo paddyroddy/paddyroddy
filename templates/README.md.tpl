@@ -15,7 +15,7 @@ Centre, UCL.
   ({{humanize .OccurredAt}})
 {{- end}}
 
-## 🔭 Latest Releases I've Contributed To
+## 🔭 The Latest Releases I've Contributed To
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}),
   {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
