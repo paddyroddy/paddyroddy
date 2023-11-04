@@ -4,14 +4,13 @@ I'm Paddy, a Research Software Developer at the Advanced Research Computing Cent
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/paddyroddy/paddyroddy?label=updated)
 
-#### 👷 Check Out What I'm Currently Working On
+#### 📊 Statistics
+
+![GitHub Stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&count_private=true&disable_animations=true&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight)
+
+#### 👷 Explore My Current Projects
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### 🌱 My Latest Projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest Releases I've Contributed To
@@ -19,7 +18,7 @@ I'm Paddy, a Research Software Developer at the Advanced Research Computing Cent
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 🔨 Latest Pull Requests I published
+#### 🔨 My Recent Pull Requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
@@ -34,10 +33,6 @@ I'm Paddy, a Research Software Developer at the Advanced Research Computing Cent
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 📊 Statistics
-
-![GitHub Stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&count_private=true&disable_animations=true&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight)
-
 #### 📫 Contact Me
 
-- [My Website](https://paddyroddy.github.io)
+- Website: https://paddyroddy.github.io
