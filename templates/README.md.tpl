@@ -10,14 +10,12 @@ I'm Paddy, a Research Software Developer at the Advanced Research Computing Cent
 
 #### 👷 Explore My Current Projects
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🔭 Latest Releases I've Contributed To
 {{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}),
-  {{humanize .LastRelease.PublishedAt}})
-  {{- with .Description -}}- {{.Description}}{{- else -}}{{- end -}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### 🔨 My Recent Pull Requests
@@ -25,15 +23,10 @@ I'm Paddy, a Research Software Developer at the Advanced Research Computing Cent
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📓 My Gists
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 #### ⭐ Recent Stars
 {{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
+{{- end }}
 
 #### 📫 Contact Me
 
