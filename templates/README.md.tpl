@@ -15,7 +15,9 @@ I'm Paddy, a Research Software Developer at the Advanced Research Computing Cent
 
 #### 🔭 Latest Releases I've Contributed To
 {{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}),
+  {{humanize .LastRelease.PublishedAt}})
+  {{- with .Description -}}- {{.Description}}{{- else -}}{{- end -}}
 {{- end}}
 
 #### 🔨 My Recent Pull Requests
