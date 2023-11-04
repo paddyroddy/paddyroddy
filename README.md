@@ -22,7 +22,7 @@ Centre, UCL.
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
 
-## 🔭 Latest Releases I've Contributed To
+## 🔭 The Latest Releases I've Contributed To
 
 - [UCL-MIRSG/ansible-role-tomcat](https://github.com/UCL-MIRSG/ansible-role-tomcat) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-tomcat/releases/tag/1.0.0),
   5 days ago)
