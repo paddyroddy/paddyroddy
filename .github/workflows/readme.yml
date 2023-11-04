@@ -15,8 +15,6 @@ jobs:
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
-        env:
-          token: ${{ secrets.GIT_AUTO_COMMIT_ACTION }}
 
       - name: Autogenerate README
         uses: muesli/readme-scribe@v0.1
