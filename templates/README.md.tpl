@@ -12,8 +12,7 @@ Centre, UCL.
 ## 👷 Explore My Current Projects
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}})
-  {{with .Repo.Description}} - {{- $desc := trimSpace .Repo.Description }}
-  {{ $desc | strings.TrimSpace}}{{end}}
+  {{with .Repo.Description}} - {{- . | strings.TrimSpace }}{{end}}
   ({{humanize .OccurredAt}})
 {{- end}}
 
@@ -21,8 +20,7 @@ Centre, UCL.
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}),
   {{humanize .LastRelease.PublishedAt}})
-  {{with .Description}} - {{- $desc := trimSpace .Description }}
-  {{ $desc | strings.TrimSpace}}{{end}}
+  {{with .Description}} - {{- . | strings.TrimSpace}}{{end}}
 {{- end}}
 
 ## 🔨 My Recent Pull Requests
@@ -34,8 +32,7 @@ Centre, UCL.
 ## ⭐ Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}})
-  {{with .Repo.Description}} - {{- $desc := trimSpace .Repo.Description }}
-  {{ $desc | strings.TrimSpace}}{{end}}
+  {{with .Repo.Description}} - {{- . | strings.TrimSpace}}{{end}}
   ({{humanize .StarredAt}})
 {{- end }}
 
