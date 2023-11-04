@@ -1,0 +1,33 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+      - "renovate/**"
+  pull_request:
+  schedule:
+    - cron: "0 0 * * 1-5"
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Autogenerate README
+        uses: muesli/readme-scribe@v0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        with:
+          template: templates/README.md.tpl
+          writeTo: README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          branch: main
+          commit_message: Update generated README
