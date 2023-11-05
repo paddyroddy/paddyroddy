@@ -3,11 +3,11 @@
 I'm Paddy, a Research Software Developer at the Advanced Research Computing
 Centre, UCL.
 
-![GitHub Last Commit](https://img.shields.io/github/last-commit/paddyroddy/paddyroddy?label=updated)
-
-## 📊 Statistics
-
-![GitHub Stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&count_private=true&disable_animations=true&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/paddyroddy/paddyroddy?label=updated)](https://github.com/paddyroddy)
+[![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.my&logoColor=white)](https://paddyroddy.github.io)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-9cf?style=flat&logo=Google&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=OFigHUwAAAAJ)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrickjamesroddy)
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/patrick_roddy)
 
 ## 👷 Explore My Current Projects
 {{range recentContributions 5}}
@@ -33,6 +33,6 @@ Centre, UCL.
   ({{humanize .StarredAt}})
 {{- end }}
 
-## 📫 Contact Me
+## 📊 Statistics
 
-- Website: <https://paddyroddy.github.io>
+![GitHub Stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&count_private=true&disable_animations=true&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight)
