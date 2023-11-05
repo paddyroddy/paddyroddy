@@ -1,4 +1,4 @@
-# 👋 Hello
+### 👋 Hello
 
 I'm Paddy, a Research Software Developer at the Advanced Research Computing
 Centre, UCL.
@@ -11,7 +11,7 @@ Centre, UCL.
 
 ![GitHub Stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&count_private=true&disable_animations=true&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight)
 
-## 👷 Explore My Current Projects
+#### 👷 Explore My Current Projects
 
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
   (today)
@@ -24,7 +24,7 @@ Centre, UCL.
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (today)
 
-## 🔭 The Latest Releases I've Contributed To
+#### 🔭 The Latest Releases I've Contributed To
 
 - [UCL-MIRSG/ansible-role-tomcat](https://github.com/UCL-MIRSG/ansible-role-tomcat) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-tomcat/releases/tag/1.0.0),
   6 days ago)
@@ -37,21 +37,23 @@ Centre, UCL.
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) ([v1.4.3](https://github.com/astro-informatics/sleplet/releases/tag/v1.4.3),
   1 month ago) - Slepian Scale-Discretised Wavelets in Python
 
-## 🔨 My Recent Pull Requests
+#### 🔨 My Recent Pull Requests
 
-- [Update .pre-commit-config.yaml](https://github.com/paddyroddy/phd-thesis/pull/20) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
+- [Remove double `codespell` settings](https://github.com/paddyroddy/.github/pull/102) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (today)
-- [Update .pre-commit-config.yaml](https://github.com/paddyroddy/python-template/pull/116) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+- [Add slash](https://github.com/paddyroddy/.github/pull/101) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (today)
-- [Update .pre-commit-config.yaml](https://github.com/paddyroddy/latex-template/pull/28) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+- [Remove `/`](https://github.com/paddyroddy/.github/pull/100) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (today)
-- [Update .pre-commit-config.yaml](https://github.com/paddyroddy/.github/pull/95) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Make `regex` more explicit](https://github.com/paddyroddy/.github/pull/99) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (today)
-- [Add general pre-commit hooks](https://github.com/astro-informatics/sleplet/pull/283) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Use combined `exclude`](https://github.com/paddyroddy/.github/pull/98) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (today)
 
-## ⭐ Recent Stars
+#### ⭐ Recent Stars
 
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (today)
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
   (today)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
@@ -60,5 +62,3 @@ Centre, UCL.
   (2 weeks ago)
 - [razekmh/database-paradigm-ppt](https://github.com/razekmh/database-paradigm-ppt)
   (2 months ago)
-- [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
-  (4 months ago)
