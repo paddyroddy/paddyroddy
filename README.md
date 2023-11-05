@@ -13,16 +13,16 @@ Centre, UCL.
 
 ## 👷 Explore My Current Projects
 
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+  (today)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (today)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (today)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (today)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (1 day ago)
+  (today)
 
 ## 🔭 The Latest Releases I've Contributed To
 
@@ -39,9 +39,15 @@ Centre, UCL.
 
 ## 🔨 My Recent Pull Requests
 
-- [Update and rename .renovaterc to .renovaterc.json5](https://github.com/astro-informatics/sleplet/pull/282) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Update .pre-commit-config.yaml](https://github.com/paddyroddy/phd-thesis/pull/20) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
   (today)
-- [Change `renovate` files to JSON5](https://github.com/paddyroddy/.github/pull/82) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Update .pre-commit-config.yaml](https://github.com/paddyroddy/python-template/pull/116) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (today)
+- [Update .pre-commit-config.yaml](https://github.com/paddyroddy/latex-template/pull/28) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+  (today)
+- [Update .pre-commit-config.yaml](https://github.com/paddyroddy/.github/pull/95) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Add general pre-commit hooks](https://github.com/astro-informatics/sleplet/pull/283) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (today)
 
 ## ⭐ Recent Stars
