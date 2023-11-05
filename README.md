@@ -11,9 +11,9 @@ Centre, UCL.
 
 ## 👷 Explore My Current Projects
 
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (today)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 day ago)
 - [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
   (1 day ago)
@@ -37,12 +37,16 @@ Centre, UCL.
 
 ## 🔨 My Recent Pull Requests
 
-- [Remove `cache`](https://github.com/paddyroddy/.github/pull/75) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
-- [Add `codespell`](https://github.com/paddyroddy/adr-tree-surgery-website/pull/35) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 day ago)
-- [Add `codespell`](https://github.com/paddyroddy/paddyroddy.github.io/pull/42) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
+- [Remove `set-output` syntax](https://github.com/paddyroddy/phd-thesis/pull/18) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
+  (today)
+- [Test removal of quotes](https://github.com/paddyroddy/.github/pull/80) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Fix typo &amp; remove brackets](https://github.com/paddyroddy/.github/pull/79) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Fix outout major](https://github.com/paddyroddy/.github/pull/78) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Tag workflow manually](https://github.com/paddyroddy/.github/pull/77) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
 
 ## ⭐ Recent Stars
 
