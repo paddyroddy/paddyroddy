@@ -5,7 +5,7 @@ Centre, UCL.
 
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/paddyroddy/paddyroddy?label=updated)](https://github.com/paddyroddy)
 [![My Website](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge&style=flat)](https://paddyroddy.github.io)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge&style=flat)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=OFigHUwAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge&style=flat)](https://scholar.google.com/citations?user=OFigHUwAAAAJ)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge&style=flat)](https://www.linkedin.com/in/patrickjamesroddy)
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white&style=flat)](https://www.strava.com/athletes/patrick_roddy)
 
@@ -42,8 +42,6 @@ Centre, UCL.
 - [Remove `set-output` syntax](https://github.com/paddyroddy/phd-thesis/pull/18) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
   (today)
 - [Test removal of quotes](https://github.com/paddyroddy/.github/pull/80) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
-- [Fix typo &amp; remove brackets](https://github.com/paddyroddy/.github/pull/79) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (today)
 
 ## ⭐ Recent Stars
