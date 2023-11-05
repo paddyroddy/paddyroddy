@@ -12,20 +12,20 @@ Centre, UCL.
 ## 👷 Explore My Current Projects
 
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (today)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (today)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (today)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (today)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (1 day ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
 
 ## 🔭 The Latest Releases I've Contributed To
 
 - [UCL-MIRSG/ansible-role-tomcat](https://github.com/UCL-MIRSG/ansible-role-tomcat) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-tomcat/releases/tag/1.0.0),
-  5 days ago)
+  6 days ago)
 - [UCL-MIRSG/mirsg-harvester-terraform-modules](https://github.com/UCL-MIRSG/mirsg-harvester-terraform-modules) ([v1.0.10](https://github.com/UCL-MIRSG/mirsg-harvester-terraform-modules/releases/tag/v1.0.10),
   1 week ago)
 - [UCL-MIRSG/ansible-role-install-java](https://github.com/UCL-MIRSG/ansible-role-install-java) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-install-java/releases/tag/1.0.0),
@@ -38,26 +38,24 @@ Centre, UCL.
 ## 🔨 My Recent Pull Requests
 
 - [Remove `cache`](https://github.com/paddyroddy/.github/pull/75) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
+  (1 day ago)
 - [Add `codespell`](https://github.com/paddyroddy/adr-tree-surgery-website/pull/35) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (today)
+  (1 day ago)
 - [Add `codespell`](https://github.com/paddyroddy/paddyroddy.github.io/pull/42) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (today)
-- [Codespell typos](https://github.com/paddyroddy/phd-thesis/pull/17) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
-  (today)
+  (1 day ago)
 
 ## ⭐ Recent Stars
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+  (1 day ago)
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
   (2 weeks ago)
 - [razekmh/database-paradigm-ppt](https://github.com/razekmh/database-paradigm-ppt)
-  (1 month ago)
+  (2 months ago)
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
   (4 months ago)
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
   (5 months ago)
-- [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs) - Run `black` on python code blocks in documentation files
-  (7 months ago)
 
 ## 📫 Contact Me
 
