@@ -15,14 +15,14 @@ Centre, UCL.
 
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (today)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (today)
 - [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
   (today)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 day ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
 
 ## 🔭 The Latest Releases I've Contributed To
 
@@ -39,7 +39,9 @@ Centre, UCL.
 
 ## 🔨 My Recent Pull Requests
 
-- [Restore `pre-commit` instructions](https://github.com/paddyroddy/.github/pull/81) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Update and rename .renovaterc to .renovaterc.json5](https://github.com/astro-informatics/sleplet/pull/282) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
+- [Change `renovate` files to JSON5](https://github.com/paddyroddy/.github/pull/82) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (today)
 
 ## ⭐ Recent Stars
