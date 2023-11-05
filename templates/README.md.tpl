@@ -1,4 +1,4 @@
-# 👋 Hello
+### 👋 Hello
 
 I'm Paddy, a Research Software Developer at the Advanced Research Computing
 Centre, UCL.
@@ -11,25 +11,25 @@ Centre, UCL.
 
 ![GitHub Stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&count_private=true&disable_animations=true&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight)
 
-## 👷 Explore My Current Projects
+#### 👷 Explore My Current Projects
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}}
   ({{humanize .OccurredAt}})
 {{- end}}
 
-## 🔭 The Latest Releases I've Contributed To
+#### 🔭 The Latest Releases I've Contributed To
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}),
   {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-## 🔨 My Recent Pull Requests
+#### 🔨 My Recent Pull Requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}})
   ({{humanize .CreatedAt}})
 {{- end}}
 
-## ⭐ Recent Stars
+#### ⭐ Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}}
   ({{humanize .StarredAt}})
