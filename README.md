@@ -3,8 +3,9 @@
 I'm Paddy, a Research Software Developer at the Advanced Research Computing
 Centre, UCL.
 
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/paddyroddy/paddyroddy?label=updated)](https://github.com/paddyroddy)
-[![My Website](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge&style=flat)](https://paddyroddy.github.io)
+[![Last Commit](https://img.shields.io/github/last-commit/paddyroddy/paddyroddy?label=updated)](https://github.com/paddyroddy)
+[![Website](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge&style=flat)](https://paddyroddy.github.io)
+[![CV](https://img.shields.io/badge/CV-PDF-blue.svg)](https://paddyroddy.github.io/cv)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge&style=flat)](https://scholar.google.com/citations?user=OFigHUwAAAAJ)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge&style=flat)](https://www.linkedin.com/in/patrickjamesroddy)
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white&style=flat)](https://www.strava.com/athletes/patrick_roddy)
@@ -14,22 +15,22 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (today)
+  (1 day ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (today)
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (today)
+  (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (today)
+  (1 day ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (today)
+  (1 day ago)
 
 #### 🔭 The Latest Releases I've Contributed To
 
 - [UCL-MIRSG/ansible-role-tomcat](https://github.com/UCL-MIRSG/ansible-role-tomcat) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-tomcat/releases/tag/1.0.0),
-  6 days ago)
-- [UCL-MIRSG/mirsg-harvester-terraform-modules](https://github.com/UCL-MIRSG/mirsg-harvester-terraform-modules) ([v1.0.10](https://github.com/UCL-MIRSG/mirsg-harvester-terraform-modules/releases/tag/v1.0.10),
   1 week ago)
+- [UCL-MIRSG/mirsg-harvester-terraform-modules](https://github.com/UCL-MIRSG/mirsg-harvester-terraform-modules) ([v1.0.10](https://github.com/UCL-MIRSG/mirsg-harvester-terraform-modules/releases/tag/v1.0.10),
+  2 weeks ago)
 - [UCL-MIRSG/ansible-role-install-java](https://github.com/UCL-MIRSG/ansible-role-install-java) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-install-java/releases/tag/1.0.0),
   2 weeks ago)
 - [UCL-MIRSG/ansible-role-provision](https://github.com/UCL-MIRSG/ansible-role-provision) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-provision/releases/tag/1.0.0),
@@ -40,24 +41,22 @@ Centre, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [Remove double `codespell` settings](https://github.com/paddyroddy/.github/pull/102) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
+  (1 day ago)
 - [Add slash](https://github.com/paddyroddy/.github/pull/101) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
+  (1 day ago)
 - [Remove `/`](https://github.com/paddyroddy/.github/pull/100) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
+  (1 day ago)
 - [Make `regex` more explicit](https://github.com/paddyroddy/.github/pull/99) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
-- [Use combined `exclude`](https://github.com/paddyroddy/.github/pull/98) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (today)
-- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
-  (today)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
   (1 day ago)
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
+  (1 day ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+  (2 days ago)
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
   (2 weeks ago)
 - [razekmh/database-paradigm-ppt](https://github.com/razekmh/database-paradigm-ppt)
