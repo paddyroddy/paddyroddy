@@ -10,13 +10,13 @@ Centre, UCL.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge&style=flat)](https://www.linkedin.com/in/patrickjamesroddy)
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white&style=flat)](https://www.strava.com/athletes/patrick_roddy)
 
-[![GitHub Stats Dark](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/paddyroddy/github-readme-stats#gh-dark-mode-only)
-[![GitHub Stats Light](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/paddyroddy/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats Dark](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/paddyroddy/paddyroddy#gh-dark-mode-only)
+[![GitHub Stats Light](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/paddyroddy/paddyroddy#gh-light-mode-only)
 
 #### 👷 Explore My Current Projects
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
+  (today)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
@@ -41,6 +41,16 @@ Centre, UCL.
 
 #### 🔨 My Recent Pull Requests
 
+- [Update pull.yml](https://github.com/astro-informatics/sleplet/pull/289) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
+- [Add GitHub `pull` app](https://github.com/paddyroddy/tmux/pull/1) on [paddyroddy/tmux](https://github.com/paddyroddy/tmux)
+  (today)
+- [Add `pull` app](https://github.com/paddyroddy/github-readme-stats/pull/2) on [paddyroddy/github-readme-stats](https://github.com/paddyroddy/github-readme-stats)
+  (today)
+- [Add quotes](https://github.com/astro-informatics/sleplet/pull/288) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
+- [Rename pulls.yml to pull.yml](https://github.com/astro-informatics/sleplet/pull/287) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
 
 #### ⭐ Recent Stars
 
