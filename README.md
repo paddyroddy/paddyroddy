@@ -10,7 +10,7 @@ Centre, UCL.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge&style=flat)](https://www.linkedin.com/in/patrickjamesroddy)
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white&style=flat)](https://www.strava.com/athletes/patrick_roddy)
 
-![GitHub Stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=discussions_answered,discussions_started,prs_merged,reviews&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=discussions_answered,discussions_started,prs_merged,reviews&show_icons=true&theme=tokyonight)
 
 #### 👷 Explore My Current Projects
 
