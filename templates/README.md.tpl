@@ -11,7 +11,7 @@ Centre, UCL.
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white&style=flat)](https://www.strava.com/athletes/patrick_roddy)
 
 [![GitHub Stats Dark](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=discussions_answered,discussions_started,prs_merged,reviews&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/paddyroddy/github-readme-stats#gh-dark-mode-only)
-[![GitHub Stats Light](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=discussions_answered,discussions_started,prs_merged,reviews&show_icons=true&theme=default#gh-light-mode-only)]((https://github.com/paddyroddy/github-readme-stats#gh-light-mode-only))
+[![GitHub Stats Light](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=discussions_answered,discussions_started,prs_merged,reviews&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/paddyroddy/github-readme-stats#gh-light-mode-only)
 
 #### 👷 Explore My Current Projects
 {{range recentContributions 5}}
