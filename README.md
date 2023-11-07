@@ -10,7 +10,7 @@ Centre, UCL.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge&style=flat)](https://www.linkedin.com/in/patrickjamesroddy)
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white&style=flat)](https://www.strava.com/athletes/patrick_roddy)
 
-![GitHub Stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&disable_animations=true&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-paddyroddy.vercel.app/api?username=paddyroddy&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=discussions_answered,discussions_started,prs_merged,reviews&show_icons=true&theme=transparent)
 
 #### 👷 Explore My Current Projects
 
@@ -47,8 +47,6 @@ Centre, UCL.
 - [brew `bundle dump --describe --force --file`](https://github.com/paddyroddy/dotfiles/pull/9) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
 - [Add `importlib` to `pytest`](https://github.com/astro-informatics/sleplet/pull/285) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
-- [Add `importlib` option for `pytest`](https://github.com/paddyroddy/python-template/pull/119) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (1 day ago)
 
 #### ⭐ Recent Stars
