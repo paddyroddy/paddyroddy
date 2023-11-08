@@ -17,13 +17,13 @@ Centre, UCL.
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (today)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (2 days ago)
 - [brainglobe/brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases.
-  (2 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (2 days ago)
 
 #### 🔭 The Latest Releases I've Contributed To
@@ -41,15 +41,13 @@ Centre, UCL.
 
 #### 🔨 My Recent Pull Requests
 
+- [Add name](https://github.com/paddyroddy/dotfiles/pull/12) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
 - [Delete .github/pull.yml](https://github.com/astro-informatics/sleplet/pull/290) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (today)
 - [Update pull.yml](https://github.com/astro-informatics/sleplet/pull/289) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
 - [Add GitHub `pull` app](https://github.com/paddyroddy/tmux/pull/1) on [paddyroddy/tmux](https://github.com/paddyroddy/tmux)
-  (1 day ago)
-- [Add `pull` app](https://github.com/paddyroddy/github-readme-stats/pull/2) on [paddyroddy/github-readme-stats](https://github.com/paddyroddy/github-readme-stats)
-  (1 day ago)
-- [Add quotes](https://github.com/astro-informatics/sleplet/pull/288) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
 
 #### ⭐ Recent Stars
