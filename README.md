@@ -47,8 +47,6 @@ Centre, UCL.
   (today)
 - [Update pull.yml](https://github.com/astro-informatics/sleplet/pull/289) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
-- [Add GitHub `pull` app](https://github.com/paddyroddy/tmux/pull/1) on [paddyroddy/tmux](https://github.com/paddyroddy/tmux)
-  (1 day ago)
 
 #### ⭐ Recent Stars
 
