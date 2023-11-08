@@ -16,20 +16,20 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (today)
+  (1 day ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [brainglobe/brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases.
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
+  (2 days ago)
 
 #### 🔭 The Latest Releases I've Contributed To
 
 - [brainglobe/brainreg](https://github.com/brainglobe/brainreg) ([v1.0.0](https://github.com/brainglobe/brainreg/releases/tag/v1.0.0),
-  1 day ago) - Automated 3D brain registration with support for multiple species and atlases.
+  2 days ago) - Automated 3D brain registration with support for multiple species and atlases.
 - [UCL-MIRSG/ansible-role-tomcat](https://github.com/UCL-MIRSG/ansible-role-tomcat) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-tomcat/releases/tag/1.0.0),
   1 week ago)
 - [UCL-MIRSG/mirsg-harvester-terraform-modules](https://github.com/UCL-MIRSG/mirsg-harvester-terraform-modules) ([v1.0.10](https://github.com/UCL-MIRSG/mirsg-harvester-terraform-modules/releases/tag/v1.0.10),
@@ -42,25 +42,25 @@ Centre, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [Update pull.yml](https://github.com/astro-informatics/sleplet/pull/289) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (today)
+  (1 day ago)
 - [Add GitHub `pull` app](https://github.com/paddyroddy/tmux/pull/1) on [paddyroddy/tmux](https://github.com/paddyroddy/tmux)
-  (today)
+  (1 day ago)
 - [Add `pull` app](https://github.com/paddyroddy/github-readme-stats/pull/2) on [paddyroddy/github-readme-stats](https://github.com/paddyroddy/github-readme-stats)
-  (today)
+  (1 day ago)
 - [Add quotes](https://github.com/astro-informatics/sleplet/pull/288) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (today)
+  (1 day ago)
 - [Rename pulls.yml to pull.yml](https://github.com/astro-informatics/sleplet/pull/287) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (today)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-  (today)
+  (1 day ago)
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
-  (1 day ago)
-- [rgaiacs/swc-shell-split-window](https://github.com/rgaiacs/swc-shell-split-window) - Script to split the shell using tmux
-  (1 day ago)
-- [developStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
-  (1 day ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (2 days ago)
+- [rgaiacs/swc-shell-split-window](https://github.com/rgaiacs/swc-shell-split-window) - Script to split the shell using tmux
+  (2 days ago)
+- [developStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
+  (2 days ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (3 days ago)
