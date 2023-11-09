@@ -15,16 +15,16 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (3 days ago)
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
-- [brainglobe/brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases.
-  (3 days ago)
+  (today)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
+- [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2) - :school_satchel: &gt; 🔩 Hacking Real-time AI workflows for Surgery 🔧
+  (today)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (today)
 
 #### 🔭 The Latest Releases I've Contributed To
 
@@ -41,15 +41,21 @@ Centre, UCL.
 
 #### 🔨 My Recent Pull Requests
 
-- [Update `tmux` submodule](https://github.com/paddyroddy/dotfiles/pull/13) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
-- [Add name](https://github.com/paddyroddy/dotfiles/pull/12) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
-- [Delete .github/pull.yml](https://github.com/astro-informatics/sleplet/pull/290) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+- [Get latest slides prior to #20](https://github.com/SciKit-Surgery/cmicHACKS2/pull/24) on [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2)
+  (today)
+- [No whitespace](https://github.com/paddyroddy/latex-template/pull/29) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+  (today)
+- [No whitespace](https://github.com/paddyroddy/phd-thesis/pull/21) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
+  (today)
+- [No whitespace](https://github.com/astro-informatics/sleplet/pull/292) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
+- [Add GitHub Pages workflow &amp; rename to `index.html`](https://github.com/SciKit-Surgery/cmicHACKS2/pull/20) on [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2)
+  (today)
 
 #### ⭐ Recent Stars
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+  (today)
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
   (2 days ago)
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
@@ -58,5 +64,3 @@ Centre, UCL.
   (3 days ago)
 - [developStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
   (3 days ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (4 days ago)
