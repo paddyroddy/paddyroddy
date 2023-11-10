@@ -17,17 +17,19 @@ Centre, UCL.
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (today)
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2) - :school_satchel: &gt; 🔩 Hacking Real-time AI workflows for Surgery 🔧
-  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (today)
+- [florencejt/fusilli](https://github.com/florencejt/fusilli) - A Python package housing a collection of deep-learning multi-modal data fusion method pipelines! From data loading, to training, to evaluation - fusilli&#39;s got you covered 🌸
+  (today)
+- [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2) - :school_satchel: &gt; 🔩 Hacking Real-time AI workflows for Surgery 🔧
+  (today)
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
   (1 day ago)
 
 #### 🔭 The Latest Releases I've Contributed To
 
+- [florencejt/fusilli](https://github.com/florencejt/fusilli) ([v0.0.5](https://github.com/florencejt/fusilli/releases/tag/v0.0.5),
+  2 days ago) - A Python package housing a collection of deep-learning multi-modal data fusion method pipelines! From data loading, to training, to evaluation - fusilli&#39;s got you covered 🌸
 - [brainglobe/brainreg](https://github.com/brainglobe/brainreg) ([v1.0.0](https://github.com/brainglobe/brainreg/releases/tag/v1.0.0),
   4 days ago) - Automated 3D brain registration with support for multiple species and atlases.
 - [UCL-MIRSG/ansible-role-tomcat](https://github.com/UCL-MIRSG/ansible-role-tomcat) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-tomcat/releases/tag/1.0.0),
@@ -36,21 +38,19 @@ Centre, UCL.
   2 weeks ago)
 - [UCL-MIRSG/ansible-role-install-java](https://github.com/UCL-MIRSG/ansible-role-install-java) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-install-java/releases/tag/1.0.0),
   3 weeks ago)
-- [UCL-MIRSG/ansible-role-provision](https://github.com/UCL-MIRSG/ansible-role-provision) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-provision/releases/tag/1.0.0),
-  3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add `pull.yml` for `main` &amp; `gh-pages`](https://github.com/astro-informatics/sleplet/pull/297) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Multiline YAML test](https://github.com/astro-informatics/sleplet/pull/300) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (today)
-- [Use matrix values to fill parallel job in coveralls](https://github.com/astro-informatics/sleplet/pull/296) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Add logo to slides](https://github.com/SciKit-Surgery/cmicHACKS2/pull/35) on [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2)
   (today)
-- [Fix parallel builds in `coveralls`](https://github.com/astro-informatics/sleplet/pull/294) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
-- [Remove `coveralls`](https://github.com/paddyroddy/.github/pull/109) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
-- [Get latest slides prior to #20](https://github.com/SciKit-Surgery/cmicHACKS2/pull/24) on [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2)
-  (1 day ago)
+- [Redo PR #2](https://github.com/florencejt/fusilli/pull/5) on [florencejt/fusilli](https://github.com/florencejt/fusilli)
+  (today)
+- [Mimic spacing for `3.12`](https://github.com/astro-informatics/sleplet/pull/299) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
+- [Add template for `Work Achieved` slides &amp; option to navigate back to home](https://github.com/SciKit-Surgery/cmicHACKS2/pull/33) on [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2)
+  (today)
 
 #### ⭐ Recent Stars
 
