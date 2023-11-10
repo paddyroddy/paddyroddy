@@ -41,15 +41,15 @@ Centre, UCL.
 
 #### 🔨 My Recent Pull Requests
 
+- [Add `pull.yml` for `main` &amp; `gh-pages`](https://github.com/astro-informatics/sleplet/pull/297) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
+- [Use matrix values to fill parallel job in coveralls](https://github.com/astro-informatics/sleplet/pull/296) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
 - [Fix parallel builds in `coveralls`](https://github.com/astro-informatics/sleplet/pull/294) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
 - [Remove `coveralls`](https://github.com/paddyroddy/.github/pull/109) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
 - [Get latest slides prior to #20](https://github.com/SciKit-Surgery/cmicHACKS2/pull/24) on [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2)
-  (1 day ago)
-- [No whitespace](https://github.com/paddyroddy/latex-template/pull/29) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
-  (1 day ago)
-- [No whitespace](https://github.com/paddyroddy/phd-thesis/pull/21) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
   (1 day ago)
 
 #### ⭐ Recent Stars
