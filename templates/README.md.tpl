@@ -19,12 +19,6 @@ Centre, UCL.
   ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🔭 The Latest Releases I've Contributed To
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}),
-  {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
-{{- end}}
-
 #### 🔨 My Recent Pull Requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}})
