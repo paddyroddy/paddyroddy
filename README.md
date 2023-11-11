@@ -15,52 +15,39 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (today)
-- [florencejt/fusilli](https://github.com/florencejt/fusilli) - A Python package housing a collection of deep-learning multi-modal data fusion method pipelines! From data loading, to training, to evaluation - fusilli&#39;s got you covered 🌸
-  (today)
-- [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2) - :school_satchel: &gt; 🔩 Hacking Real-time AI workflows for Surgery 🔧
-  (today)
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 day ago)
-
-#### 🔭 The Latest Releases I've Contributed To
-
-- [florencejt/fusilli](https://github.com/florencejt/fusilli) ([v0.0.5](https://github.com/florencejt/fusilli/releases/tag/v0.0.5),
-  2 days ago) - A Python package housing a collection of deep-learning multi-modal data fusion method pipelines! From data loading, to training, to evaluation - fusilli&#39;s got you covered 🌸
-- [brainglobe/brainreg](https://github.com/brainglobe/brainreg) ([v1.0.0](https://github.com/brainglobe/brainreg/releases/tag/v1.0.0),
-  4 days ago) - Automated 3D brain registration with support for multiple species and atlases.
-- [UCL-MIRSG/ansible-role-tomcat](https://github.com/UCL-MIRSG/ansible-role-tomcat) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-tomcat/releases/tag/1.0.0),
-  1 week ago)
-- [UCL-MIRSG/mirsg-harvester-terraform-modules](https://github.com/UCL-MIRSG/mirsg-harvester-terraform-modules) ([v1.0.10](https://github.com/UCL-MIRSG/mirsg-harvester-terraform-modules/releases/tag/v1.0.10),
-  2 weeks ago)
-- [UCL-MIRSG/ansible-role-install-java](https://github.com/UCL-MIRSG/ansible-role-install-java) ([1.0.0](https://github.com/UCL-MIRSG/ansible-role-install-java/releases/tag/1.0.0),
-  3 weeks ago)
+- [florencejt/fusilli](https://github.com/florencejt/fusilli) - A Python package housing a collection of deep-learning multi-modal data fusion method pipelines! From data loading, to training, to evaluation - fusilli&#39;s got you covered 🌸
+  (1 day ago)
+- [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2) - :school_satchel: &gt; 🔩 Hacking Real-time AI workflows for Surgery 🔧
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Multiline YAML test](https://github.com/astro-informatics/sleplet/pull/300) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Combine `paddyroddy/.github` updates together](https://github.com/paddyroddy/.github/pull/121) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (today)
-- [Add logo to slides](https://github.com/SciKit-Surgery/cmicHACKS2/pull/35) on [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2)
-  (today)
-- [Redo PR #2](https://github.com/florencejt/fusilli/pull/5) on [florencejt/fusilli](https://github.com/florencejt/fusilli)
-  (today)
-- [Mimic spacing for `3.12`](https://github.com/astro-informatics/sleplet/pull/299) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (today)
-- [Add template for `Work Achieved` slides &amp; option to navigate back to home](https://github.com/SciKit-Surgery/cmicHACKS2/pull/33) on [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2)
-  (today)
+- [Remove `docs-directory` setting](https://github.com/paddyroddy/.github/pull/120) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [`outputs` not `output`!](https://github.com/paddyroddy/.github/pull/119) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Add `BUNDLE_GEMFILE` variable](https://github.com/paddyroddy/adr-tree-surgery-website/pull/38) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (1 day ago)
+- [Use same step in `publish_dir`](https://github.com/paddyroddy/.github/pull/118) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-  (1 day ago)
+  (2 days ago)
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-  (3 days ago)
+  (4 days ago)
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
-  (4 days ago)
+  (5 days ago)
 - [rgaiacs/swc-shell-split-window](https://github.com/rgaiacs/swc-shell-split-window) - Script to split the shell using tmux
-  (4 days ago)
+  (5 days ago)
 - [developStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
-  (4 days ago)
+  (5 days ago)
