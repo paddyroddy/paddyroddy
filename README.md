@@ -16,38 +16,38 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (today)
+  (2 days ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
+  (3 days ago)
 - [florencejt/fusilli](https://github.com/florencejt/fusilli) - A Python package housing a collection of deep-learning multi-modal data fusion method pipelines! From data loading, to training, to evaluation - fusilli&#39;s got you covered 🌸
-  (1 day ago)
+  (3 days ago)
 - [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2) - :school_satchel: &gt; 🔩 Hacking Real-time AI workflows for Surgery 🔧
-  (1 day ago)
+  (3 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
+  (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Combine `paddyroddy/.github` updates together](https://github.com/paddyroddy/.github/pull/121) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
+  (2 days ago)
 - [Remove `docs-directory` setting](https://github.com/paddyroddy/.github/pull/120) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (3 days ago)
 - [`outputs` not `output`!](https://github.com/paddyroddy/.github/pull/119) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (3 days ago)
 - [Add `BUNDLE_GEMFILE` variable](https://github.com/paddyroddy/adr-tree-surgery-website/pull/38) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 day ago)
+  (3 days ago)
 - [Use same step in `publish_dir`](https://github.com/paddyroddy/.github/pull/118) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-  (2 days ago)
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
   (4 days ago)
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
+  (6 days ago)
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
-  (5 days ago)
+  (1 week ago)
 - [rgaiacs/swc-shell-split-window](https://github.com/rgaiacs/swc-shell-split-window) - Script to split the shell using tmux
-  (5 days ago)
+  (1 week ago)
 - [developStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
-  (5 days ago)
+  (1 week ago)
