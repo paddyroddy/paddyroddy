@@ -15,29 +15,29 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 days ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (today)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (today)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (today)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (3 days ago)
-- [florencejt/fusilli](https://github.com/florencejt/fusilli) - A Python package housing a collection of deep-learning multi-modal data fusion method pipelines! From data loading, to training, to evaluation - fusilli&#39;s got you covered 🌸
-  (3 days ago)
-- [SciKit-Surgery/cmicHACKS2](https://github.com/SciKit-Surgery/cmicHACKS2) - :school_satchel: &gt; 🔩 Hacking Real-time AI workflows for Surgery 🔧
-  (3 days ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 days ago)
+  (today)
 
 #### 🔨 My Recent Pull Requests
 
-- [Combine `paddyroddy/.github` updates together](https://github.com/paddyroddy/.github/pull/121) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 days ago)
-- [Remove `docs-directory` setting](https://github.com/paddyroddy/.github/pull/120) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
-- [`outputs` not `output`!](https://github.com/paddyroddy/.github/pull/119) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
-- [Add `BUNDLE_GEMFILE` variable](https://github.com/paddyroddy/adr-tree-surgery-website/pull/38) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (3 days ago)
-- [Use same step in `publish_dir`](https://github.com/paddyroddy/.github/pull/118) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
+- [Change to `--dereference-recursive`](https://github.com/paddyroddy/dotfiles/pull/18) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
+- [Remove descriptions](https://github.com/paddyroddy/dotfiles/pull/17) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
+- [Add script to sort within `Brewfile` section](https://github.com/paddyroddy/dotfiles/pull/16) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
+- [Add `talks.html`](https://github.com/paddyroddy/paddyroddy.github.io/pull/51) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (today)
+- [Tidy up `Brewfile`](https://github.com/paddyroddy/dotfiles/pull/15) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
 
 #### ⭐ Recent Stars
 
