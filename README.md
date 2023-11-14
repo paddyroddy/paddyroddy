@@ -16,38 +16,38 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (today)
+  (1 day ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (today)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (today)
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (today)
+  (1 day ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (today)
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Change to `--dereference-recursive`](https://github.com/paddyroddy/dotfiles/pull/18) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
-- [Remove descriptions](https://github.com/paddyroddy/dotfiles/pull/17) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
-- [Add script to sort within `Brewfile` section](https://github.com/paddyroddy/dotfiles/pull/16) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
-- [Add `talks.html`](https://github.com/paddyroddy/paddyroddy.github.io/pull/51) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (today)
-- [Tidy up `Brewfile`](https://github.com/paddyroddy/dotfiles/pull/15) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
+- [Fix 404](https://github.com/paddyroddy/talks/pull/8) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Add 404](https://github.com/paddyroddy/talks/pull/7) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Add `favicon`](https://github.com/paddyroddy/talks/pull/6) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Add automation slides](https://github.com/paddyroddy/talks/pull/5) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Add initial setup for website](https://github.com/paddyroddy/talks/pull/2) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
+  (1 day ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-  (4 days ago)
+  (5 days ago)
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-  (6 days ago)
+  (1 week ago)
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
   (1 week ago)
 - [rgaiacs/swc-shell-split-window](https://github.com/rgaiacs/swc-shell-split-window) - Script to split the shell using tmux
-  (1 week ago)
-- [developStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
   (1 week ago)
