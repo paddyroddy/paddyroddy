@@ -15,36 +15,36 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (1 day ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new ARC projects
   (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (2 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Fix 404](https://github.com/paddyroddy/talks/pull/8) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [Add `yamllint` `pre-commit` hook](https://github.com/paddyroddy/.github/pull/123) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Add 404](https://github.com/paddyroddy/talks/pull/7) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [Fix `site-url` &amp; add `repo-url`](https://github.com/paddyroddy/talks/pull/14) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
-- [Add `favicon`](https://github.com/paddyroddy/talks/pull/6) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [Reuse `title` metadata in `footer`](https://github.com/paddyroddy/talks/pull/13) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
-- [Add automation slides](https://github.com/paddyroddy/talks/pull/5) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [Add `google-analytics`](https://github.com/paddyroddy/talks/pull/12) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
-- [Add initial setup for website](https://github.com/paddyroddy/talks/pull/2) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [Renovate the templates workflows](https://github.com/UCL-ARC/python-tooling/pull/226) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
-  (1 day ago)
+  (2 days ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-  (5 days ago)
+  (6 days ago)
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
   (1 week ago)
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
