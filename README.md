@@ -15,28 +15,28 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new ARC projects
-  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (today)
+- [florencejt/fusilli](https://github.com/florencejt/fusilli) - A Python package housing a collection of deep-learning multi-modal data fusion method pipelines! From data loading, to training, to evaluation - fusilli&#39;s got you covered 🌸
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new ARC projects
   (1 day ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (2 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add dynamic versioning](https://github.com/florencejt/fusilli/pull/11) on [florencejt/fusilli](https://github.com/florencejt/fusilli)
+  (today)
+- [Packages shouldn&#39;t have undescores](https://github.com/florencejt/fusilli/pull/10) on [florencejt/fusilli](https://github.com/florencejt/fusilli)
+  (today)
+- [Relax pinning versions](https://github.com/florencejt/fusilli/pull/9) on [florencejt/fusilli](https://github.com/florencejt/fusilli)
+  (today)
+- [Fix imports &amp; fix bug in `model_chooser`](https://github.com/florencejt/fusilli/pull/8) on [florencejt/fusilli](https://github.com/florencejt/fusilli)
+  (today)
 - [Add `yamllint` `pre-commit` hook](https://github.com/paddyroddy/.github/pull/123) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
-- [Fix `site-url` &amp; add `repo-url`](https://github.com/paddyroddy/talks/pull/14) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
-- [Reuse `title` metadata in `footer`](https://github.com/paddyroddy/talks/pull/13) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
-- [Add `google-analytics`](https://github.com/paddyroddy/talks/pull/12) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
-- [Renovate the templates workflows](https://github.com/UCL-ARC/python-tooling/pull/226) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
   (1 day ago)
 
 #### ⭐ Recent Stars
