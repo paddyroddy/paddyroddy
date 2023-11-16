@@ -17,17 +17,19 @@ Centre, UCL.
 
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (today)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (today)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (today)
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add `--no-build-isolation` flag](https://github.com/paddyroddy/.github/pull/129) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
 - [Simplify TOML due to `twine check dist/*`](https://github.com/paddyroddy/python-template/pull/124) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (today)
 - [Create separate `[project]` blocks](https://github.com/astro-informatics/sleplet/pull/311) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
@@ -36,8 +38,6 @@ Centre, UCL.
   (today)
 - [Bump](https://github.com/astro-informatics/sleplet/pull/310) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (today)
-- [Remove `twine check` step](https://github.com/paddyroddy/.github/pull/128) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
 
 #### ⭐ Recent Stars
 
