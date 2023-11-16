@@ -19,35 +19,35 @@ Centre, UCL.
   (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (today)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (today)
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add `--no-build-isolation` flag](https://github.com/paddyroddy/.github/pull/129) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Make `mypy` strict](https://github.com/paddyroddy/python-template/pull/126) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (today)
-- [Simplify TOML due to `twine check dist/*`](https://github.com/paddyroddy/python-template/pull/124) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+- [Make `mypy` strict](https://github.com/astro-informatics/sleplet/pull/313) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (today)
-- [Create separate `[project]` blocks](https://github.com/astro-informatics/sleplet/pull/311) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Correct docs use of `--scripts-are-modules`](https://github.com/pre-commit/mirrors-mypy/pull/90) on [pre-commit/mirrors-mypy](https://github.com/pre-commit/mirrors-mypy)
   (today)
-- [Remove unnecessary tokens](https://github.com/paddyroddy/python-template/pull/123) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+- [Add `pre-commit` to `dev` dependencies](https://github.com/astro-informatics/sleplet/pull/312) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (today)
-- [Bump](https://github.com/astro-informatics/sleplet/pull/310) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Assign @samcunliffe](https://github.com/samcunliffe/samcunliffe.github.io/pull/2) on [samcunliffe/samcunliffe.github.io](https://github.com/samcunliffe/samcunliffe.github.io)
   (today)
 
 #### ⭐ Recent Stars
 
-- [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI: https://github.com/marketplace/actions/pypi-publish
-  (1 day ago)
-- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
-  (3 days ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-  (1 week ago)
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-  (1 week ago)
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
-  (1 week ago)
+- [paddyroddy/sleplet](https://github.com/paddyroddy/sleplet) - Slepian scale-discretised wavelets in Python
+  (today)
+- [paddyroddy/github-readme-stats](https://github.com/paddyroddy/github-readme-stats) - Dynamically generated stats for the GitHub README
+  (today)
+- [paddyroddy/tmux](https://github.com/paddyroddy/tmux) - 🇫🇷 Oh My Tmux! My pretty &#43; versatile tmux configuration that just works (imho the best tmux configuration)
+  (today)
+- [paddyroddy/swc-shell-split-window](https://github.com/paddyroddy/swc-shell-split-window) - Script to split the shell using tmux
+  (today)
+- [paddyroddy/advent-of-code](https://github.com/paddyroddy/advent-of-code) - A few advent of code examples to discuss with colleagues
+  (today)
