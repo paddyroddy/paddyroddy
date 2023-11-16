@@ -28,6 +28,8 @@ Centre, UCL.
 
 #### 🔨 My Recent Pull Requests
 
+- [Add some more general `pre-commit-hooks`](https://github.com/paddyroddy/.github/pull/130) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
 - [Make `mypy` strict](https://github.com/paddyroddy/python-template/pull/126) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (today)
 - [Make `mypy` strict](https://github.com/astro-informatics/sleplet/pull/313) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
@@ -35,8 +37,6 @@ Centre, UCL.
 - [Correct docs use of `--scripts-are-modules`](https://github.com/pre-commit/mirrors-mypy/pull/90) on [pre-commit/mirrors-mypy](https://github.com/pre-commit/mirrors-mypy)
   (today)
 - [Add `pre-commit` to `dev` dependencies](https://github.com/astro-informatics/sleplet/pull/312) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (today)
-- [Assign @samcunliffe](https://github.com/samcunliffe/samcunliffe.github.io/pull/2) on [samcunliffe/samcunliffe.github.io](https://github.com/samcunliffe/samcunliffe.github.io)
   (today)
 
 #### ⭐ Recent Stars
