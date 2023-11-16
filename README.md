@@ -15,39 +15,39 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (today)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (today)
-- [florencejt/fusilli](https://github.com/florencejt/fusilli) - A Python package housing a collection of deep-learning multi-modal data fusion method pipelines! From data loading, to training, to evaluation - fusilli&#39;s got you covered 🌸
-  (today)
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new ARC projects
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add dynamic versioning](https://github.com/florencejt/fusilli/pull/11) on [florencejt/fusilli](https://github.com/florencejt/fusilli)
+- [Simplify TOML due to `twine check dist/*`](https://github.com/paddyroddy/python-template/pull/124) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (today)
-- [Packages shouldn&#39;t have undescores](https://github.com/florencejt/fusilli/pull/10) on [florencejt/fusilli](https://github.com/florencejt/fusilli)
+- [Create separate `[project]` blocks](https://github.com/astro-informatics/sleplet/pull/311) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (today)
-- [Relax pinning versions](https://github.com/florencejt/fusilli/pull/9) on [florencejt/fusilli](https://github.com/florencejt/fusilli)
+- [Remove unnecessary tokens](https://github.com/paddyroddy/python-template/pull/123) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (today)
-- [Fix imports &amp; fix bug in `model_chooser`](https://github.com/florencejt/fusilli/pull/8) on [florencejt/fusilli](https://github.com/florencejt/fusilli)
+- [Bump](https://github.com/astro-informatics/sleplet/pull/310) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (today)
-- [Add `yamllint` `pre-commit` hook](https://github.com/paddyroddy/.github/pull/123) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Remove `twine check` step](https://github.com/paddyroddy/.github/pull/128) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI: https://github.com/marketplace/actions/pypi-publish
+  (1 day ago)
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
-  (2 days ago)
+  (3 days ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-  (6 days ago)
+  (1 week ago)
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
   (1 week ago)
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
-  (1 week ago)
-- [rgaiacs/swc-shell-split-window](https://github.com/rgaiacs/swc-shell-split-window) - Script to split the shell using tmux
   (1 week ago)
