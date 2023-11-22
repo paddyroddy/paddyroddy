@@ -16,38 +16,38 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (today)
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (today)
+  (1 day ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (today)
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (today)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (today)
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Allow `tex` files to have tabs](https://github.com/paddyroddy/.github/pull/146) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
-- [Use new `pre-commit` badge](https://github.com/paddyroddy/python-template/pull/132) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (today)
-- [Use new `pre-commit` badge](https://github.com/astro-informatics/sleplet/pull/321) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (today)
-- [Use default `args`](https://github.com/paddyroddy/.github/pull/145) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Add `CODE_OF_CONDUCT`](https://github.com/astro-informatics/sleplet/pull/327) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
-- [Make `document-start` mandatory](https://github.com/paddyroddy/.github/pull/144) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Add `CODE_OF_CONDUCT`](https://github.com/paddyroddy/python-template/pull/138) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (1 day ago)
+- [Create CODE_OF_CONDUCT.md](https://github.com/paddyroddy/.github/pull/160) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Fix badge](https://github.com/paddyroddy/python-template/pull/137) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (1 day ago)
+- [Fix badge](https://github.com/paddyroddy/.github/pull/159) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
+  (today)
+- [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
+  (1 day ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-  (1 day ago)
+  (2 days ago)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-  (1 day ago)
+  (2 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-  (1 day ago)
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-  (1 day ago)
-- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
-  (4 days ago)
+  (2 days ago)
