@@ -1,4 +1,6 @@
-### 👋 Hello
+
+
+### 👋 Hello 
 
 I'm Paddy, a Research Software Developer at the Advanced Research Computing
 Centre, UCL.
@@ -15,7 +17,7 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
   (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
@@ -23,31 +25,31 @@ Centre, UCL.
   (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
   (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add `CODE_OF_CONDUCT`](https://github.com/astro-informatics/sleplet/pull/327) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Add &amp; fix linting](https://github.com/paddyroddy/dotfiles/pull/24) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
-- [Add `CODE_OF_CONDUCT`](https://github.com/paddyroddy/python-template/pull/138) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+- [Add `--external-sources` flag](https://github.com/paddyroddy/.github/pull/172) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Create CODE_OF_CONDUCT.md](https://github.com/paddyroddy/.github/pull/160) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Use major tag for `anothrNick/github-tag-action`](https://github.com/paddyroddy/.github/pull/171) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Fix badge](https://github.com/paddyroddy/python-template/pull/137) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+- [Loose versioning for `AleksaC/hadolint-py`](https://github.com/paddyroddy/.github/pull/170) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Fix badge](https://github.com/paddyroddy/.github/pull/159) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Specify `bash` shell](https://github.com/paddyroddy/.github/pull/169) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
-  (today)
-- [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
   (1 day ago)
+- [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
+  (2 days ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-  (2 days ago)
+  (3 days ago)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-  (2 days ago)
+  (3 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-  (2 days ago)
+  (3 days ago)
