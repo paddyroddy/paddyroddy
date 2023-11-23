@@ -23,6 +23,7 @@ jobs:
           | wc -l) >> $GITHUB_OUTPUT
 
       - name: Autogenerate README
+        if: ${{ steps.commit-count.outputs.count == 0 }}
         # yamllint disable-line rule:line-length
         uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
         env:
