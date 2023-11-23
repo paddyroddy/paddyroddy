@@ -1,6 +1,4 @@
-
-
-### 👋 Hello 
+### 👋 Hello
 
 I'm Paddy, a Research Software Developer at the Advanced Research Computing
 Centre, UCL.
