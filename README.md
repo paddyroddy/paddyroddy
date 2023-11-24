@@ -15,39 +15,39 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add &amp; fix linting](https://github.com/paddyroddy/dotfiles/pull/24) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [Remove `hadolint` (for now)](https://github.com/paddyroddy/.github/pull/176) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Add `--external-sources` flag](https://github.com/paddyroddy/.github/pull/172) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Change to monthly schedule for all](https://github.com/paddyroddy/.github/pull/175) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Use major tag for `anothrNick/github-tag-action`](https://github.com/paddyroddy/.github/pull/171) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Add fake job to skip](https://github.com/astro-informatics/sleplet/pull/334) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
-- [Loose versioning for `AleksaC/hadolint-py`](https://github.com/paddyroddy/.github/pull/170) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Sort with vim](https://github.com/paddyroddy/.github/pull/174) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Specify `bash` shell](https://github.com/paddyroddy/.github/pull/169) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Add short intro to documentation](https://github.com/astro-informatics/sleplet/pull/333) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
-  (1 day ago)
-- [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
   (2 days ago)
+- [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
+  (3 days ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-  (3 days ago)
+  (4 days ago)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-  (3 days ago)
+  (4 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-  (3 days ago)
+  (4 days ago)
