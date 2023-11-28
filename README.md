@@ -16,35 +16,35 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (3 days ago)
+  (4 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (4 days ago)
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Simplify disabling `markdownlint`](https://github.com/astro-informatics/sleplet/pull/338) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (3 days ago)
+  (4 days ago)
 - [Don&#39;t make alternatives mandatory](https://github.com/astro-informatics/sleplet/pull/337) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (3 days ago)
+  (4 days ago)
 - [Don&#39;t make alternatives mandatory](https://github.com/paddyroddy/python-template/pull/142) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (3 days ago)
+  (4 days ago)
 - [Don&#39;t make alternatives mandatory](https://github.com/paddyroddy/.github/pull/178) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
+  (4 days ago)
 - [Avoid downloading data on initial import](https://github.com/astro-informatics/sleplet/pull/336) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (3 days ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
-  (5 days ago)
-- [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
   (6 days ago)
+- [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
+  (1 week ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
   (1 week ago)
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
