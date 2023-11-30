@@ -16,28 +16,28 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (5 days ago)
+  (6 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Fix config](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/7) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (1 day ago)
+  (2 days ago)
 - [Add `tuna` to `dev` dependencies](https://github.com/paddyroddy/python-template/pull/143) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (1 day ago)
+  (2 days ago)
 - [Add decorator function to speed up import](https://github.com/astro-informatics/sleplet/pull/339) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 - [Simplify disabling `markdownlint`](https://github.com/astro-informatics/sleplet/pull/338) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (5 days ago)
+  (6 days ago)
 - [Don&#39;t make alternatives mandatory](https://github.com/astro-informatics/sleplet/pull/337) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
