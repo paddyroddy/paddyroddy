@@ -16,11 +16,11 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (4 days ago)
+  (5 days ago)
 - [UCL-MIRSG/admin](https://github.com/UCL-MIRSG/admin) - Required for the github/safe-settings app
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
@@ -29,7 +29,7 @@ Centre, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [Update marathon PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/65) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (6 days ago)
+  (1 week ago)
 - [Remove `noUnscheduledUpdates`](https://github.com/paddyroddy/.github/pull/182) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 week ago)
 - [Automerge on weekdays](https://github.com/paddyroddy/.github/pull/181) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
@@ -37,17 +37,17 @@ Centre, UCL.
 - [Remove hourly PR limit](https://github.com/paddyroddy/.github/pull/180) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 week ago)
 - [Fix config](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/7) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (1 week ago)
+  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
-  (5 days ago)
-- [UCLH-DHCT/internal_emap_documentation](https://github.com/UCLH-DHCT/internal_emap_documentation)
   (6 days ago)
+- [UCLH-DHCT/internal_emap_documentation](https://github.com/UCLH-DHCT/internal_emap_documentation)
+  (1 week ago)
 - [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
   (2 weeks ago)
 - [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
-  (2 weeks ago)
+  (3 weeks ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
   (3 weeks ago)
