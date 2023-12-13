@@ -16,7 +16,7 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (5 days ago)
+  (6 days ago)
 - [UCL-MIRSG/admin](https://github.com/UCL-MIRSG/admin) - Required for the github/safe-settings app
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
@@ -42,11 +42,11 @@ Centre, UCL.
 #### ⭐ Recent Stars
 
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
-  (6 days ago)
+  (1 week ago)
 - [UCLH-DHCT/internal_emap_documentation](https://github.com/UCLH-DHCT/internal_emap_documentation)
   (1 week ago)
 - [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
-  (2 weeks ago)
+  (3 weeks ago)
 - [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
   (3 weeks ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
