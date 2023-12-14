@@ -15,15 +15,15 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [brainglobe/brainglobe-workflows](https://github.com/brainglobe/brainglobe-workflows) - Workflows that utilise BrainGlobe tools to perform data analysis and visualisation.
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (6 days ago)
-- [UCL-MIRSG/admin](https://github.com/UCL-MIRSG/admin) - Required for the github/safe-settings app
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 week ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+- [UCL-MIRSG/admin](https://github.com/UCL-MIRSG/admin) - Required for the github/safe-settings app
   (1 week ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
