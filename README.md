@@ -15,29 +15,29 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (3 days ago)
+- [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat) - An Ansible Collection to install and configure XNAT
+  (3 days ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (3 days ago)
 - [brainglobe/brainglobe-workflows](https://github.com/brainglobe/brainglobe-workflows) - Workflows that utilise BrainGlobe tools to perform data analysis and visualisation.
-  (2 days ago)
+  (5 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 week ago)
-- [UCL-MIRSG/admin](https://github.com/UCL-MIRSG/admin) - Required for the github/safe-settings app
-  (1 week ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Update marathon PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/65) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 week ago)
-- [Remove `noUnscheduledUpdates`](https://github.com/paddyroddy/.github/pull/182) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 weeks ago)
-- [Automerge on weekdays](https://github.com/paddyroddy/.github/pull/181) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 weeks ago)
-- [Remove hourly PR limit](https://github.com/paddyroddy/.github/pull/180) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 weeks ago)
-- [Fix config](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/7) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (2 weeks ago)
+- [Remove author field](https://github.com/paddyroddy/talks/pull/21) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (3 days ago)
+- [Fix collection install](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/23) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
+  (3 days ago)
+- [Fix collection install](https://github.com/UCL-MIRSG/ansible-collection-xnat/pull/9) on [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat)
+  (3 days ago)
+- [Fix bug introduced in #7](https://github.com/UCL-MIRSG/ansible-collection-xnat/pull/8) on [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat)
+  (3 days ago)
+- [Make `postgresql` `RPM` link OS generic](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/22) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
@@ -50,4 +50,4 @@ Centre, UCL.
 - [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
   (3 weeks ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-  (3 weeks ago)
+  (4 weeks ago)
