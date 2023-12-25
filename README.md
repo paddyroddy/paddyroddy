@@ -16,10 +16,10 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new ARC projects
-  (3 days ago)
-- [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat) - An Ansible Collection to install and configure XNAT
-  (1 week ago)
+  (6 days ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (1 week ago)
+- [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat) - An Ansible Collection to install and configure XNAT
   (1 week ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 week ago)
