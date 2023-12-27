@@ -24,7 +24,7 @@ Centre, UCL.
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 week ago)
 - [brainglobe/brainglobe-workflows](https://github.com/brainglobe/brainglobe-workflows) - Workflows that utilise BrainGlobe tools to perform data analysis and visualisation.
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
@@ -42,7 +42,7 @@ Centre, UCL.
 #### ⭐ Recent Stars
 
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
-  (2 weeks ago)
+  (3 weeks ago)
 - [UCLH-DHCT/internal_emap_documentation](https://github.com/UCLH-DHCT/internal_emap_documentation)
   (3 weeks ago)
 - [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
