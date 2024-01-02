@@ -15,15 +15,15 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (4 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new ARC projects
-  (1 week ago)
+  (2 weeks ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (2 weeks ago)
 - [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat) - An Ansible Collection to install and configure XNAT
   (2 weeks ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 weeks ago)
-- [brainglobe/brainglobe-workflows](https://github.com/brainglobe/brainglobe-workflows) - Workflows that utilise BrainGlobe tools to perform data analysis and visualisation.
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
@@ -44,7 +44,7 @@ Centre, UCL.
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
   (3 weeks ago)
 - [UCLH-DHCT/internal_emap_documentation](https://github.com/UCLH-DHCT/internal_emap_documentation)
-  (3 weeks ago)
+  (4 weeks ago)
 - [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
   (1 month ago)
 - [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
