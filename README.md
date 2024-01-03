@@ -15,34 +15,34 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (4 days ago)
+  (5 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new ARC projects
-  (2 weeks ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (2 weeks ago)
-- [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat) - An Ansible Collection to install and configure XNAT
-  (2 weeks ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update year](https://github.com/paddyroddy/.github/pull/186) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Update year](https://github.com/paddyroddy/latex-template/pull/38) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+  (1 day ago)
+- [Add `auto` flag](https://github.com/paddyroddy/.github/pull/185) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Group artefact related updates together](https://github.com/paddyroddy/.github/pull/184) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 - [Remove author field](https://github.com/paddyroddy/talks/pull/21) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (2 weeks ago)
-- [Fix collection install](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/23) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (2 weeks ago)
-- [Fix collection install](https://github.com/UCL-MIRSG/ansible-collection-xnat/pull/9) on [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat)
-  (2 weeks ago)
-- [Fix bug introduced in #7](https://github.com/UCL-MIRSG/ansible-collection-xnat/pull/8) on [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat)
-  (2 weeks ago)
-- [Make `postgresql` `RPM` link OS generic](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/22) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
   (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
-  (3 weeks ago)
+  (4 weeks ago)
 - [UCLH-DHCT/internal_emap_documentation](https://github.com/UCLH-DHCT/internal_emap_documentation)
   (4 weeks ago)
 - [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
