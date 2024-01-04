@@ -16,26 +16,26 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (5 days ago)
+  (6 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new ARC projects
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Update year](https://github.com/paddyroddy/.github/pull/186) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 - [Update year](https://github.com/paddyroddy/latex-template/pull/38) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
-  (1 day ago)
+  (2 days ago)
 - [Add `auto` flag](https://github.com/paddyroddy/.github/pull/185) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 - [Group artefact related updates together](https://github.com/paddyroddy/.github/pull/184) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 - [Remove author field](https://github.com/paddyroddy/talks/pull/21) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (2 weeks ago)
 
@@ -44,7 +44,7 @@ Centre, UCL.
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
   (4 weeks ago)
 - [UCLH-DHCT/internal_emap_documentation](https://github.com/UCLH-DHCT/internal_emap_documentation)
-  (4 weeks ago)
+  (1 month ago)
 - [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
   (1 month ago)
 - [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
