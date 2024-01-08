@@ -15,29 +15,29 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+- [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat) - An Ansible Collection to install and configure XNAT
+  (3 days ago)
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (3 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
+  (6 days ago)
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+  (6 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 week ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new ARC projects
-  (2 weeks ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Handle both intel &amp; ARM RPM key](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/34) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (1 day ago)
+  (4 days ago)
 - [Handle both intel &amp; ARM RPM key](https://github.com/UCL-MIRSG/ansible-collection-xnat/pull/18) on [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat)
-  (1 day ago)
+  (4 days ago)
 - [Update year](https://github.com/paddyroddy/.github/pull/186) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
+  (6 days ago)
 - [Update year](https://github.com/paddyroddy/latex-template/pull/38) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
-  (3 days ago)
+  (6 days ago)
 - [Add `auto` flag](https://github.com/paddyroddy/.github/pull/185) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
