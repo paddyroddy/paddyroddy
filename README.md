@@ -15,29 +15,29 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat) - An Ansible Collection to install and configure XNAT
-  (3 days ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (3 days ago)
+  (4 days ago)
+- [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat) - An Ansible Collection to install and configure XNAT
+  (4 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (6 days ago)
+  (1 week ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Try the official `rocky` image](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/40) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
+  (1 day ago)
 - [Handle both intel &amp; ARM RPM key](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/34) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (4 days ago)
+  (5 days ago)
 - [Handle both intel &amp; ARM RPM key](https://github.com/UCL-MIRSG/ansible-collection-xnat/pull/18) on [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat)
-  (4 days ago)
+  (5 days ago)
 - [Update year](https://github.com/paddyroddy/.github/pull/186) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (6 days ago)
+  (1 week ago)
 - [Update year](https://github.com/paddyroddy/latex-template/pull/38) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
-  (6 days ago)
-- [Add `auto` flag](https://github.com/paddyroddy/.github/pull/185) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (6 days ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
