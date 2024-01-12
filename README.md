@@ -16,24 +16,24 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat) - An Ansible Collection to install and configure XNAT
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Fix deployment](https://github.com/paddyroddy/adr-tree-surgery-website/pull/53) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 day ago)
+  (2 days ago)
 - [Fix deployment](https://github.com/paddyroddy/paddyroddy.github.io/pull/66) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
+  (2 days ago)
 - [Try the official `rocky` image](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/40) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (3 days ago)
+  (4 days ago)
 - [Handle both intel &amp; ARM RPM key](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/34) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
   (1 week ago)
 - [Handle both intel &amp; ARM RPM key](https://github.com/UCL-MIRSG/ansible-collection-xnat/pull/18) on [UCL-MIRSG/ansible-collection-xnat](https://github.com/UCL-MIRSG/ansible-collection-xnat)
