@@ -16,7 +16,7 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new ARC projects
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
@@ -28,21 +28,21 @@ Centre, UCL.
 
 #### 🔨 My Recent Pull Requests
 
+- [Switch to official Rocky image](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/61) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
+  (1 day ago)
 - [Remove @sfmig from the fun](https://github.com/UCL-ARC/python-tooling/pull/243) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (3 days ago)
-- [Make `firewalld` not block connections on both VMs](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/60) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
   (4 days ago)
+- [Make `firewalld` not block connections on both VMs](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/60) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
+  (5 days ago)
 - [Switch one more `if, elif` to `match case`](https://github.com/astro-informatics/sleplet/pull/346) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 week ago)
 - [Allow for any server name](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/44) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (1 week ago)
-- [Fix deployment](https://github.com/paddyroddy/adr-tree-surgery-website/pull/53) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
-  (3 days ago)
+  (4 days ago)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
   (1 month ago)
 - [UCLH-DHCT/internal_emap_documentation](https://github.com/UCLH-DHCT/internal_emap_documentation)
