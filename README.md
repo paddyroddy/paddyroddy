@@ -15,38 +15,38 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 day ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
   (1 day ago)
-- [UCL-RITS/.github](https://github.com/UCL-RITS/.github) - Default files for all repositories
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (2 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 week ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Expand `pre-commit` hooks](https://github.com/UCL-ARC/.github/pull/10) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (1 day ago)
+- [Add `yamllint` to hooks](https://github.com/UCL-MIRSG/.github/pull/88) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [YAML wrapping](https://github.com/astro-informatics/sleplet/pull/347) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
 - [Consistency in LICENSE file extension in template](https://github.com/UCL-ARC/python-tooling/pull/289) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
+  (2 days ago)
 - [Fix linting the template check](https://github.com/UCL-ARC/python-tooling/pull/287) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
-- [Fix issue template bug report number](https://github.com/UCL-ARC/python-tooling/pull/286) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
-- [Delete IDE table](https://github.com/UCL-ARC/python-tooling/pull/285) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
-- [Add `importlib` to `pytest`](https://github.com/UCL-ARC/python-tooling/pull/284) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [instant-markdown/vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from Vim
-  (1 day ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (2 days ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (3 days ago)
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
-  (6 days ago)
+  (1 week ago)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
   (1 month ago)
 - [UCLH-DHCT/internal_emap_documentation](https://github.com/UCLH-DHCT/internal_emap_documentation)
