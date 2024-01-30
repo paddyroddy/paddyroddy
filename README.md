@@ -16,38 +16,38 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (3 days ago)
+  (4 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (4 days ago)
+  (5 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (5 days ago)
+  (6 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (5 days ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Fix issue template bug](https://github.com/UCL-ARC/.github/pull/12) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (3 days ago)
+  (4 days ago)
 - [Expand `pre-commit` hooks](https://github.com/UCL-ARC/.github/pull/10) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (4 days ago)
-- [Add `yamllint` to hooks](https://github.com/UCL-MIRSG/.github/pull/88) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (4 days ago)
-- [YAML wrapping](https://github.com/astro-informatics/sleplet/pull/347) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (4 days ago)
-- [Consistency in LICENSE file extension in template](https://github.com/UCL-ARC/python-tooling/pull/289) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
   (5 days ago)
+- [Add `yamllint` to hooks](https://github.com/UCL-MIRSG/.github/pull/88) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (5 days ago)
+- [YAML wrapping](https://github.com/astro-informatics/sleplet/pull/347) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (5 days ago)
+- [Consistency in LICENSE file extension in template](https://github.com/UCL-ARC/python-tooling/pull/289) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
+- [uBlockOrigin/uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues) - This is the community-maintained issue tracker for uBlock Origin
+  (1 day ago)
 - [instant-markdown/vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from Vim
-  (5 days ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (6 days ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (1 week ago)
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
   (1 week ago)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
-  (1 month ago)
-- [UCLH-DHCT/internal_emap_documentation](https://github.com/UCLH-DHCT/internal_emap_documentation)
   (1 month ago)
