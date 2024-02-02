@@ -15,39 +15,39 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (2 days ago)
-- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (6 days ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 week ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 week ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
+  (1 day ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (1 day ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Fix deployment](https://github.com/paddyroddy/adr-tree-surgery-website/pull/55) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (1 day ago)
+- [Remove `noUnscheduledUpdates`](https://github.com/paddyroddy/.github/pull/189) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Disable `gradle` &amp; `maven`](https://github.com/UCL-MIRSG/.github/pull/92) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Fix deployment](https://github.com/paddyroddy/paddyroddy.github.io/pull/68) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
 - [Fix issue template bug](https://github.com/UCL-ARC/.github/pull/12) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (6 days ago)
-- [Expand `pre-commit` hooks](https://github.com/UCL-ARC/.github/pull/10) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (1 week ago)
-- [Add `yamllint` to hooks](https://github.com/UCL-MIRSG/.github/pull/88) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
-- [YAML wrapping](https://github.com/astro-informatics/sleplet/pull/347) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 week ago)
-- [Consistency in LICENSE file extension in template](https://github.com/UCL-ARC/python-tooling/pull/289) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [fjogeleit/http-request-action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions
-  (1 day ago)
+  (2 days ago)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
-  (1 day ago)
+  (2 days ago)
 - [Jtalk/url-health-check-action](https://github.com/Jtalk/url-health-check-action) - A cURL-based health check with build-in retry 
-  (1 day ago)
+  (2 days ago)
 - [uBlockOrigin/uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues) - This is the community-maintained issue tracker for uBlock Origin
-  (3 days ago)
+  (4 days ago)
 - [instant-markdown/vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from Vim
   (1 week ago)
