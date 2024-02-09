@@ -15,28 +15,28 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 days ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (2 days ago)
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (3 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
+  (3 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (2 days ago)
+  (3 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (2 days ago)
+  (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Pin docker versions](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/67) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
+  (1 day ago)
 - [Include `cp312`, and don&#39;t pin `cibuildwheels`](https://github.com/libigl/libigl-python-bindings/pull/222) on [libigl/libigl-python-bindings](https://github.com/libigl/libigl-python-bindings)
-  (2 days ago)
+  (3 days ago)
 - [Disable `D204`](https://github.com/paddyroddy/.github/pull/191) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 days ago)
+  (3 days ago)
 - [Fix deployment](https://github.com/paddyroddy/adr-tree-surgery-website/pull/55) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
   (1 week ago)
 - [Remove `noUnscheduledUpdates`](https://github.com/paddyroddy/.github/pull/189) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
-- [Disable `gradle` &amp; `maven`](https://github.com/UCL-MIRSG/.github/pull/92) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 week ago)
 
 #### ⭐ Recent Stars
