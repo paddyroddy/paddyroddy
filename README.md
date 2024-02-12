@@ -15,29 +15,29 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [libigl/libigl-python-bindings](https://github.com/libigl/libigl-python-bindings) - libigl python bindings
+  (3 days ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (1 day ago)
+  (4 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
+  (6 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (3 days ago)
+  (6 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 days ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Specify `python-version`](https://github.com/libigl/libigl-python-bindings/pull/224) on [libigl/libigl-python-bindings](https://github.com/libigl/libigl-python-bindings)
+  (3 days ago)
+- [Fix wheel building for `3.12`](https://github.com/libigl/libigl-python-bindings/pull/223) on [libigl/libigl-python-bindings](https://github.com/libigl/libigl-python-bindings)
+  (3 days ago)
 - [Pin docker versions](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/67) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (1 day ago)
+  (4 days ago)
 - [Include `cp312`, and don&#39;t pin `cibuildwheels`](https://github.com/libigl/libigl-python-bindings/pull/222) on [libigl/libigl-python-bindings](https://github.com/libigl/libigl-python-bindings)
-  (3 days ago)
+  (6 days ago)
 - [Disable `D204`](https://github.com/paddyroddy/.github/pull/191) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
-- [Fix deployment](https://github.com/paddyroddy/adr-tree-surgery-website/pull/55) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 week ago)
-- [Remove `noUnscheduledUpdates`](https://github.com/paddyroddy/.github/pull/189) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
@@ -48,6 +48,6 @@ Centre, UCL.
 - [Jtalk/url-health-check-action](https://github.com/Jtalk/url-health-check-action) - A cURL-based health check with build-in retry 
   (1 week ago)
 - [uBlockOrigin/uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues) - This is the community-maintained issue tracker for uBlock Origin
-  (1 week ago)
+  (2 weeks ago)
 - [instant-markdown/vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from Vim
   (2 weeks ago)
