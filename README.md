@@ -15,39 +15,39 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [libigl/libigl-python-bindings](https://github.com/libigl/libigl-python-bindings) - libigl python bindings
-  (4 days ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (5 days ago)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 week ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 week ago)
+  (1 day ago)
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+  (1 day ago)
+- [libigl/libigl-python-bindings](https://github.com/libigl/libigl-python-bindings) - libigl python bindings
+  (5 days ago)
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Specify `python-version`](https://github.com/libigl/libigl-python-bindings/pull/224) on [libigl/libigl-python-bindings](https://github.com/libigl/libigl-python-bindings)
-  (4 days ago)
-- [Fix wheel building for `3.12`](https://github.com/libigl/libigl-python-bindings/pull/223) on [libigl/libigl-python-bindings](https://github.com/libigl/libigl-python-bindings)
-  (4 days ago)
-- [Pin docker versions](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/67) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (5 days ago)
-- [Include `cp312`, and don&#39;t pin `cibuildwheels`](https://github.com/libigl/libigl-python-bindings/pull/222) on [libigl/libigl-python-bindings](https://github.com/libigl/libigl-python-bindings)
-  (1 week ago)
-- [Disable `D204`](https://github.com/paddyroddy/.github/pull/191) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
+- [Fix dropbox action](https://github.com/paddyroddy/phd-thesis/pull/37) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
+  (1 day ago)
+- [Fix dropbox action](https://github.com/paddyroddy/latex-template/pull/40) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+  (1 day ago)
+- [Don&#39;t checkout source](https://github.com/paddyroddy/.github/pull/194) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Add missing semicolon](https://github.com/paddyroddy/.github/pull/193) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Fix new line wrapping in YAML](https://github.com/paddyroddy/.github/pull/192) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [fjogeleit/http-request-action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions
-  (1 week ago)
+  (2 weeks ago)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
-  (1 week ago)
+  (2 weeks ago)
 - [Jtalk/url-health-check-action](https://github.com/Jtalk/url-health-check-action) - A cURL-based health check with build-in retry 
-  (1 week ago)
+  (2 weeks ago)
 - [uBlockOrigin/uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues) - This is the community-maintained issue tracker for uBlock Origin
   (2 weeks ago)
 - [instant-markdown/vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from Vim
-  (2 weeks ago)
+  (3 weeks ago)
