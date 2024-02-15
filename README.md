@@ -15,28 +15,28 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
 - [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (1 day ago)
-- [libigl/libigl-python-bindings](https://github.com/libigl/libigl-python-bindings) - libigl python bindings
-  (5 days ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (6 days ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Fix dropbox action](https://github.com/paddyroddy/phd-thesis/pull/37) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
+- [Restore ISC001](https://github.com/astro-informatics/sleplet/pull/353) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
-- [Fix dropbox action](https://github.com/paddyroddy/latex-template/pull/40) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+- [Add formatting conflicting rules](https://github.com/paddyroddy/python-template/pull/148) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (1 day ago)
-- [Don&#39;t checkout source](https://github.com/paddyroddy/.github/pull/194) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Restore `D203`](https://github.com/astro-informatics/sleplet/pull/352) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
-- [Add missing semicolon](https://github.com/paddyroddy/.github/pull/193) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Restore D203](https://github.com/paddyroddy/python-template/pull/147) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (1 day ago)
-- [Fix new line wrapping in YAML](https://github.com/paddyroddy/.github/pull/192) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Add `lint` prefix to `ruff` configuration](https://github.com/UCL-ARC/python-tooling/pull/303) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
   (1 day ago)
 
 #### ⭐ Recent Stars
