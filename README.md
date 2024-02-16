@@ -15,29 +15,29 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 day ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 day ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (2 days ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (2 days ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (2 days ago)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Bump `ruff`](https://github.com/astro-informatics/sleplet/pull/354) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
 - [Restore ISC001](https://github.com/astro-informatics/sleplet/pull/353) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 - [Add formatting conflicting rules](https://github.com/paddyroddy/python-template/pull/148) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (1 day ago)
+  (2 days ago)
 - [Restore `D203`](https://github.com/astro-informatics/sleplet/pull/352) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 - [Restore D203](https://github.com/paddyroddy/python-template/pull/147) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (1 day ago)
-- [Add `lint` prefix to `ruff` configuration](https://github.com/UCL-ARC/python-tooling/pull/303) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
