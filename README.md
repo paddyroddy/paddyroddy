@@ -15,39 +15,39 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+  (3 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (3 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (2 days ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (2 days ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (2 days ago)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (3 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (3 days ago)
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Bump `ruff`](https://github.com/astro-informatics/sleplet/pull/354) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
-- [Restore ISC001](https://github.com/astro-informatics/sleplet/pull/353) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (2 days ago)
-- [Add formatting conflicting rules](https://github.com/paddyroddy/python-template/pull/148) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (2 days ago)
-- [Restore `D203`](https://github.com/astro-informatics/sleplet/pull/352) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (2 days ago)
-- [Restore D203](https://github.com/paddyroddy/python-template/pull/147) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (2 days ago)
+- [Add more `yamllint`](https://github.com/UCL-MIRSG/.github/pull/96) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (3 days ago)
+- [Renovate: paddyroddy/.github to v0.136.0](https://github.com/paddyroddy/.github/pull/197) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (3 days ago)
+- [Bump hooks](https://github.com/paddyroddy/latex-template/pull/41) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+  (3 days ago)
+- [Bump hooks](https://github.com/paddyroddy/phd-thesis/pull/38) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
+  (3 days ago)
+- [Bump hooks](https://github.com/paddyroddy/paddyroddy.github.io/pull/69) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [fjogeleit/http-request-action](https://github.com/fjogeleit/http-request-action) - Create HTTP Requests in GitHub Actions
-  (2 weeks ago)
-- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
-  (2 weeks ago)
-- [Jtalk/url-health-check-action](https://github.com/Jtalk/url-health-check-action) - A cURL-based health check with build-in retry 
-  (2 weeks ago)
-- [uBlockOrigin/uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues) - This is the community-maintained issue tracker for uBlock Origin
-  (2 weeks ago)
-- [instant-markdown/vim-instant-markdown](https://github.com/instant-markdown/vim-instant-markdown) - Instant Markdown previews from Vim
-  (3 weeks ago)
+- [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv) - Use https://github.com/astral-sh/uv with tox
+  (3 days ago)
+- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
+  (3 days ago)
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
+  (3 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (3 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+  (3 days ago)
