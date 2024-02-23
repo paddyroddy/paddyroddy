@@ -16,38 +16,38 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (1 day ago)
+  (2 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (3 days ago)
+  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [add `xnat_site_url variable` for setting the `siteUrl` &amp; API endpoint](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/79) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (1 day ago)
+  (2 days ago)
 - [`xnat_web_server.url` should include the exposed port](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/78) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (1 day ago)
+  (2 days ago)
 - [Make `site_name` valid](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/77) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (1 day ago)
+  (2 days ago)
 - [Add `tox-uv` to dependencies](https://github.com/paddyroddy/python-template/pull/150) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (3 days ago)
+  (4 days ago)
 - [Test with `uv`](https://github.com/astro-informatics/sleplet/pull/356) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (3 days ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv) - Use https://github.com/astral-sh/uv with tox
-  (6 days ago)
+  (1 week ago)
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
-  (6 days ago)
+  (1 week ago)
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (6 days ago)
+  (1 week ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
-  (6 days ago)
+  (1 week ago)
