@@ -16,20 +16,20 @@ Centre, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+  (4 days ago)
 - [pydicom/pydicom](https://github.com/pydicom/pydicom) - Read, modify and write DICOM files with python code
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (1 week ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (1 week ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [[MRG] Specify import `dcmread`](https://github.com/pydicom/pydicom/pull/2018) on [pydicom/pydicom](https://github.com/pydicom/pydicom)
-  (6 days ago)
+  (1 week ago)
 - [add `xnat_site_url variable` for setting the `siteUrl` &amp; API endpoint](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/79) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
   (1 week ago)
 - [`xnat_web_server.url` should include the exposed port](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/78) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
@@ -42,12 +42,12 @@ Centre, UCL.
 #### ⭐ Recent Stars
 
 - [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv) - Use https://github.com/astral-sh/uv with tox
-  (1 week ago)
+  (2 weeks ago)
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
-  (1 week ago)
+  (2 weeks ago)
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
-  (1 week ago)
+  (2 weeks ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
+  (2 weeks ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
-  (1 week ago)
+  (2 weeks ago)
