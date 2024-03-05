@@ -15,19 +15,21 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (today)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [pydicom/pydicom](https://github.com/pydicom/pydicom) - Read, modify and write DICOM files with python code
   (1 week ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (1 week ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (2 weeks ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Fix `pre-commit`](https://github.com/paddyroddy/.github/pull/200) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
 - [[MRG] Specify import `dcmread`](https://github.com/pydicom/pydicom/pull/2018) on [pydicom/pydicom](https://github.com/pydicom/pydicom)
   (1 week ago)
 - [add `xnat_site_url variable` for setting the `siteUrl` &amp; API endpoint](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/79) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
@@ -36,8 +38,6 @@ Centre, UCL.
   (1 week ago)
 - [Make `site_name` valid](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/77) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
   (1 week ago)
-- [Add `tox-uv` to dependencies](https://github.com/paddyroddy/python-template/pull/150) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
