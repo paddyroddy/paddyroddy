@@ -42,7 +42,7 @@ Centre, UCL.
 #### ⭐ Recent Stars
 
 - [lejacobroy/aerials-downloader](https://github.com/lejacobroy/aerials-downloader) - Sonoma Aerials Downloader
-  (5 days ago)
+  (6 days ago)
 - [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv) - Use https://github.com/astral-sh/uv with tox
   (3 weeks ago)
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
