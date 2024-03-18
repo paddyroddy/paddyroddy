@@ -15,10 +15,10 @@ Centre, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 week ago)
+  (2 days ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (4 days ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 week ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
@@ -41,13 +41,13 @@ Centre, UCL.
 
 #### ⭐ Recent Stars
 
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+  (2 days ago)
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+  (3 days ago)
 - [lejacobroy/aerials-downloader](https://github.com/lejacobroy/aerials-downloader) - Sonoma Aerials Downloader
   (1 week ago)
 - [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv) - Use https://github.com/astral-sh/uv with tox
-  (4 weeks ago)
+  (1 month ago)
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
-  (4 weeks ago)
-- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
-  (4 weeks ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (4 weeks ago)
+  (1 month ago)
