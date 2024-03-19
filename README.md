@@ -1,6 +1,7 @@
 ### 👋 Hello
 
-I'm Paddy, a Research Software Developer at the Centre for Advanced Research Computing, UCL.
+I'm Paddy, a Research Software Developer at the Centre for Advanced Research
+Computing, UCL.
 
 [![Last Commit](https://img.shields.io/github/last-commit/paddyroddy/paddyroddy/main?label=updated)](https://github.com/paddyroddy)
 [![Website](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge&style=flat)](https://paddyroddy.github.io)
@@ -14,39 +15,39 @@ I'm Paddy, a Research Software Developer at the Centre for Advanced Research Com
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (4 days ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 week ago)
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (5 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 week ago)
-- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (1 week ago)
+  (2 weeks ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Remove second centre](https://github.com/paddyroddy/paddyroddy.github.io/pull/72) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
+- [Change department name](https://github.com/paddyroddy/paddyroddy.github.io/pull/71) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
 - [Remove 5mile](https://github.com/paddyroddy/paddyroddy.github.io/pull/70) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 week ago)
+  (2 weeks ago)
 - [Force bump `pre-commit` hooks](https://github.com/astro-informatics/sleplet/pull/359) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 week ago)
+  (2 weeks ago)
 - [Fix `pre-commit`](https://github.com/paddyroddy/.github/pull/200) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
-- [[MRG] Specify import `dcmread`](https://github.com/pydicom/pydicom/pull/2018) on [pydicom/pydicom](https://github.com/pydicom/pydicom)
-  (3 weeks ago)
-- [add `xnat_site_url variable` for setting the `siteUrl` &amp; API endpoint](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/79) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (3 weeks ago)
+  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins. 
+  (1 day ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-  (2 days ago)
-- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
   (3 days ago)
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+  (4 days ago)
 - [lejacobroy/aerials-downloader](https://github.com/lejacobroy/aerials-downloader) - Sonoma Aerials Downloader
   (1 week ago)
 - [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv) - Use https://github.com/astral-sh/uv with tox
-  (1 month ago)
-- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
   (1 month ago)
