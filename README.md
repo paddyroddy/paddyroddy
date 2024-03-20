@@ -16,11 +16,11 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (5 days ago)
+  (6 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (2 weeks ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
@@ -29,9 +29,9 @@ Computing, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [Remove second centre](https://github.com/paddyroddy/paddyroddy.github.io/pull/72) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
+  (2 days ago)
 - [Change department name](https://github.com/paddyroddy/paddyroddy.github.io/pull/71) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
+  (2 days ago)
 - [Remove 5mile](https://github.com/paddyroddy/paddyroddy.github.io/pull/70) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (2 weeks ago)
 - [Force bump `pre-commit` hooks](https://github.com/astro-informatics/sleplet/pull/359) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
@@ -42,11 +42,11 @@ Computing, UCL.
 #### ⭐ Recent Stars
 
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins. 
-  (1 day ago)
+  (2 days ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-  (3 days ago)
-- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
   (4 days ago)
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+  (5 days ago)
 - [lejacobroy/aerials-downloader](https://github.com/lejacobroy/aerials-downloader) - Sonoma Aerials Downloader
   (1 week ago)
 - [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv) - Use https://github.com/astral-sh/uv with tox
