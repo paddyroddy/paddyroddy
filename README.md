@@ -15,39 +15,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (2 days ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+  (4 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 week ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Always ignore template at top level pre-commit](https://github.com/UCL-ARC/python-tooling/pull/320) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
+  (2 days ago)
 - [Add repostatus.org badge](https://github.com/astro-informatics/sleplet/pull/360) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 - [Remove second centre](https://github.com/paddyroddy/paddyroddy.github.io/pull/72) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (3 days ago)
+  (4 days ago)
 - [Change department name](https://github.com/paddyroddy/paddyroddy.github.io/pull/71) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (3 days ago)
+  (4 days ago)
 - [Remove 5mile](https://github.com/paddyroddy/paddyroddy.github.io/pull/70) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (2 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+  (1 day ago)
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins. 
-  (3 days ago)
+  (4 days ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-  (5 days ago)
-- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
   (6 days ago)
-- [lejacobroy/aerials-downloader](https://github.com/lejacobroy/aerials-downloader) - Sonoma Aerials Downloader
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
   (1 week ago)
-- [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv) - Use https://github.com/astral-sh/uv with tox
-  (1 month ago)
+- [lejacobroy/aerials-downloader](https://github.com/lejacobroy/aerials-downloader) - Sonoma Aerials Downloader
+  (2 weeks ago)
