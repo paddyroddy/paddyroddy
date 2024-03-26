@@ -15,34 +15,34 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (1 day ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (4 days ago)
+  (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (5 days ago)
+  (6 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 week ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Always ignore template at top level pre-commit](https://github.com/UCL-ARC/python-tooling/pull/320) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (5 days ago)
+  (6 days ago)
 - [Add repostatus.org badge](https://github.com/astro-informatics/sleplet/pull/360) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (5 days ago)
+  (6 days ago)
 - [Remove second centre](https://github.com/paddyroddy/paddyroddy.github.io/pull/72) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (1 week ago)
 - [Change department name](https://github.com/paddyroddy/paddyroddy.github.io/pull/71) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (1 week ago)
 - [Remove 5mile](https://github.com/paddyroddy/paddyroddy.github.io/pull/70) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (2 weeks ago)
+  (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
-  (4 days ago)
+  (5 days ago)
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins. 
   (1 week ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
