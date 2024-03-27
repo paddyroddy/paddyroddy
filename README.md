@@ -16,22 +16,22 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (1 day ago)
+  (2 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 day ago)
+  (2 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (6 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (1 week ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Always ignore template at top level pre-commit](https://github.com/UCL-ARC/python-tooling/pull/320) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (6 days ago)
+  (1 week ago)
 - [Add repostatus.org badge](https://github.com/astro-informatics/sleplet/pull/360) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (6 days ago)
+  (1 week ago)
 - [Remove second centre](https://github.com/paddyroddy/paddyroddy.github.io/pull/72) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (1 week ago)
 - [Change department name](https://github.com/paddyroddy/paddyroddy.github.io/pull/71) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
@@ -42,7 +42,7 @@ Computing, UCL.
 #### ⭐ Recent Stars
 
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
-  (5 days ago)
+  (6 days ago)
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins. 
   (1 week ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
