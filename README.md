@@ -16,24 +16,24 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (2 days ago)
+  (5 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (2 days ago)
+  (5 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (2 days ago)
+  (5 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (4 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Fix quotes strings error](https://github.com/UCL-MIRSG/.github/pull/100) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (2 days ago)
+  (5 days ago)
 - [Fix quoted string error](https://github.com/astro-informatics/sleplet/pull/361) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (2 days ago)
+  (5 days ago)
 - [Combine `install_xnat` &amp; `install_container_service` playbooks](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/89) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (2 days ago)
+  (5 days ago)
 - [Always ignore template at top level pre-commit](https://github.com/UCL-ARC/python-tooling/pull/320) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
   (1 week ago)
 - [Add repostatus.org badge](https://github.com/astro-informatics/sleplet/pull/360) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
@@ -44,9 +44,9 @@ Computing, UCL.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
   (1 week ago)
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins. 
-  (1 week ago)
+  (2 weeks ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-  (1 week ago)
+  (2 weeks ago)
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
   (2 weeks ago)
 - [lejacobroy/aerials-downloader](https://github.com/lejacobroy/aerials-downloader) - Sonoma Aerials Downloader
