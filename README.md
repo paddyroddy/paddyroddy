@@ -16,11 +16,11 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (6 days ago)
+  (1 week ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (6 days ago)
+  (1 week ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
@@ -29,15 +29,15 @@ Computing, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [Fix quotes strings error](https://github.com/UCL-MIRSG/.github/pull/100) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (6 days ago)
+  (1 week ago)
 - [Fix quoted string error](https://github.com/astro-informatics/sleplet/pull/361) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (6 days ago)
+  (1 week ago)
 - [Combine `install_xnat` &amp; `install_container_service` playbooks](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/89) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (6 days ago)
+  (1 week ago)
 - [Always ignore template at top level pre-commit](https://github.com/UCL-ARC/python-tooling/pull/320) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 week ago)
+  (2 weeks ago)
 - [Add repostatus.org badge](https://github.com/astro-informatics/sleplet/pull/360) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 week ago)
+  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
