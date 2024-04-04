@@ -15,39 +15,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (1 week ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 week ago)
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+  (today)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 week ago)
+  (today)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 week ago)
+  (today)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 weeks ago)
+  (1 day ago)
+- [UCL-MIRSG/admin](https://github.com/UCL-MIRSG/admin) - Required for the github/safe-settings app
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Fix quotes strings error](https://github.com/UCL-MIRSG/.github/pull/100) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
-- [Fix quoted string error](https://github.com/astro-informatics/sleplet/pull/361) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 week ago)
-- [Combine `install_xnat` &amp; `install_container_service` playbooks](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/89) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (1 week ago)
-- [Always ignore template at top level pre-commit](https://github.com/UCL-ARC/python-tooling/pull/320) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (2 weeks ago)
-- [Add repostatus.org badge](https://github.com/astro-informatics/sleplet/pull/360) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (2 weeks ago)
+- [Add `dockerfile` manager to @renovatebot](https://github.com/UCL-ARC/.github/pull/15) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (today)
+- [Inherit from ARC Renovate config](https://github.com/UCL-MIRSG/.github/pull/103) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (today)
+- [Update and rename .renovaterc.json to .renovaterc.json5](https://github.com/UCL-ARC/python-tooling/pull/351) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (1 day ago)
+- [Remove `:noUnscheduledUpdates`](https://github.com/UCL-ARC/.github/pull/14) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (1 day ago)
+- [Remove `:noUnscheduledUpdates`](https://github.com/UCL-MIRSG/.github/pull/102) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [EPCCed/archer2-MPI-2024-04-03](https://github.com/EPCCed/archer2-MPI-2024-04-03)
+  (1 day ago)
+- [github/safe-settings](https://github.com/github/safe-settings)
+  (1 day ago)
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
-  (1 week ago)
+  (2 weeks ago)
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins. 
   (2 weeks ago)
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
   (2 weeks ago)
-- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-  (2 weeks ago)
-- [lejacobroy/aerials-downloader](https://github.com/lejacobroy/aerials-downloader) - Sonoma Aerials Downloader
-  (3 weeks ago)
