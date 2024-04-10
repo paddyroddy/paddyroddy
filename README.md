@@ -15,39 +15,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (4 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (5 days ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (5 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (6 days ago)
-- [UCL-MIRSG/admin](https://github.com/UCL-MIRSG/admin) - Required for the github/safe-settings app
   (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add `markdownlint`](https://github.com/UCL-MIRSG/.github/pull/104) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Change to YAML](https://github.com/paddyroddy/.github/pull/202) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Fix markdown and run on dot files](https://github.com/paddyroddy/.github/pull/201) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 - [Add `dockerfile` manager to @renovatebot](https://github.com/UCL-ARC/.github/pull/15) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (5 days ago)
+  (6 days ago)
 - [Inherit from ARC Renovate config](https://github.com/UCL-MIRSG/.github/pull/103) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (5 days ago)
-- [Update and rename .renovaterc.json to .renovaterc.json5](https://github.com/UCL-ARC/python-tooling/pull/351) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (6 days ago)
-- [Remove `:noUnscheduledUpdates`](https://github.com/UCL-ARC/.github/pull/14) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (6 days ago)
-- [Remove `:noUnscheduledUpdates`](https://github.com/UCL-MIRSG/.github/pull/102) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (6 days ago)
 
 #### ⭐ Recent Stars
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+  (1 day ago)
 - [rookiehpc/rookiehpc.github.io](https://github.com/rookiehpc/rookiehpc.github.io) - A website covering major HPC technologies, designed to welcome contributions.
-  (5 days ago)
+  (6 days ago)
 - [EPCCed/archer2-MPI-2024-04-03](https://github.com/EPCCed/archer2-MPI-2024-04-03)
-  (6 days ago)
+  (1 week ago)
 - [github/safe-settings](https://github.com/github/safe-settings)
-  (6 days ago)
+  (1 week ago)
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
   (2 weeks ago)
-- [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins. 
-  (3 weeks ago)
