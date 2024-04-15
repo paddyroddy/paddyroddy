@@ -15,39 +15,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 days ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (2 days ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (3 days ago)
+- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
+  (3 days ago)
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (2 days ago)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (2 days ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (2 days ago)
+  (5 days ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (5 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [End of an era](https://github.com/UCL-MIRSG/.github/pull/105) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (3 days ago)
 - [Rename `.yml` to `.yaml`](https://github.com/paddyroddy/.github/pull/203) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 days ago)
+  (5 days ago)
 - [Rename `.yml` to `.yaml`](https://github.com/paddyroddy/phd-thesis/pull/42) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
-  (2 days ago)
+  (5 days ago)
 - [Rename `.yml` to `.yaml`](https://github.com/paddyroddy/latex-template/pull/43) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
-  (2 days ago)
+  (5 days ago)
 - [Rename `.yml` to `.yaml`](https://github.com/paddyroddy/talks/pull/23) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (2 days ago)
-- [Rename `.yml` to `.yaml`](https://github.com/paddyroddy/adr-tree-surgery-website/pull/57) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (2 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
-  (2 days ago)
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [UCL/OSPO-internal](https://github.com/UCL/OSPO-internal) - Documentation of whatever thing we can&#39;t publicise while we start up.
   (3 days ago)
+- [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
+  (5 days ago)
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+  (6 days ago)
 - [rookiehpc/rookiehpc.github.io](https://github.com/rookiehpc/rookiehpc.github.io) - A website covering major HPC technologies, designed to welcome contributions.
   (1 week ago)
 - [EPCCed/archer2-MPI-2024-04-03](https://github.com/EPCCed/archer2-MPI-2024-04-03)
-  (1 week ago)
-- [github/safe-settings](https://github.com/github/safe-settings)
   (1 week ago)
