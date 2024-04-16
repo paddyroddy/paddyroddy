@@ -15,39 +15,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (3 days ago)
-- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
-  (3 days ago)
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (5 days ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (5 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (5 days ago)
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
+  (4 days ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update and rename .renovaterc.json to .renovaterc.json5](https://github.com/UCL-MIRSG/mirsg-template/pull/11) on [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template)
+  (1 day ago)
+- [Fix typo config](https://github.com/paddyroddy/phd-thesis/pull/43) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
+  (1 day ago)
+- [Remove duplicate `fix` flag](https://github.com/UCL-MIRSG/.github/pull/108) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Remove duplicate `--fix` flag](https://github.com/paddyroddy/.github/pull/204) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 - [End of an era](https://github.com/UCL-MIRSG/.github/pull/105) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (3 days ago)
-- [Rename `.yml` to `.yaml`](https://github.com/paddyroddy/.github/pull/203) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (5 days ago)
-- [Rename `.yml` to `.yaml`](https://github.com/paddyroddy/phd-thesis/pull/42) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
-  (5 days ago)
-- [Rename `.yml` to `.yaml`](https://github.com/paddyroddy/latex-template/pull/43) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
-  (5 days ago)
-- [Rename `.yml` to `.yaml`](https://github.com/paddyroddy/talks/pull/23) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (5 days ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
+- [JoshuaKGoldberg/sentences-per-line](https://github.com/JoshuaKGoldberg/sentences-per-line) - Contributed markdownlint rule for limiting sentences per line. 📐
+  (1 day ago)
 - [UCL/OSPO-internal](https://github.com/UCL/OSPO-internal) - Documentation of whatever thing we can&#39;t publicise while we start up.
-  (3 days ago)
+  (4 days ago)
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
-  (5 days ago)
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
   (6 days ago)
-- [rookiehpc/rookiehpc.github.io](https://github.com/rookiehpc/rookiehpc.github.io) - A website covering major HPC technologies, designed to welcome contributions.
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
   (1 week ago)
-- [EPCCed/archer2-MPI-2024-04-03](https://github.com/EPCCed/archer2-MPI-2024-04-03)
+- [rookiehpc/rookiehpc.github.io](https://github.com/rookiehpc/rookiehpc.github.io) - A website covering major HPC technologies, designed to welcome contributions.
   (1 week ago)
