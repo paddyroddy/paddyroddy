@@ -17,36 +17,36 @@ Computing, UCL.
 
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
   (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 day ago)
-- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
-  (4 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Update and rename .renovaterc.json to .renovaterc.json5](https://github.com/UCL-MIRSG/mirsg-template/pull/11) on [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template)
+- [Hidden files spelling](https://github.com/UCL-MIRSG/.github/pull/111) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 day ago)
-- [Fix typo config](https://github.com/paddyroddy/phd-thesis/pull/43) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
+- [Hidden files](https://github.com/paddyroddy/.github/pull/207) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Remove duplicate `fix` flag](https://github.com/UCL-MIRSG/.github/pull/108) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [British spelling](https://github.com/UCL-MIRSG/.github/pull/110) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 day ago)
-- [Remove duplicate `--fix` flag](https://github.com/paddyroddy/.github/pull/204) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [British spelling](https://github.com/paddyroddy/.github/pull/206) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [End of an era](https://github.com/UCL-MIRSG/.github/pull/105) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (4 days ago)
+- [Add some options to `prettier`](https://github.com/UCL-MIRSG/.github/pull/109) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [JoshuaKGoldberg/sentences-per-line](https://github.com/JoshuaKGoldberg/sentences-per-line) - Contributed markdownlint rule for limiting sentences per line. 📐
-  (1 day ago)
+  (2 days ago)
 - [UCL/OSPO-internal](https://github.com/UCL/OSPO-internal) - Documentation of whatever thing we can&#39;t publicise while we start up.
-  (4 days ago)
+  (5 days ago)
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
-  (6 days ago)
+  (1 week ago)
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
   (1 week ago)
 - [rookiehpc/rookiehpc.github.io](https://github.com/rookiehpc/rookiehpc.github.io) - A website covering major HPC technologies, designed to welcome contributions.
