@@ -15,39 +15,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 days ago)
-- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
-  (2 days ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (2 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (2 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (3 days ago)
+- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
+  (3 days ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Fix typos](https://github.com/UCL-ARC/python-tooling/pull/357) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
+  (2 days ago)
 - [Add useful options to prettier](https://github.com/UCL-ARC/python-tooling/pull/356) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
+  (2 days ago)
 - [Hidden files spelling](https://github.com/UCL-MIRSG/.github/pull/111) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (2 days ago)
+  (3 days ago)
 - [Hidden files](https://github.com/paddyroddy/.github/pull/207) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 days ago)
+  (3 days ago)
 - [British spelling](https://github.com/UCL-MIRSG/.github/pull/110) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (2 days ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+  (1 day ago)
 - [JoshuaKGoldberg/sentences-per-line](https://github.com/JoshuaKGoldberg/sentences-per-line) - Contributed markdownlint rule for limiting sentences per line. 📐
-  (3 days ago)
+  (4 days ago)
 - [UCL/OSPO-internal](https://github.com/UCL/OSPO-internal) - Documentation of whatever thing we can&#39;t publicise while we start up.
-  (6 days ago)
+  (1 week ago)
 - [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
   (1 week ago)
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
   (1 week ago)
-- [rookiehpc/rookiehpc.github.io](https://github.com/rookiehpc/rookiehpc.github.io) - A website covering major HPC technologies, designed to welcome contributions.
-  (2 weeks ago)
