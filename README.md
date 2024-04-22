@@ -16,38 +16,38 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
+  (3 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (2 days ago)
+  (5 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
+  (6 days ago)
 - [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
-  (3 days ago)
+  (6 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (3 days ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Alacritty &amp; Starship](https://github.com/paddyroddy/dotfiles/pull/27) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (3 days ago)
 - [Fix typos](https://github.com/UCL-ARC/python-tooling/pull/357) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (2 days ago)
+  (5 days ago)
 - [Add useful options to prettier](https://github.com/UCL-ARC/python-tooling/pull/356) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (2 days ago)
+  (5 days ago)
 - [Hidden files spelling](https://github.com/UCL-MIRSG/.github/pull/111) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (3 days ago)
+  (6 days ago)
 - [Hidden files](https://github.com/paddyroddy/.github/pull/207) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
-- [British spelling](https://github.com/UCL-MIRSG/.github/pull/110) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (3 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (2 days ago)
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+  (3 days ago)
+- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
+  (3 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+  (3 days ago)
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
-  (1 day ago)
-- [JoshuaKGoldberg/sentences-per-line](https://github.com/JoshuaKGoldberg/sentences-per-line) - Contributed markdownlint rule for limiting sentences per line. 📐
   (4 days ago)
-- [UCL/OSPO-internal](https://github.com/UCL/OSPO-internal) - Documentation of whatever thing we can&#39;t publicise while we start up.
-  (1 week ago)
-- [jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from) - :twisted_rightwards_arrows: Seamlessly specify multiple redirections URLs for your pages and posts.
-  (1 week ago)
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
-  (1 week ago)
