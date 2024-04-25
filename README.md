@@ -15,39 +15,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+  (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
   (2 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
+- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
+  (3 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 week ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Renovate README JSON5 instruction](https://github.com/UCL-MIRSG/.github/pull/112) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Renovate README JSON5 instruction](https://github.com/UCL-ARC/.github/pull/16) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (1 day ago)
 - [Alacritty &amp; Starship](https://github.com/paddyroddy/dotfiles/pull/27) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (5 days ago)
+  (6 days ago)
 - [Fix typos](https://github.com/UCL-ARC/python-tooling/pull/357) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
   (1 week ago)
 - [Add useful options to prettier](https://github.com/UCL-ARC/python-tooling/pull/356) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 week ago)
-- [Hidden files spelling](https://github.com/UCL-MIRSG/.github/pull/111) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
-- [Hidden files](https://github.com/paddyroddy/.github/pull/207) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (4 days ago)
+  (5 days ago)
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-  (5 days ago)
-- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
-  (5 days ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-  (5 days ago)
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
   (6 days ago)
+- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
+  (6 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+  (6 days ago)
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+  (1 week ago)
