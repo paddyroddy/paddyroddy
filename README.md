@@ -16,38 +16,38 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
+  (4 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (1 day ago)
+  (4 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
+  (4 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
+  (4 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 day ago)
+  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Pin dependencies](https://github.com/paddyroddy/adr-tree-surgery-website/pull/62) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 day ago)
+  (4 days ago)
 - [Update &amp; Pin Ruby](https://github.com/paddyroddy/paddyroddy.github.io/pull/74) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
+  (4 days ago)
 - [Revert &#34;Change `baseurl`&#34;](https://github.com/paddyroddy/adr-tree-surgery-website/pull/61) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 day ago)
+  (4 days ago)
 - [Change `baseurl`](https://github.com/paddyroddy/adr-tree-surgery-website/pull/60) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 day ago)
+  (4 days ago)
 - [Fix #361](https://github.com/UCL-ARC/python-tooling/pull/364) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
+  (3 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (6 days ago)
+  (1 week ago)
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
   (1 week ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
   (1 week ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-  (1 week ago)
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
   (1 week ago)
