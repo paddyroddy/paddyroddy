@@ -15,34 +15,34 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [UCL-MIRSG/admin](https://github.com/UCL-MIRSG/admin) - Required for the github/safe-settings app
+  (1 day ago)
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
   (1 day ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 day ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Move script to top level](https://github.com/paddyroddy/adr-tree-surgery-website/pull/63) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+- [Switch to `non-empty`](https://github.com/paddyroddy/.github/pull/208) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Move script to top level](https://github.com/paddyroddy/paddyroddy.github.io/pull/75) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+- [Use `non-empty`](https://github.com/UCL-MIRSG/.github/pull/114) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 day ago)
-- [Pin dependencies](https://github.com/paddyroddy/adr-tree-surgery-website/pull/62) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (5 days ago)
-- [Update &amp; Pin Ruby](https://github.com/paddyroddy/paddyroddy.github.io/pull/74) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (5 days ago)
-- [Revert &#34;Change `baseurl`&#34;](https://github.com/paddyroddy/adr-tree-surgery-website/pull/61) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (5 days ago)
+- [Rename YAML](https://github.com/UCL-MIRSG/mirsg-template/pull/14) on [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template)
+  (1 day ago)
+- [Automate keeping the lock file up-to-date](https://github.com/UCL-ARC/python-tooling/pull/371) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (1 day ago)
+- [Tidy and update `Gemfile`](https://github.com/UCL-ARC/python-tooling/pull/370) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
-  (4 days ago)
+  (6 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
