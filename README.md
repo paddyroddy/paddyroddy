@@ -15,39 +15,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+- [reproducibleMATLAB/matlab-project-template](https://github.com/reproducibleMATLAB/matlab-project-template) - A template repository for promoting reproducible research using MATLAB code
   (1 day ago)
-- [UCL-MIRSG/admin](https://github.com/UCL-MIRSG/admin) - Required for the github/safe-settings app
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (1 day ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Switch to `non-empty`](https://github.com/paddyroddy/.github/pull/208) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Add `checkcode` GitHub Action](https://github.com/reproducibleMATLAB/matlab-project-template/pull/55) on [reproducibleMATLAB/matlab-project-template](https://github.com/reproducibleMATLAB/matlab-project-template)
   (1 day ago)
-- [Use `non-empty`](https://github.com/UCL-MIRSG/.github/pull/114) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [Add testing workflow](https://github.com/reproducibleMATLAB/matlab-project-template/pull/48) on [reproducibleMATLAB/matlab-project-template](https://github.com/reproducibleMATLAB/matlab-project-template)
   (1 day ago)
-- [Rename YAML](https://github.com/UCL-MIRSG/mirsg-template/pull/14) on [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template)
+- [Add CODE_OF_CONDUCT](https://github.com/reproducibleMATLAB/matlab-project-template/pull/42) on [reproducibleMATLAB/matlab-project-template](https://github.com/reproducibleMATLAB/matlab-project-template)
   (1 day ago)
-- [Automate keeping the lock file up-to-date](https://github.com/UCL-ARC/python-tooling/pull/371) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+- [Add `CITATION.cff` file](https://github.com/reproducibleMATLAB/matlab-project-template/pull/31) on [reproducibleMATLAB/matlab-project-template](https://github.com/reproducibleMATLAB/matlab-project-template)
   (1 day ago)
-- [Tidy and update `Gemfile`](https://github.com/UCL-ARC/python-tooling/pull/370) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+- [Add licence to template itself](https://github.com/reproducibleMATLAB/matlab-project-template/pull/29) on [reproducibleMATLAB/matlab-project-template](https://github.com/reproducibleMATLAB/matlab-project-template)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+  (1 day ago)
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-  (1 week ago)
+  (2 weeks ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
-  (1 week ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-  (1 week ago)
+  (2 weeks ago)
