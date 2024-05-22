@@ -15,39 +15,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (4 days ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (4 days ago)
-- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
-  (2 weeks ago)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (2 weeks ago)
-- [reproducibleMATLAB/matlab-project-template](https://github.com/reproducibleMATLAB/matlab-project-template) - A template repository for promoting reproducible research using MATLAB code
-  (2 weeks ago)
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add `checkcode` GitHub Action](https://github.com/reproducibleMATLAB/matlab-project-template/pull/55) on [reproducibleMATLAB/matlab-project-template](https://github.com/reproducibleMATLAB/matlab-project-template)
-  (2 weeks ago)
-- [Add testing workflow](https://github.com/reproducibleMATLAB/matlab-project-template/pull/48) on [reproducibleMATLAB/matlab-project-template](https://github.com/reproducibleMATLAB/matlab-project-template)
-  (2 weeks ago)
-- [Add CODE_OF_CONDUCT](https://github.com/reproducibleMATLAB/matlab-project-template/pull/42) on [reproducibleMATLAB/matlab-project-template](https://github.com/reproducibleMATLAB/matlab-project-template)
-  (2 weeks ago)
-- [Add `CITATION.cff` file](https://github.com/reproducibleMATLAB/matlab-project-template/pull/31) on [reproducibleMATLAB/matlab-project-template](https://github.com/reproducibleMATLAB/matlab-project-template)
-  (2 weeks ago)
-- [Add licence to template itself](https://github.com/reproducibleMATLAB/matlab-project-template/pull/29) on [reproducibleMATLAB/matlab-project-template](https://github.com/reproducibleMATLAB/matlab-project-template)
-  (2 weeks ago)
+- [Add composite action on link checking](https://github.com/UCL-MIRSG/.github/pull/115) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Fix to `v1`](https://github.com/paddyroddy/.github/pull/216) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Add `v0`](https://github.com/paddyroddy/.github/pull/213) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Create links.yaml](https://github.com/paddyroddy/talks/pull/25) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Create links.yaml](https://github.com/paddyroddy/adr-tree-surgery-website/pull/66) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
+  (1 day ago)
+- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
+  (1 day ago)
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
-  (4 days ago)
+  (5 days ago)
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
   (2 weeks ago)
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
   (2 weeks ago)
-- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
-  (3 weeks ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 month ago)
