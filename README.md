@@ -15,39 +15,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (today)
+- [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
   (1 day ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add composite action on link checking](https://github.com/UCL-MIRSG/.github/pull/115) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [Simplify licence readme badge further](https://github.com/astro-informatics/sleplet/pull/378) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
-- [Fix to `v1`](https://github.com/paddyroddy/.github/pull/216) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Update licence badge link](https://github.com/astro-informatics/sleplet/pull/377) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
-- [Add `v0`](https://github.com/paddyroddy/.github/pull/213) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Simplify citation link](https://github.com/astro-informatics/sleplet/pull/376) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
-- [Create links.yaml](https://github.com/paddyroddy/talks/pull/25) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [Fix `PyOpenSci` issue](https://github.com/astro-informatics/sleplet/pull/375) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
-- [Create links.yaml](https://github.com/paddyroddy/adr-tree-surgery-website/pull/66) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+- [Fix citation badge](https://github.com/astro-informatics/sleplet/pull/374) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
-  (1 day ago)
+  (2 days ago)
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
-  (1 day ago)
+  (2 days ago)
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
-  (5 days ago)
+  (6 days ago)
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
   (2 weeks ago)
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-  (2 weeks ago)
+  (3 weeks ago)
