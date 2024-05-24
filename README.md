@@ -16,37 +16,37 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (today)
+  (1 day ago)
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Simplify licence readme badge further](https://github.com/astro-informatics/sleplet/pull/378) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 - [Update licence badge link](https://github.com/astro-informatics/sleplet/pull/377) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 - [Simplify citation link](https://github.com/astro-informatics/sleplet/pull/376) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 - [Fix `PyOpenSci` issue](https://github.com/astro-informatics/sleplet/pull/375) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 - [Fix citation badge](https://github.com/astro-informatics/sleplet/pull/374) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
-  (2 days ago)
+  (3 days ago)
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
-  (2 days ago)
+  (3 days ago)
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
-  (6 days ago)
+  (1 week ago)
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
   (2 weeks ago)
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
