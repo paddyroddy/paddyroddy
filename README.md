@@ -15,39 +15,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 week ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 week ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 week ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
+  (2 days ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (2 days ago)
 - [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (1 week ago)
+  (2 days ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (2 days ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add options from Scientific Python](https://github.com/paddyroddy/python-template/pull/157) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (1 week ago)
-- [Use list for `addopts`](https://github.com/UCL-ARC/python-tooling/pull/375) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 week ago)
-- [Add suggestions from Scientific Python](https://github.com/astro-informatics/sleplet/pull/379) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 week ago)
-- [Simplify licence readme badge further](https://github.com/astro-informatics/sleplet/pull/378) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 week ago)
-- [Update licence badge link](https://github.com/astro-informatics/sleplet/pull/377) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 week ago)
+- [Update add-to-project.yaml](https://github.com/paddyroddy/.github/pull/221) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (3 days ago)
+- [Create add-to-project.yaml](https://github.com/paddyroddy/.github/pull/219) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (3 days ago)
+- [Create add-to-project.yaml](https://github.com/paddyroddy/python-template/pull/158) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (3 days ago)
+- [Create add-to-project.yaml](https://github.com/paddyroddy/phd-thesis/pull/47) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
+  (3 days ago)
+- [Create add-to-project.yaml](https://github.com/paddyroddy/talks/pull/26) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
+- [SauceLLC/sauce4strava](https://github.com/SauceLLC/sauce4strava) - Sauce for Strava™
   (1 day ago)
+- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
+  (4 days ago)
 - [scientific-python/cookie](https://github.com/scientific-python/cookie) - Scientific Python Library Development Guide and Cookiecutter
   (1 week ago)
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
   (1 week ago)
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
   (1 week ago)
-- [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
-  (2 weeks ago)
