@@ -14,39 +14,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (1 day ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 day ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (1 day ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Remove `name` step](https://github.com/paddyroddy/.github/pull/229) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Change `ansible_version` to `ansible_major_version`](https://github.com/UCL-MIRSG/.github/pull/123) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 day ago)
-- [Rename config.yaml to config.yml](https://github.com/paddyroddy/.github/pull/227) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Use `molecule` composite action for the remaining 4 workflows](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/117) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
   (1 day ago)
-- [Rename config.yaml to config.yml](https://github.com/paddyroddy/python-template/pull/163) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+- [Remove reusable workflow across molecule tests](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/116) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
   (1 day ago)
-- [Rename config.yaml to config.yml](https://github.com/astro-informatics/sleplet/pull/385) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Add option to specify `molecule` command](https://github.com/UCL-MIRSG/.github/pull/122) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 day ago)
-- [Update add-to-project.yaml](https://github.com/paddyroddy/paddyroddy.github.io/pull/83) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+- [Pin `ansible==9.6.0` in reusable action](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/114) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (1 day ago)
-- [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
   (2 days ago)
-- [SauceLLC/sauce4strava](https://github.com/SauceLLC/sauce4strava) - Sauce for Strava™
+- [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
   (3 days ago)
+- [SauceLLC/sauce4strava](https://github.com/SauceLLC/sauce4strava) - Sauce for Strava™
+  (4 days ago)
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
-  (6 days ago)
+  (1 week ago)
 - [scientific-python/cookie](https://github.com/scientific-python/cookie) - Scientific Python Library Development Guide and Cookiecutter
   (1 week ago)
