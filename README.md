@@ -15,28 +15,28 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/admin](https://github.com/UCL-MIRSG/admin) - Required for the github/safe-settings app
-  (1 day ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (2 days ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (3 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (4 days ago)
+  (5 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (4 days ago)
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Switch from `branch protection` to `rulesets`](https://github.com/UCL-MIRSG/admin/pull/22) on [UCL-MIRSG/admin](https://github.com/UCL-MIRSG/admin)
-  (1 day ago)
-- [Remove duplicate `life`](https://github.com/paddyroddy/paddyroddy.github.io/pull/89) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (2 days ago)
+- [Remove duplicate `life`](https://github.com/paddyroddy/paddyroddy.github.io/pull/89) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (3 days ago)
 - [Remove `39` in `env_list`](https://github.com/paddyroddy/python-template/pull/166) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (4 days ago)
+  (5 days ago)
 - [Remove `uv`](https://github.com/paddyroddy/python-template/pull/165) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (4 days ago)
+  (5 days ago)
 - [Drop `3.9` support](https://github.com/paddyroddy/python-template/pull/164) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
