@@ -40,6 +40,8 @@ Computing, UCL.
 
 #### ⭐ Recent Stars
 
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+  (today)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (1 week ago)
 - [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
@@ -48,5 +50,3 @@ Computing, UCL.
   (1 week ago)
 - [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
   (1 week ago)
-- [scientific-python/cookie](https://github.com/scientific-python/cookie) - Scientific Python Library Development Guide and Cookiecutter
-  (2 weeks ago)
