@@ -14,39 +14,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (3 days ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (4 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (4 days ago)
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (1 day ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (4 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 days ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Remove titles in issue templates](https://github.com/UCL-ARC/python-tooling/pull/421) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (3 days ago)
-- [Remove `title` from issue template forms](https://github.com/paddyroddy/python-template/pull/167) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (4 days ago)
-- [Remove `title` in issue forms](https://github.com/paddyroddy/.github/pull/230) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (4 days ago)
-- [Remove `title` in issue templates](https://github.com/astro-informatics/sleplet/pull/388) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (4 days ago)
-- [Format pic](https://github.com/paddyroddy/talks/pull/38) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (4 days ago)
+- [Remove `required` validations](https://github.com/paddyroddy/.github/pull/231) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Remove `required` validations](https://github.com/paddyroddy/python-template/pull/168) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (1 day ago)
+- [Remove `required` validations](https://github.com/astro-informatics/sleplet/pull/391) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
+- [Add `numpy==2.0` support](https://github.com/astro-informatics/sleplet/pull/390) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
+- [Add `cnp.import_array` for `numpy&gt;=2`](https://github.com/astro-informatics/ssht/pull/75) on [astro-informatics/ssht](https://github.com/astro-informatics/ssht)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
+  (1 day ago)
+- [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python
+  (1 day ago)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-  (5 days ago)
+  (6 days ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (1 week ago)
+  (2 weeks ago)
 - [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
-  (2 weeks ago)
-- [SauceLLC/sauce4strava](https://github.com/SauceLLC/sauce4strava) - Sauce for Strava™
-  (2 weeks ago)
-- [lukevella/rallly](https://github.com/lukevella/rallly) - Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
   (2 weeks ago)
