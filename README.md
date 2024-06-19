@@ -14,39 +14,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
   (1 day ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (1 day ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (4 days ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Remove `required` validations](https://github.com/paddyroddy/.github/pull/231) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Add PRs](https://github.com/paddyroddy/python-template/pull/169) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (1 day ago)
-- [Remove `required` validations](https://github.com/paddyroddy/python-template/pull/168) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+- [Add PRs](https://github.com/paddyroddy/latex-template/pull/51) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
   (1 day ago)
-- [Remove `required` validations](https://github.com/astro-informatics/sleplet/pull/391) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Add PRs](https://github.com/paddyroddy/phd-thesis/pull/52) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
   (1 day ago)
-- [Add `numpy==2.0` support](https://github.com/astro-informatics/sleplet/pull/390) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Add PRs](https://github.com/paddyroddy/adr-tree-surgery-website/pull/78) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
   (1 day ago)
-- [Add `cnp.import_array` for `numpy&gt;=2`](https://github.com/astro-informatics/ssht/pull/75) on [astro-informatics/ssht](https://github.com/astro-informatics/ssht)
+- [Add PRs](https://github.com/paddyroddy/paddyroddy.github.io/pull/91) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [pyapp-kit/ndv](https://github.com/pyapp-kit/ndv) - Simple, fast-loading, n-dimensional array viewer with minimal dependencies.
+  (1 day ago)
+- [aleaxit/gmpy](https://github.com/aleaxit/gmpy) - General Multi-Precision arithmetic for Python 2.6&#43;/3&#43; (GMP, MPIR, MPFR, MPC)
+  (1 day ago)
 - [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
-  (1 day ago)
+  (2 days ago)
 - [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python
-  (1 day ago)
+  (2 days ago)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-  (6 days ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (2 weeks ago)
-- [fatiando/pooch](https://github.com/fatiando/pooch) - A friend to fetch your data files
-  (2 weeks ago)
+  (1 week ago)
