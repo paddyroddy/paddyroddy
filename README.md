@@ -14,39 +14,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
   (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 day ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (1 day ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Format `quarto` with `prettier`](https://github.com/paddyroddy/talks/pull/41) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [Create LICENCE.txt](https://github.com/paddyroddy/phd-thesis/pull/53) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
   (1 day ago)
-- [Update LICENCE.txt](https://github.com/paddyroddy/python-template/pull/170) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+- [Create LICENCE.txt](https://github.com/paddyroddy/paddyroddy.github.io/pull/96) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (1 day ago)
-- [Update Strava](https://github.com/paddyroddy/paddyroddy.github.io/pull/95) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+- [Create LICENCE.txt](https://github.com/paddyroddy/talks/pull/45) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
-- [Update LICENCE.txt](https://github.com/paddyroddy/latex-template/pull/52) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+- [Create LICENCE.txt](https://github.com/paddyroddy/adr-tree-surgery-website/pull/79) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
   (1 day ago)
-- [Update LICENCE.txt](https://github.com/paddyroddy/.github/pull/234) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Update index.qmd](https://github.com/paddyroddy/talks/pull/44) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [pyapp-kit/ndv](https://github.com/pyapp-kit/ndv) - Simple, fast-loading, n-dimensional array viewer with minimal dependencies.
-  (3 days ago)
+  (4 days ago)
 - [aleaxit/gmpy](https://github.com/aleaxit/gmpy) - General Multi-Precision arithmetic for Python 2.6&#43;/3&#43; (GMP, MPIR, MPFR, MPC)
-  (3 days ago)
+  (4 days ago)
 - [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
-  (4 days ago)
+  (5 days ago)
 - [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python
-  (4 days ago)
+  (5 days ago)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
   (1 week ago)
