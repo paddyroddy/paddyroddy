@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+      - renovate/**
   schedule:
     - cron: 0 9 * * *
   workflow_dispatch:
@@ -35,7 +36,9 @@ jobs:
           writeTo: ./README.md
 
       - name: Push README to main
-        if: ${{ steps.commit-count.outputs.count == 0 }}
+        if: >-
+          ${{ steps.commit-count.outputs.count == 0 && github.ref ==
+          'refs/heads/main' }}
         # yamllint disable-line rule:line-length
         uses: stefanzweifel/git-auto-commit-action@8621497c8c39c72f3e2a999a26b4ca1b5058a842 # v5
         with:
