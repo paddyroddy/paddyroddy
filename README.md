@@ -14,39 +14,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 day ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (4 days ago)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (4 days ago)
+  (1 day ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (1 day ago)
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Limit number of pages](https://github.com/paddyroddy/talks/pull/47) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [Typo](https://github.com/paddyroddy/talks/pull/49) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
-- [Add blog website](https://github.com/paddyroddy/paddyroddy.github.io/pull/97) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+- [Make deploy/documentation workflow mandatory](https://github.com/paddyroddy/python-template/pull/171) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (1 day ago)
-- [Change dates for talks](https://github.com/paddyroddy/talks/pull/46) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [Change to `main`](https://github.com/paddyroddy/phd-thesis/pull/55) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
   (1 day ago)
-- [Create LICENCE.txt](https://github.com/paddyroddy/phd-thesis/pull/53) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
-  (4 days ago)
-- [Create LICENCE.txt](https://github.com/paddyroddy/paddyroddy.github.io/pull/96) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (4 days ago)
+- [Always `build` but don&#39;t publish](https://github.com/astro-informatics/sleplet/pull/395) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
+- [Only deploy on tag](https://github.com/paddyroddy/.github/pull/238) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+- [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
   (1 day ago)
+- [paddyroddy/arepo](https://github.com/paddyroddy/arepo) - UCL ARC RSE project providing DIRAC funded support for AREPO astrophysics simulation code
+  (1 day ago)
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+  (2 days ago)
 - [pyapp-kit/ndv](https://github.com/pyapp-kit/ndv) - Simple, fast-loading, n-dimensional array viewer with minimal dependencies.
   (1 week ago)
 - [aleaxit/gmpy](https://github.com/aleaxit/gmpy) - General Multi-Precision arithmetic for Python 2.6&#43;/3&#43; (GMP, MPIR, MPFR, MPC)
-  (1 week ago)
-- [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
-  (1 week ago)
-- [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python
   (1 week ago)
