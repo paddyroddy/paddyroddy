@@ -15,38 +15,38 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Typo](https://github.com/paddyroddy/talks/pull/49) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
+  (2 days ago)
 - [Make deploy/documentation workflow mandatory](https://github.com/paddyroddy/python-template/pull/171) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (1 day ago)
+  (2 days ago)
 - [Change to `main`](https://github.com/paddyroddy/phd-thesis/pull/55) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
-  (1 day ago)
+  (2 days ago)
 - [Always `build` but don&#39;t publish](https://github.com/astro-informatics/sleplet/pull/395) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 - [Only deploy on tag](https://github.com/paddyroddy/.github/pull/238) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
+- [cusp-london/vizent](https://github.com/cusp-london/vizent) - A python library for visualising bivariate data using glyphs and node-link diagrams with matplotlib
+  (1 day ago)
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-  (1 day ago)
-- [paddyroddy/arepo](https://github.com/paddyroddy/arepo) - UCL ARC RSE project providing DIRAC funded support for AREPO astrophysics simulation code
-  (1 day ago)
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
   (2 days ago)
+- [paddyroddy/arepo](https://github.com/paddyroddy/arepo) - UCL ARC RSE project providing DIRAC funded support for AREPO astrophysics simulation code
+  (2 days ago)
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+  (3 days ago)
 - [pyapp-kit/ndv](https://github.com/pyapp-kit/ndv) - Simple, fast-loading, n-dimensional array viewer with minimal dependencies.
-  (1 week ago)
-- [aleaxit/gmpy](https://github.com/aleaxit/gmpy) - General Multi-Precision arithmetic for Python 2.6&#43;/3&#43; (GMP, MPIR, MPFR, MPC)
   (1 week ago)
