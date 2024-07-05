@@ -14,34 +14,34 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+- [UCL-ARC/carpentries-quarto](https://github.com/UCL-ARC/carpentries-quarto) - Carpentries lessons in Quarto
+  (1 day ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (2 days ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (3 days ago)
-- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (3 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add `CodeFactor`](https://github.com/astro-informatics/sleplet/pull/398) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Change gallery view and add 2 more figures](https://github.com/paddyroddy/adr-tree-surgery-website/pull/81) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
   (1 day ago)
-- [Bump `ruby` version to `3.3`](https://github.com/UCL-ARC/python-tooling/pull/424) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (3 days ago)
-- [`quarto` talk](https://github.com/paddyroddy/talks/pull/51) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
-- [Format `pyopensci` talk and use quoting](https://github.com/paddyroddy/talks/pull/50) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
-- [Typo](https://github.com/paddyroddy/talks/pull/49) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
+- [Revert &#34;Vertical alignment index&#34;](https://github.com/paddyroddy/paddyroddy.github.io/pull/101) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
+- [Vertical alignment index](https://github.com/paddyroddy/paddyroddy.github.io/pull/100) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
+- [Improve picture alignment in mobile view](https://github.com/paddyroddy/paddyroddy.github.io/pull/99) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
+- [👋 @milanmlft](https://github.com/UCL-ARC/carpentries-quarto/pull/44) on [UCL-ARC/carpentries-quarto](https://github.com/UCL-ARC/carpentries-quarto)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [stravalib/stravalib](https://github.com/stravalib/stravalib) - Library to provide simple client interface to Strava&#39;s REST API (v3).
-  (6 days ago)
+  (1 week ago)
 - [cusp-london/vizent](https://github.com/cusp-london/vizent) - A python library for visualising bivariate data using glyphs and node-link diagrams with matplotlib
   (1 week ago)
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
