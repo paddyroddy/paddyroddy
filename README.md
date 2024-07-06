@@ -14,32 +14,34 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
   (1 day ago)
 - [UCL-ARC/carpentries-quarto](https://github.com/UCL-ARC/carpentries-quarto) - Carpentries lessons in Quarto
-  (1 day ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (2 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (2 days ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (2 days ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Remove unrequired yamllint statements &amp; use local action](https://github.com/UCL-MIRSG/.github/pull/124) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Rename org secrets](https://github.com/UCL-ARC/.github/pull/19) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (1 day ago)
+- [Add some composite actions](https://github.com/UCL-ARC/.github/pull/18) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (1 day ago)
 - [Change gallery view and add 2 more figures](https://github.com/paddyroddy/adr-tree-surgery-website/pull/81) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 day ago)
+  (2 days ago)
 - [Revert &#34;Vertical alignment index&#34;](https://github.com/paddyroddy/paddyroddy.github.io/pull/101) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
-- [Vertical alignment index](https://github.com/paddyroddy/paddyroddy.github.io/pull/100) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
-- [Improve picture alignment in mobile view](https://github.com/paddyroddy/paddyroddy.github.io/pull/99) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
-- [👋 @milanmlft](https://github.com/UCL-ARC/carpentries-quarto/pull/44) on [UCL-ARC/carpentries-quarto](https://github.com/UCL-ARC/carpentries-quarto)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
+- [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
+  (1 day ago)
 - [stravalib/stravalib](https://github.com/stravalib/stravalib) - Library to provide simple client interface to Strava&#39;s REST API (v3).
   (1 week ago)
 - [cusp-london/vizent](https://github.com/cusp-london/vizent) - A python library for visualising bivariate data using glyphs and node-link diagrams with matplotlib
@@ -47,6 +49,4 @@ Computing, UCL.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
   (1 week ago)
 - [paddyroddy/arepo](https://github.com/paddyroddy/arepo) - UCL ARC RSE project providing DIRAC funded support for AREPO astrophysics simulation code
-  (1 week ago)
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
   (1 week ago)
