@@ -15,38 +15,38 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (3 days ago)
+  (4 days ago)
 - [UCL-ARC/carpentries-quarto](https://github.com/UCL-ARC/carpentries-quarto) - Carpentries lessons in Quarto
-  (4 days ago)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (4 days ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (4 days ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (5 days ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (5 days ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (5 days ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Remove unrequired yamllint statements &amp; use local action](https://github.com/UCL-MIRSG/.github/pull/124) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (3 days ago)
+  (4 days ago)
 - [Rename org secrets](https://github.com/UCL-ARC/.github/pull/19) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (3 days ago)
+  (4 days ago)
 - [Add some composite actions](https://github.com/UCL-ARC/.github/pull/18) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (3 days ago)
+  (4 days ago)
 - [Change gallery view and add 2 more figures](https://github.com/paddyroddy/adr-tree-surgery-website/pull/81) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (4 days ago)
+  (5 days ago)
 - [Revert &#34;Vertical alignment index&#34;](https://github.com/paddyroddy/paddyroddy.github.io/pull/101) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
+- [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
+  (1 day ago)
+- [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
+  (1 day ago)
+- [ibis-project/ibis-tutorial](https://github.com/ibis-project/ibis-tutorial) - Ibis tutorial repository
+  (1 day ago)
+- [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
+  (1 day ago)
 - [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
-  (3 days ago)
-- [stravalib/stravalib](https://github.com/stravalib/stravalib) - Library to provide simple client interface to Strava&#39;s REST API (v3).
-  (1 week ago)
-- [cusp-london/vizent](https://github.com/cusp-london/vizent) - A python library for visualising bivariate data using glyphs and node-link diagrams with matplotlib
-  (1 week ago)
-- [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-  (1 week ago)
-- [paddyroddy/arepo](https://github.com/paddyroddy/arepo) - UCL ARC RSE project providing DIRAC funded support for AREPO astrophysics simulation code
-  (1 week ago)
+  (4 days ago)
