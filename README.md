@@ -14,39 +14,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (4 days ago)
-- [UCL-ARC/carpentries-quarto](https://github.com/UCL-ARC/carpentries-quarto) - Carpentries lessons in Quarto
   (5 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (5 days ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (5 days ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add `actionlint`](https://github.com/paddyroddy/.github/pull/240) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 - [Remove unrequired yamllint statements &amp; use local action](https://github.com/UCL-MIRSG/.github/pull/124) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (4 days ago)
+  (5 days ago)
 - [Rename org secrets](https://github.com/UCL-ARC/.github/pull/19) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (4 days ago)
+  (5 days ago)
 - [Add some composite actions](https://github.com/UCL-ARC/.github/pull/18) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (4 days ago)
+  (5 days ago)
 - [Change gallery view and add 2 more figures](https://github.com/paddyroddy/adr-tree-surgery-website/pull/81) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (5 days ago)
-- [Revert &#34;Vertical alignment index&#34;](https://github.com/paddyroddy/paddyroddy.github.io/pull/101) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
+- [robert/PySkyWiFi](https://github.com/robert/PySkyWiFi) - Completely free, unbelievably stupid wi-fi on long-haul flights
   (1 day ago)
-- [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
+- [rsokl/testing-tutorial](https://github.com/rsokl/testing-tutorial) - Property-based testing tutorial
   (1 day ago)
-- [ibis-project/ibis-tutorial](https://github.com/ibis-project/ibis-tutorial) - Ibis tutorial repository
+- [geigr/ipytone](https://github.com/geigr/ipytone) - Interactive audio in Jupyter
   (1 day ago)
-- [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
+- [manzt/anywidget](https://github.com/manzt/anywidget) - jupyter widgets made easy
   (1 day ago)
-- [actions/add-to-project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub projects
-  (4 days ago)
+- [manzt/scipy-2024-anywidget](https://github.com/manzt/scipy-2024-anywidget)
+  (1 day ago)
