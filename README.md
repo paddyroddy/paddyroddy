@@ -15,38 +15,38 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (5 days ago)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (6 days ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Add `actionlint`](https://github.com/paddyroddy/.github/pull/240) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 - [Remove unrequired yamllint statements &amp; use local action](https://github.com/UCL-MIRSG/.github/pull/124) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (5 days ago)
-- [Rename org secrets](https://github.com/UCL-ARC/.github/pull/19) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (5 days ago)
-- [Add some composite actions](https://github.com/UCL-ARC/.github/pull/18) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (5 days ago)
-- [Change gallery view and add 2 more figures](https://github.com/paddyroddy/adr-tree-surgery-website/pull/81) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
   (6 days ago)
+- [Rename org secrets](https://github.com/UCL-ARC/.github/pull/19) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (6 days ago)
+- [Add some composite actions](https://github.com/UCL-ARC/.github/pull/18) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (6 days ago)
+- [Change gallery view and add 2 more figures](https://github.com/paddyroddy/adr-tree-surgery-website/pull/81) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [robert/PySkyWiFi](https://github.com/robert/PySkyWiFi) - Completely free, unbelievably stupid wi-fi on long-haul flights
+- [prefix-dev/rattler-build](https://github.com/prefix-dev/rattler-build) - rattler-build is a universal package builder for Windows, macOS and Linux
+  (today)
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+  (today)
+- [curvenote/curvenote](https://github.com/curvenote/curvenote) - Create, edit, share, and publish scientific and technical documents.
+  (today)
+- [numba/pixie](https://github.com/numba/pixie) - Creates performance portable libraries with embedded source representations.
   (1 day ago)
-- [rsokl/testing-tutorial](https://github.com/rsokl/testing-tutorial) - Property-based testing tutorial
-  (1 day ago)
-- [geigr/ipytone](https://github.com/geigr/ipytone) - Interactive audio in Jupyter
-  (1 day ago)
-- [manzt/anywidget](https://github.com/manzt/anywidget) - jupyter widgets made easy
-  (1 day ago)
-- [manzt/scipy-2024-anywidget](https://github.com/manzt/scipy-2024-anywidget)
+- [pydata/sparse](https://github.com/pydata/sparse) - Sparse multi-dimensional arrays for the PyData ecosystem
   (1 day ago)
