@@ -14,39 +14,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 days ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (today)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (today)
 - [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (2 days ago)
+  (3 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (2 days ago)
-- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (6 days ago)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (1 week ago)
+  (3 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [[Lightning] Renovate: Automated Dependency Management](https://github.com/scipy-conference/scipy_proceedings/pull/960) on [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
+  (today)
+- [Lighting - Renovate: Automating Dependency Management](https://github.com/paddyroddy/scipy_proceedings/pull/1) on [paddyroddy/scipy_proceedings](https://github.com/paddyroddy/scipy_proceedings)
+  (today)
+- [Fix `pandoc` bug](https://github.com/paddyroddy/talks/pull/52) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (today)
+- [No longer require block to be mandatory](https://github.com/astro-informatics/sleplet/pull/400) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
 - [Add `actionlint`](https://github.com/paddyroddy/.github/pull/240) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 days ago)
-- [Remove unrequired yamllint statements &amp; use local action](https://github.com/UCL-MIRSG/.github/pull/124) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (6 days ago)
-- [Rename org secrets](https://github.com/UCL-ARC/.github/pull/19) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (6 days ago)
-- [Add some composite actions](https://github.com/UCL-ARC/.github/pull/18) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (6 days ago)
-- [Change gallery view and add 2 more figures](https://github.com/paddyroddy/adr-tree-surgery-website/pull/81) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 week ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [prefix-dev/rattler-build](https://github.com/prefix-dev/rattler-build) - rattler-build is a universal package builder for Windows, macOS and Linux
+- [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
   (today)
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+- [JBorrow/swiftascmaps](https://github.com/JBorrow/swiftascmaps) - Taylor Swift-inspired color maps
   (today)
-- [curvenote/curvenote](https://github.com/curvenote/curvenote) - Create, edit, share, and publish scientific and technical documents.
-  (today)
-- [numba/pixie](https://github.com/numba/pixie) - Creates performance portable libraries with embedded source representations.
+- [apache/arrow-nanoarrow](https://github.com/apache/arrow-nanoarrow) - Helpers for Arrow C Data &amp; Arrow C Stream interfaces
   (1 day ago)
-- [pydata/sparse](https://github.com/pydata/sparse) - Sparse multi-dimensional arrays for the PyData ecosystem
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
+  (1 day ago)
+- [tlambert03/ome-types](https://github.com/tlambert03/ome-types) - native Python dataclasses for the OME data model
   (1 day ago)
