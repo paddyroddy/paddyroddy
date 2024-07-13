@@ -15,38 +15,38 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (today)
+  (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (today)
+  (1 day ago)
 - [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (3 days ago)
+  (4 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
+  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [[Lightning] Renovate: Automated Dependency Management](https://github.com/scipy-conference/scipy_proceedings/pull/960) on [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
-  (today)
+  (1 day ago)
 - [Lighting - Renovate: Automating Dependency Management](https://github.com/paddyroddy/scipy_proceedings/pull/1) on [paddyroddy/scipy_proceedings](https://github.com/paddyroddy/scipy_proceedings)
-  (today)
+  (1 day ago)
 - [Fix `pandoc` bug](https://github.com/paddyroddy/talks/pull/52) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (today)
+  (1 day ago)
 - [No longer require block to be mandatory](https://github.com/astro-informatics/sleplet/pull/400) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (today)
+  (1 day ago)
 - [Add `actionlint`](https://github.com/paddyroddy/.github/pull/240) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
+- [scientific-python/spin](https://github.com/scientific-python/spin) - Developer tool for scientific Python libraries
   (today)
-- [JBorrow/swiftascmaps](https://github.com/JBorrow/swiftascmaps) - Taylor Swift-inspired color maps
-  (today)
-- [apache/arrow-nanoarrow](https://github.com/apache/arrow-nanoarrow) - Helpers for Arrow C Data &amp; Arrow C Stream interfaces
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
   (1 day ago)
-- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
+- [ericmjl/llamabot](https://github.com/ericmjl/llamabot) - Pythonic class-based interface to LLMs
   (1 day ago)
-- [tlambert03/ome-types](https://github.com/tlambert03/ome-types) - native Python dataclasses for the OME data model
+- [machow/quartodoc](https://github.com/machow/quartodoc) - Generate API documentation with quarto
+  (1 day ago)
+- [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
   (1 day ago)
