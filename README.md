@@ -14,39 +14,39 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+  (2 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (2 days ago)
+  (3 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 days ago)
+  (3 days ago)
 - [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (5 days ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (5 days ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [BUG: fix `f2py` tests to work with v2 API](https://github.com/numpy/numpy/pull/26935) on [numpy/numpy](https://github.com/numpy/numpy)
-  (1 day ago)
+  (2 days ago)
 - [DOC, BUG: Fix running full test command in docstring](https://github.com/numpy/numpy/pull/26931) on [numpy/numpy](https://github.com/numpy/numpy)
-  (1 day ago)
+  (2 days ago)
 - [[Lightning] Renovate: Automated Dependency Management](https://github.com/scipy-conference/scipy_proceedings/pull/960) on [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
-  (2 days ago)
+  (3 days ago)
 - [Lighting - Renovate: Automating Dependency Management](https://github.com/paddyroddy/scipy_proceedings/pull/1) on [paddyroddy/scipy_proceedings](https://github.com/paddyroddy/scipy_proceedings)
-  (2 days ago)
+  (3 days ago)
 - [Fix `pandoc` bug](https://github.com/paddyroddy/talks/pull/52) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (2 days ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
 - [scientific-python/spin](https://github.com/scientific-python/spin) - Developer tool for scientific Python libraries
-  (1 day ago)
+  (2 days ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
-  (2 days ago)
+  (3 days ago)
 - [ericmjl/llamabot](https://github.com/ericmjl/llamabot) - Pythonic class-based interface to LLMs
-  (2 days ago)
+  (3 days ago)
 - [machow/quartodoc](https://github.com/machow/quartodoc) - Generate API documentation with quarto
-  (2 days ago)
+  (3 days ago)
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
-  (2 days ago)
+  (3 days ago)
