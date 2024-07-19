@@ -15,38 +15,38 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (4 days ago)
-- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
   (5 days ago)
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+  (6 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [BUG: fix ``f2py`` tests to work with v2 API](https://github.com/numpy/numpy/pull/26935) on [numpy/numpy](https://github.com/numpy/numpy)
-  (5 days ago)
+  (6 days ago)
 - [DOC, BUG: Fix running full test command in docstring](https://github.com/numpy/numpy/pull/26931) on [numpy/numpy](https://github.com/numpy/numpy)
-  (5 days ago)
+  (6 days ago)
 - [[Lightning] Renovate: Automated Dependency Management](https://github.com/scipy-conference/scipy_proceedings/pull/960) on [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
-  (6 days ago)
+  (1 week ago)
 - [Lighting - Renovate: Automating Dependency Management](https://github.com/paddyroddy/scipy_proceedings/pull/1) on [paddyroddy/scipy_proceedings](https://github.com/paddyroddy/scipy_proceedings)
-  (6 days ago)
+  (1 week ago)
 - [Fix `pandoc` bug](https://github.com/paddyroddy/talks/pull/52) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (6 days ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [scientific-python/spin](https://github.com/scientific-python/spin) - Developer tool for scientific Python libraries
-  (5 days ago)
+  (6 days ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
-  (6 days ago)
+  (1 week ago)
 - [ericmjl/llamabot](https://github.com/ericmjl/llamabot) - Pythonic class-based interface to LLMs
-  (6 days ago)
+  (1 week ago)
 - [machow/quartodoc](https://github.com/machow/quartodoc) - Generate API documentation with quarto
-  (6 days ago)
+  (1 week ago)
 - [ninja-build/ninja](https://github.com/ninja-build/ninja) - a small build system with a focus on speed
-  (6 days ago)
+  (1 week ago)
