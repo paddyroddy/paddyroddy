@@ -15,9 +15,9 @@ Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (5 days ago)
-- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
   (6 days ago)
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+  (1 week ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 week ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
@@ -28,9 +28,9 @@ Computing, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [BUG: fix ``f2py`` tests to work with v2 API](https://github.com/numpy/numpy/pull/26935) on [numpy/numpy](https://github.com/numpy/numpy)
-  (6 days ago)
+  (1 week ago)
 - [DOC, BUG: Fix running full test command in docstring](https://github.com/numpy/numpy/pull/26931) on [numpy/numpy](https://github.com/numpy/numpy)
-  (6 days ago)
+  (1 week ago)
 - [[Lightning] Renovate: Automated Dependency Management](https://github.com/scipy-conference/scipy_proceedings/pull/960) on [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
   (1 week ago)
 - [Lighting - Renovate: Automating Dependency Management](https://github.com/paddyroddy/scipy_proceedings/pull/1) on [paddyroddy/scipy_proceedings](https://github.com/paddyroddy/scipy_proceedings)
@@ -41,7 +41,7 @@ Computing, UCL.
 #### ⭐ Recent Stars
 
 - [scientific-python/spin](https://github.com/scientific-python/spin) - Developer tool for scientific Python libraries
-  (6 days ago)
+  (1 week ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
   (1 week ago)
 - [ericmjl/llamabot](https://github.com/ericmjl/llamabot) - Pythonic class-based interface to LLMs
