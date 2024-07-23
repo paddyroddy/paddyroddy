@@ -14,28 +14,28 @@ Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
   (1 week ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 week ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Create `SciPy 2024` talk](https://github.com/paddyroddy/talks/pull/54) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Add date](https://github.com/paddyroddy/talks/pull/53) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 - [BUG: fix ``f2py`` tests to work with v2 API](https://github.com/numpy/numpy/pull/26935) on [numpy/numpy](https://github.com/numpy/numpy)
   (1 week ago)
 - [DOC, BUG: Fix running full test command in docstring](https://github.com/numpy/numpy/pull/26931) on [numpy/numpy](https://github.com/numpy/numpy)
   (1 week ago)
 - [[Lightning] Renovate: Automated Dependency Management](https://github.com/scipy-conference/scipy_proceedings/pull/960) on [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings)
-  (1 week ago)
-- [Lighting - Renovate: Automating Dependency Management](https://github.com/paddyroddy/scipy_proceedings/pull/1) on [paddyroddy/scipy_proceedings](https://github.com/paddyroddy/scipy_proceedings)
-  (1 week ago)
-- [Fix `pandoc` bug](https://github.com/paddyroddy/talks/pull/52) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 week ago)
 
 #### ⭐ Recent Stars
