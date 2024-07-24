@@ -1,6 +1,6 @@
 ### 👋 Hello
 
-I'm Paddy, a Research Software Developer at the Centre for Advanced Research
+I'm Paddy, a Research Software Engineer at the Centre for Advanced Research
 Computing, UCL.
 
 [![Last Commit](https://img.shields.io/github/last-commit/paddyroddy/paddyroddy/main?label=updated)](https://github.com/paddyroddy)
