@@ -15,9 +15,9 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (6 days ago)
+  (1 week ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 week ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
@@ -28,9 +28,9 @@ Research Computing, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [Install dependencies](https://github.com/paddyroddy/.github/pull/242) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
+  (4 days ago)
 - [Add `requirements.txt` option to `quarto` option](https://github.com/paddyroddy/.github/pull/241) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
+  (4 days ago)
 - [3000m PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/105) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (1 week ago)
 - [Change developer to engineer](https://github.com/paddyroddy/paddyroddy.github.io/pull/104) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
@@ -41,9 +41,9 @@ Research Computing, UCL.
 #### ⭐ Recent Stars
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-  (1 day ago)
+  (2 days ago)
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
-  (1 day ago)
+  (2 days ago)
 - [nhs-england-tools/repository-template](https://github.com/nhs-england-tools/repository-template) - 🛠️ 📚💡 This is a detailed and carefully made template for your GitHub projects. It&#39;s based on the wide knowledge and practical experience of the engineering community within NHS England. The template includes helpful suggestions, standards and practices - it&#39;s something you should consider using for all your repositories.
   (1 week ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
