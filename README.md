@@ -21,7 +21,7 @@ Research Computing, UCL.
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 week ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 week ago)
+  (2 weeks ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (3 weeks ago)
 
@@ -41,9 +41,9 @@ Research Computing, UCL.
 #### ⭐ Recent Stars
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-  (5 days ago)
+  (6 days ago)
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
-  (5 days ago)
+  (6 days ago)
 - [nhs-england-tools/repository-template](https://github.com/nhs-england-tools/repository-template) - 🛠️ 📚💡 This is a detailed and carefully made template for your GitHub projects. It&#39;s based on the wide knowledge and practical experience of the engineering community within NHS England. The template includes helpful suggestions, standards and practices - it&#39;s something you should consider using for all your repositories.
   (1 week ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
