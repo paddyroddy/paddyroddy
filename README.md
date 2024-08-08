@@ -14,16 +14,16 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 week ago)
+  (2 weeks ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (2 weeks ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (2 weeks ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
@@ -40,6 +40,8 @@ Research Computing, UCL.
 
 #### ⭐ Recent Stars
 
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
+  (today)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
   (1 week ago)
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
@@ -48,5 +50,3 @@ Research Computing, UCL.
   (2 weeks ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
   (2 weeks ago)
-- [scientific-python/spin](https://github.com/scientific-python/spin) - Developer tool for scientific Python libraries
-  (3 weeks ago)
