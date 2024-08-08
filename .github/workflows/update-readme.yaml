@@ -23,8 +23,8 @@ jobs:
       - name: Find the last commit to README
         id: commit-count
         run: >-
-          echo count=$(git log --oneline --since=midnight main -- ./README.md |
-          wc -l) >> $GITHUB_OUTPUT
+          echo count="$(git log --oneline --since=midnight main -- ./README.md |
+          wc -l)" >> "$GITHUB_OUTPUT"
 
       - name: Autogenerate README
         if: ${{ steps.commit-count.outputs.count == 0 }}
