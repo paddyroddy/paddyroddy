@@ -14,34 +14,34 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (today)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (2 weeks ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (2 weeks ago)
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 weeks ago)
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add missing conditional step](https://github.com/paddyroddy/.github/pull/247) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Surround in quotes](https://github.com/paddyroddy/.github/pull/246) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Fix typo in bibliography comment](https://github.com/moderncv/moderncv/pull/206) on [moderncv/moderncv](https://github.com/moderncv/moderncv)
+  (1 day ago)
+- [Use the new team for @renovatebot PRs](https://github.com/UCL-ARC/python-tooling/pull/435) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (1 day ago)
 - [Install dependencies](https://github.com/paddyroddy/.github/pull/242) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 week ago)
-- [Add `requirements.txt` option to `quarto` option](https://github.com/paddyroddy/.github/pull/241) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
-- [3000m PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/105) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (2 weeks ago)
-- [Change developer to engineer](https://github.com/paddyroddy/paddyroddy.github.io/pull/104) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (2 weeks ago)
-- [Try `codeflash`](https://github.com/paddyroddy/sleplet/pull/47) on [paddyroddy/sleplet](https://github.com/paddyroddy/sleplet)
-  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
-  (today)
+  (1 day ago)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
   (1 week ago)
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
