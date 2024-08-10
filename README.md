@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+  (1 day ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 day ago)
+  (2 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Switch to `zinit`](https://github.com/paddyroddy/dotfiles/pull/30) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [Add public profile to GitHub organisation](https://github.com/UCL-ARC/.github/pull/20) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (1 day ago)
 - [Add missing conditional step](https://github.com/paddyroddy/.github/pull/247) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 - [Surround in quotes](https://github.com/paddyroddy/.github/pull/246) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 - [Fix typo in bibliography comment](https://github.com/moderncv/moderncv/pull/206) on [moderncv/moderncv](https://github.com/moderncv/moderncv)
-  (1 day ago)
-- [Use the new team for @renovatebot PRs](https://github.com/UCL-ARC/python-tooling/pull/435) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
-- [Install dependencies](https://github.com/paddyroddy/.github/pull/242) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
+- [dreamsofautonomy/zensh](https://github.com/dreamsofautonomy/zensh)
   (1 day ago)
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-  (1 week ago)
-- [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
-  (1 week ago)
-- [nhs-england-tools/repository-template](https://github.com/nhs-england-tools/repository-template) - 🛠️ 📚💡 This is a detailed and carefully made template for your GitHub projects. It&#39;s based on the wide knowledge and practical experience of the engineering community within NHS England. The template includes helpful suggestions, standards and practices - it&#39;s something you should consider using for all your repositories.
-  (2 weeks ago)
-- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-  (2 weeks ago)
+- [zdharma/zi](https://github.com/zdharma/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell
+  (1 day ago)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+  (1 day ago)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+  (1 day ago)
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
+  (2 days ago)
