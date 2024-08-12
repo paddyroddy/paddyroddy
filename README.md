@@ -15,38 +15,38 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
+  (3 days ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (2 days ago)
+  (3 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (3 days ago)
+  (4 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 days ago)
+  (4 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (3 days ago)
+  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Switch to `zinit`](https://github.com/paddyroddy/dotfiles/pull/30) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (2 days ago)
+  (3 days ago)
 - [Add public profile to GitHub organisation](https://github.com/UCL-ARC/.github/pull/20) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (2 days ago)
+  (3 days ago)
 - [Add missing conditional step](https://github.com/paddyroddy/.github/pull/247) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
+  (4 days ago)
 - [Surround in quotes](https://github.com/paddyroddy/.github/pull/246) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
+  (4 days ago)
 - [Fix typo in bibliography comment](https://github.com/moderncv/moderncv/pull/206) on [moderncv/moderncv](https://github.com/moderncv/moderncv)
-  (3 days ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [dreamsofautonomy/zensh](https://github.com/dreamsofautonomy/zensh)
-  (2 days ago)
-- [zdharma/zi](https://github.com/zdharma/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell
-  (2 days ago)
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
-  (2 days ago)
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-  (2 days ago)
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
   (3 days ago)
+- [zdharma/zi](https://github.com/zdharma/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell
+  (3 days ago)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+  (3 days ago)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+  (3 days ago)
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
+  (4 days ago)
