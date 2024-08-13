@@ -15,38 +15,38 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+  (today)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (3 days ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (4 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (4 days ago)
+  (5 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (4 days ago)
+  (5 days ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Up date oh my zsh](https://github.com/paddyroddy/dotfiles/pull/32) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [Revert &#34;Switch to `zinit`&#34;](https://github.com/paddyroddy/dotfiles/pull/31) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
 - [Switch to `zinit`](https://github.com/paddyroddy/dotfiles/pull/30) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
+  (4 days ago)
 - [Add public profile to GitHub organisation](https://github.com/UCL-ARC/.github/pull/20) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (3 days ago)
+  (4 days ago)
 - [Add missing conditional step](https://github.com/paddyroddy/.github/pull/247) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (4 days ago)
-- [Surround in quotes](https://github.com/paddyroddy/.github/pull/246) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (4 days ago)
-- [Fix typo in bibliography comment](https://github.com/moderncv/moderncv/pull/206) on [moderncv/moderncv](https://github.com/moderncv/moderncv)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
+- [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
+  (today)
+- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+  (1 day ago)
+- [pypa/manylinux](https://github.com/pypa/manylinux) - Python wheels that work on any linux (almost)
+  (1 day ago)
 - [dreamsofautonomy/zensh](https://github.com/dreamsofautonomy/zensh)
-  (3 days ago)
+  (4 days ago)
 - [zdharma/zi](https://github.com/zdharma/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell
-  (3 days ago)
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
-  (3 days ago)
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-  (3 days ago)
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
   (4 days ago)
