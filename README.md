@@ -15,9 +15,9 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (3 days ago)
+  (4 days ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
   (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
@@ -28,25 +28,25 @@ Research Computing, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [Fix `RubyGems` issues for `mise` regarding `sudo`](https://github.com/topgrade-rs/topgrade/pull/887) on [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
-  (1 day ago)
+  (2 days ago)
 - [Fix date](https://github.com/paddyroddy/talks/pull/57) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (3 days ago)
+  (4 days ago)
 - [Add reference to Wietze](https://github.com/paddyroddy/talks/pull/56) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (3 days ago)
+  (4 days ago)
 - [Up date oh my zsh](https://github.com/paddyroddy/dotfiles/pull/32) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (4 days ago)
+  (5 days ago)
 - [Revert &#34;Switch to `zinit`&#34;](https://github.com/paddyroddy/dotfiles/pull/31) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-  (2 days ago)
-- [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
   (3 days ago)
+- [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
+  (4 days ago)
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
-  (4 days ago)
+  (5 days ago)
 - [pypa/manylinux](https://github.com/pypa/manylinux) - Python wheels that work on any linux (almost)
-  (4 days ago)
+  (5 days ago)
 - [dreamsofautonomy/zensh](https://github.com/dreamsofautonomy/zensh)
   (1 week ago)
