@@ -14,36 +14,36 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (4 days ago)
+  (1 day ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (1 day ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (1 day ago)
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (6 days ago)
-- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (1 week ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [`ruby 3.3.4`](https://github.com/paddyroddy/adr-tree-surgery-website/pull/83) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (1 day ago)
+- [`ruby 3.3.4`](https://github.com/paddyroddy/paddyroddy.github.io/pull/106) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
 - [Fix `RubyGems` issues for `mise` regarding `sudo`](https://github.com/topgrade-rs/topgrade/pull/887) on [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade)
-  (4 days ago)
+  (5 days ago)
 - [Fix date](https://github.com/paddyroddy/talks/pull/57) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (6 days ago)
-- [Add reference to Wietze](https://github.com/paddyroddy/talks/pull/56) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (6 days ago)
-- [Up date oh my zsh](https://github.com/paddyroddy/dotfiles/pull/32) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 week ago)
-- [Revert &#34;Switch to `zinit`&#34;](https://github.com/paddyroddy/dotfiles/pull/31) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [Add reference to Wietze](https://github.com/paddyroddy/talks/pull/56) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-  (5 days ago)
-- [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
   (6 days ago)
+- [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
+  (1 week ago)
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
   (1 week ago)
 - [pypa/manylinux](https://github.com/pypa/manylinux) - Python wheels that work on any linux (almost)
