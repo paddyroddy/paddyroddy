@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (2 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (2 days ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (2 days ago)
-- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
   (3 days ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (3 days ago)
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Add custom title to review process](https://github.com/paddyroddy/talks/pull/61) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
-- [Change to Acceptance](https://github.com/paddyroddy/talks/pull/60) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
-- [More typos](https://github.com/paddyroddy/talks/pull/59) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
-- [Typos](https://github.com/paddyroddy/talks/pull/58) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
-- [`ruby 3.3.4`](https://github.com/paddyroddy/adr-tree-surgery-website/pull/83) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
   (2 days ago)
+- [Change to Acceptance](https://github.com/paddyroddy/talks/pull/60) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (2 days ago)
+- [More typos](https://github.com/paddyroddy/talks/pull/59) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (2 days ago)
+- [Typos](https://github.com/paddyroddy/talks/pull/58) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (2 days ago)
+- [`ruby 3.3.4`](https://github.com/paddyroddy/adr-tree-surgery-website/pull/83) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
   (1 day ago)
+- [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
+  (2 days ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
   (1 week ago)
 - [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
   (1 week ago)
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
-  (1 week ago)
-- [pypa/manylinux](https://github.com/pypa/manylinux) - Python wheels that work on any linux (almost)
   (1 week ago)
