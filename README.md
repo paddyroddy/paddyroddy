@@ -14,38 +14,38 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 week ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 week ago)
-- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Make solution not mandatory](https://github.com/paddyroddy/.github/pull/248) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Start CI/CD talk](https://github.com/paddyroddy/talks/pull/62) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 - [Add custom title to review process](https://github.com/paddyroddy/talks/pull/61) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 week ago)
 - [Change to Acceptance](https://github.com/paddyroddy/talks/pull/60) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 week ago)
 - [More typos](https://github.com/paddyroddy/talks/pull/59) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 week ago)
-- [Typos](https://github.com/paddyroddy/talks/pull/58) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
-- [`ruby 3.3.4`](https://github.com/paddyroddy/adr-tree-surgery-website/pull/83) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-  (6 days ago)
+  (1 week ago)
 - [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
   (1 week ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-  (1 week ago)
+  (2 weeks ago)
 - [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
   (2 weeks ago)
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
