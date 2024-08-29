@@ -14,9 +14,9 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 week ago)
@@ -28,9 +28,9 @@ Research Computing, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [Make solution not mandatory](https://github.com/paddyroddy/.github/pull/248) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 - [Start CI/CD talk](https://github.com/paddyroddy/talks/pull/62) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
+  (2 days ago)
 - [Add custom title to review process](https://github.com/paddyroddy/talks/pull/61) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 week ago)
 - [Change to Acceptance](https://github.com/paddyroddy/talks/pull/60) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
