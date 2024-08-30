@@ -14,29 +14,29 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 week ago)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (1 week ago)
+  (today)
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+  (today)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 week ago)
+  (1 day ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Make solution not mandatory](https://github.com/paddyroddy/.github/pull/248) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 days ago)
-- [Start CI/CD talk](https://github.com/paddyroddy/talks/pull/62) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (2 days ago)
-- [Add custom title to review process](https://github.com/paddyroddy/talks/pull/61) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
-- [Change to Acceptance](https://github.com/paddyroddy/talks/pull/60) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
-- [More typos](https://github.com/paddyroddy/talks/pull/59) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
+- [Add collab hour link](https://github.com/paddyroddy/talks/pull/66) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (today)
+- [Turn off full page layout](https://github.com/paddyroddy/blog/pull/3) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
+  (today)
+- [Improve listing and don&#39;t open links in new tabs](https://github.com/paddyroddy/talks/pull/65) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Remove external tab links](https://github.com/paddyroddy/blog/pull/2) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
+  (1 day ago)
+- [Links open in same tab](https://github.com/paddyroddy/paddyroddy.github.io/pull/109) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
