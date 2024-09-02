@@ -15,28 +15,28 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 days ago)
+  (3 days ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (2 days ago)
-- [heracles-ec/heracles](https://github.com/heracles-ec/heracles) - Euclid SGS code for harmonic-space statistics on the sphere
-  (2 days ago)
+  (3 days ago)
+- [heracles-ec/heracles](https://github.com/heracles-ec/heracles) - Harmonic-space statistics on the sphere. 🛰️ Made in the Euclid Science Ground Segment.
+  (3 days ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (3 days ago)
+  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Add collab hour link](https://github.com/paddyroddy/talks/pull/66) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (2 days ago)
+  (3 days ago)
 - [Turn off full page layout](https://github.com/paddyroddy/blog/pull/3) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (2 days ago)
+  (3 days ago)
 - [Improve listing and don&#39;t open links in new tabs](https://github.com/paddyroddy/talks/pull/65) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (3 days ago)
+  (4 days ago)
 - [Remove external tab links](https://github.com/paddyroddy/blog/pull/2) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (3 days ago)
+  (4 days ago)
 - [Links open in same tab](https://github.com/paddyroddy/paddyroddy.github.io/pull/109) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (3 days ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
@@ -49,4 +49,4 @@ Research Computing, UCL.
 - [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
   (2 weeks ago)
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
-  (2 weeks ago)
+  (3 weeks ago)
