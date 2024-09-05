@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (today)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
   (1 day ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (1 day ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Comment out `crate-ci/typos`](https://github.com/UCL-MIRSG/.github/pull/129) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [Fix linting](https://github.com/paddyroddy/phd-thesis/pull/58) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
   (1 day ago)
-- [Add collab hour link](https://github.com/paddyroddy/talks/pull/66) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (4 days ago)
-- [Turn off full page layout](https://github.com/paddyroddy/blog/pull/3) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (4 days ago)
-- [Improve listing and don&#39;t open links in new tabs](https://github.com/paddyroddy/talks/pull/65) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (5 days ago)
-- [Remove external tab links](https://github.com/paddyroddy/blog/pull/2) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (5 days ago)
+- [Americanisms](https://github.com/paddyroddy/phd-thesis/pull/57) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
+  (1 day ago)
+- [Americanisms](https://github.com/paddyroddy/paddyroddy.github.io/pull/110) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
+- [Americanisms](https://github.com/paddyroddy/python-template/pull/172) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (1 day ago)
+- [Americanisms](https://github.com/paddyroddy/blog/pull/4) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
+  (1 day ago)
+- [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
+  (2 days ago)
+- [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The sweeter pytest snapshot plugin
+  (2 days ago)
+- [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
+  (2 days ago)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
-  (1 week ago)
-- [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code!
   (2 weeks ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-  (2 weeks ago)
-- [quarto-ext/fontawesome](https://github.com/quarto-ext/fontawesome) - Use Font Awesome icons in HTML and PDF documents.
-  (3 weeks ago)
-- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
-  (3 weeks ago)
