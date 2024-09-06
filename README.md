@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (today)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
 - [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add `lua` `pre-commit` hooks](https://github.com/paddyroddy/.github/pull/250) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
 - [Fix linting](https://github.com/paddyroddy/phd-thesis/pull/58) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
-  (1 day ago)
+  (2 days ago)
 - [Americanisms](https://github.com/paddyroddy/phd-thesis/pull/57) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
-  (1 day ago)
+  (2 days ago)
 - [Americanisms](https://github.com/paddyroddy/paddyroddy.github.io/pull/110) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
+  (2 days ago)
 - [Americanisms](https://github.com/paddyroddy/python-template/pull/172) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (1 day ago)
-- [Americanisms](https://github.com/paddyroddy/blog/pull/4) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-  (1 day ago)
+  (2 days ago)
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
-  (2 days ago)
+  (3 days ago)
 - [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The sweeter pytest snapshot plugin
-  (2 days ago)
+  (3 days ago)
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
-  (2 days ago)
+  (3 days ago)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
   (2 weeks ago)
