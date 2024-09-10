@@ -15,38 +15,38 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (3 days ago)
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (4 days ago)
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (5 days ago)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (6 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (5 days ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Replace QR block with include file](https://github.com/paddyroddy/talks/pull/70) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 - [Add QR code to each talk and other improvements](https://github.com/paddyroddy/talks/pull/68) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (3 days ago)
+  (4 days ago)
 - [Add `lua` `pre-commit` hooks](https://github.com/paddyroddy/.github/pull/250) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
+  (4 days ago)
 - [Fix linting](https://github.com/paddyroddy/phd-thesis/pull/58) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
-  (5 days ago)
+  (6 days ago)
 - [Americanisms](https://github.com/paddyroddy/phd-thesis/pull/57) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
-  (5 days ago)
-- [Americanisms](https://github.com/paddyroddy/paddyroddy.github.io/pull/110) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-  (5 days ago)
+  (6 days ago)
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
-  (6 days ago)
+  (1 week ago)
 - [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The sweeter pytest snapshot plugin
-  (6 days ago)
+  (1 week ago)
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
-  (6 days ago)
+  (1 week ago)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
   (2 weeks ago)
