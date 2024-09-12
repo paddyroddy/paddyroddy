@@ -14,34 +14,34 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (6 days ago)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (1 week ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 week ago)
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Check links for all files](https://github.com/paddyroddy/.github/pull/252) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [STY: add `ruff-format` and remove `flake8`](https://github.com/glass-dev/glass/pull/199) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [Add link to actual DevOps page](https://github.com/paddyroddy/talks/pull/72) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [MNT: expand list of classifiers](https://github.com/glass-dev/glass/pull/197) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [Fix table](https://github.com/paddyroddy/talks/pull/71) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [MNT: add issue templates](https://github.com/glass-dev/glass/pull/196) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [Replace tabs with spaces](https://github.com/paddyroddy/.github/pull/251) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [MNT: pin NumPy to v1 (until v2 is supported)](https://github.com/glass-dev/glass/pull/195) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [Replace QR block with include file](https://github.com/paddyroddy/talks/pull/70) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (2 days ago)
+- [MNT: Change copyright range in documentation to be automated](https://github.com/glass-dev/glass/pull/194) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
-  (1 day ago)
+  (2 days ago)
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
   (1 week ago)
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
