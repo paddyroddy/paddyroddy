@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (5 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (6 days ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (6 days ago)
+  (today)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 day ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (6 days ago)
+  (1 week ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 week ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-163: full support of `NumPy v2`](https://github.com/glass-dev/glass/pull/207) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [STY: add `ruff-format` and remove `flake8`](https://github.com/glass-dev/glass/pull/199) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [gh-183: expand list of classifiers](https://github.com/glass-dev/glass/pull/197) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [gh-172: add issue templates](https://github.com/glass-dev/glass/pull/196) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [MNT: pin NumPy to v1 (until v2 is supported)](https://github.com/glass-dev/glass/pull/195) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
+- [gh-231: add `ruff` linting to `pre-commit`](https://github.com/glass-dev/glass/pull/232) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Add `yamllint` and run over the repo](https://github.com/glass-dev/glass/pull/230) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Fix typos running `crate-ci/typos` over code base](https://github.com/glass-dev/glass/pull/229) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-226: run `prettier` over the repo via a `pre-commit` hook](https://github.com/glass-dev/glass/pull/227) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-224: remove no blank issue enforcement](https://github.com/glass-dev/glass/pull/225) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
+  (1 day ago)
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
   (1 week ago)
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-  (1 week ago)
+  (2 weeks ago)
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
   (2 weeks ago)
 - [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The sweeter pytest snapshot plugin
-  (2 weeks ago)
-- [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
   (2 weeks ago)
