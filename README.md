@@ -15,7 +15,7 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (2 days ago)
+  (today)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
@@ -27,6 +27,8 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-265: calculate `fixture` once per testing `session`](https://github.com/glass-dev/glass/pull/266) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-231: add `ruff` linting to `pre-commit`](https://github.com/glass-dev/glass/pull/232) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-170: add `yamllint` and run over the repo](https://github.com/glass-dev/glass/pull/230) on [glass-dev/glass](https://github.com/glass-dev/glass)
@@ -34,8 +36,6 @@ Research Computing, UCL.
 - [Fix typos running `crate-ci/typos` over code base](https://github.com/glass-dev/glass/pull/229) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-226: run `prettier` over the repo via a `pre-commit` hook](https://github.com/glass-dev/glass/pull/227) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-224: remove no blank issue enforcement](https://github.com/glass-dev/glass/pull/225) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 
 #### ⭐ Recent Stars
