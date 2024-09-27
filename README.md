@@ -15,7 +15,7 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (today)
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
@@ -27,19 +27,21 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-265: calculate `fixture` once per testing `session`](https://github.com/glass-dev/glass/pull/266) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-267: move arguments from `pre-commit` to config files](https://github.com/glass-dev/glass/pull/284) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
+- [gh-265: calculate `fixture` once per testing `session`](https://github.com/glass-dev/glass/pull/266) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (2 days ago)
 - [gh-231: add `ruff` linting to `pre-commit`](https://github.com/glass-dev/glass/pull/232) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-170: add `yamllint` and run over the repo](https://github.com/glass-dev/glass/pull/230) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [Fix typos running `crate-ci/typos` over code base](https://github.com/glass-dev/glass/pull/229) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
-- [gh-226: run `prettier` over the repo via a `pre-commit` hook](https://github.com/glass-dev/glass/pull/227) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [pappasam/toml-sort](https://github.com/pappasam/toml-sort) - Toml sorting library
+  (1 day ago)
 - [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
   (1 week ago)
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
@@ -47,6 +49,4 @@ Research Computing, UCL.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
   (3 weeks ago)
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
-  (3 weeks ago)
-- [syrupy-project/syrupy](https://github.com/syrupy-project/syrupy) - :pancakes: The sweeter pytest snapshot plugin
   (3 weeks ago)
