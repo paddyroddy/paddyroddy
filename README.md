@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (2 weeks ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (2 weeks ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-267: move arguments from `pre-commit` to config files](https://github.com/glass-dev/glass/pull/284) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-290: add extra contact links to the raise issue button](https://github.com/glass-dev/glass/pull/291) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [gh-265: calculate `fixture` once per testing `session`](https://github.com/glass-dev/glass/pull/266) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [No longer require the second question to be mandatory](https://github.com/UCL-ARC/python-tooling/pull/448) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (1 day ago)
+- [Add `py.typed` file](https://github.com/astro-informatics/sleplet/pull/412) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
+- [gh-288: run CI when a draft PR is marked as ready](https://github.com/glass-dev/glass/pull/289) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-267: move arguments from `pre-commit` to config files](https://github.com/glass-dev/glass/pull/284) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
-- [gh-231: add `ruff` linting to `pre-commit`](https://github.com/glass-dev/glass/pull/232) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-170: add `yamllint` and run over the repo](https://github.com/glass-dev/glass/pull/230) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [Fix typos running `crate-ci/typos` over code base](https://github.com/glass-dev/glass/pull/229) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [pappasam/toml-sort](https://github.com/pappasam/toml-sort) - Toml sorting library
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
   (1 day ago)
+- [pappasam/toml-sort](https://github.com/pappasam/toml-sort) - Toml sorting library
+  (2 days ago)
 - [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
   (1 week ago)
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
   (2 weeks ago)
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
-  (3 weeks ago)
-- [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
   (3 weeks ago)
