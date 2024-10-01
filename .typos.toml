@@ -1,0 +1,7 @@
+[type.tpl]
+extend-glob = [
+    "*.tpl",
+]
+extend-ignore-re = [
+    "\\(\\{{2}humanize",
+]
