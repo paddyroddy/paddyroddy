@@ -15,37 +15,37 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
+  (today)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (2 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-246: replace `numpy.ndarray` with `numpy.typing.NDArray`](https://github.com/glass-dev/glass/pull/305) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
+- [Remove `check-github-workflows`](https://github.com/paddyroddy/.github/pull/255) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [gh-302: add `actionlint` and fix issues](https://github.com/glass-dev/glass/pull/303) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-300: convert tabs to spaces and disable generally](https://github.com/glass-dev/glass/pull/301) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [Try `pytest-xdist`](https://github.com/astro-informatics/sleplet/pull/415) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
-- [Renovate isn&#39;t correctly assigning reviewers](https://github.com/UCL-ARC/python-tooling/pull/456) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
-- [Restore/update `typos` and turn off British spelling](https://github.com/UCL-MIRSG/.github/pull/131) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
-- [American spelling](https://github.com/astro-informatics/sleplet/pull/414) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
-- [American spelling](https://github.com/paddyroddy/.github/pull/254) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes. 
-  (1 day ago)
+  (2 days ago)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-  (5 days ago)
-- [pappasam/toml-sort](https://github.com/pappasam/toml-sort) - Toml sorting library
   (6 days ago)
+- [pappasam/toml-sort](https://github.com/pappasam/toml-sort) - Toml sorting library
+  (1 week ago)
 - [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
   (2 weeks ago)
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
