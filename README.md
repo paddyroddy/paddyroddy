@@ -16,37 +16,37 @@ Research Computing, UCL.
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (today)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (2 days ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (2 days ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (3 days ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-246: replace `numpy.ndarray` with `numpy.typing.NDArray`](https://github.com/glass-dev/glass/pull/305) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (today)
-- [Remove `check-github-workflows`](https://github.com/paddyroddy/.github/pull/255) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [gh-321: group markdown badges into sections](https://github.com/glass-dev/glass/pull/322) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [gh-302: add `actionlint` and fix issues](https://github.com/glass-dev/glass/pull/303) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-319: run coverage in parallel and aggregate results](https://github.com/glass-dev/glass/pull/320) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [gh-300: convert tabs to spaces and disable generally](https://github.com/glass-dev/glass/pull/301) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-282: extend `coverage` options to improve output](https://github.com/glass-dev/glass/pull/318) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [Try `pytest-xdist`](https://github.com/astro-informatics/sleplet/pull/415) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (2 days ago)
+- [gh-285: move test imports to the top](https://github.com/glass-dev/glass/pull/309) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-280: add `mypy` support](https://github.com/glass-dev/glass/pull/308) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [mgedmin/check-manifest](https://github.com/mgedmin/check-manifest) - Tool to check the completeness of MANIFEST.in for Python packages
+  (1 day ago)
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes. 
-  (2 days ago)
+  (3 days ago)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-  (6 days ago)
+  (1 week ago)
 - [pappasam/toml-sort](https://github.com/pappasam/toml-sort) - Toml sorting library
   (1 week ago)
 - [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
   (2 weeks ago)
-- [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
-  (3 weeks ago)
