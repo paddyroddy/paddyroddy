@@ -15,38 +15,38 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 days ago)
+  (4 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (5 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (5 days ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (6 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (6 days ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add `python==3.13` support](https://github.com/astro-informatics/sleplet/pull/417) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
 - [Make sure `preferred-citation` is at the bottom](https://github.com/astro-informatics/sleplet/pull/416) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (3 days ago)
+  (4 days ago)
 - [gh-198: enforce `python&gt;3.8` &amp; `numpy&gt;1.21`](https://github.com/glass-dev/glass/pull/326) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+  (4 days ago)
 - [gh-321: group markdown badges into sections](https://github.com/glass-dev/glass/pull/322) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 - [gh-319: run coverage in parallel and aggregate results](https://github.com/glass-dev/glass/pull/320) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-282: extend `coverage` options to improve output](https://github.com/glass-dev/glass/pull/318) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [mgedmin/check-manifest](https://github.com/mgedmin/check-manifest) - Tool to check the completeness of MANIFEST.in for Python packages
-  (4 days ago)
+  (5 days ago)
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes. 
-  (6 days ago)
+  (1 week ago)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
   (1 week ago)
 - [pappasam/toml-sort](https://github.com/pappasam/toml-sort) - Toml sorting library
   (1 week ago)
 - [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
-  (2 weeks ago)
+  (3 weeks ago)
