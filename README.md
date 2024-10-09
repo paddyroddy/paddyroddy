@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (4 days ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (4 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (6 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (6 days ago)
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 week ago)
+  (1 day ago)
+- [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
+  (2 days ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add `python==3.13` support](https://github.com/astro-informatics/sleplet/pull/417) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (today)
-- [Make sure `preferred-citation` is at the bottom](https://github.com/astro-informatics/sleplet/pull/416) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (4 days ago)
-- [gh-198: enforce `python&gt;3.8` &amp; `numpy&gt;1.21`](https://github.com/glass-dev/glass/pull/326) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-321: group markdown badges into sections](https://github.com/glass-dev/glass/pull/322) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [gh-319: run coverage in parallel and aggregate results](https://github.com/glass-dev/glass/pull/320) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
+- [Second question no longer required](https://github.com/paddyroddy/python-template/pull/179) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (1 day ago)
+- [Use native TOML syntax for `tox`](https://github.com/astro-informatics/sleplet/pull/421) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
+- [Missing `310` from `tox`](https://github.com/paddyroddy/python-template/pull/178) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (1 day ago)
+- [Use `tox-gh` under the hood over `tox-gh-actions`](https://github.com/astro-informatics/sleplet/pull/420) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
+- [Switch from `tox-gh-actions` to `tox-gh`](https://github.com/paddyroddy/.github/pull/256) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [matangover/mypy-vscode](https://github.com/matangover/mypy-vscode) - VS Code extension that provides type checking and analysis for Python code using mypy.
+  (1 day ago)
+- [geo7/mypy_clean_slate](https://github.com/geo7/mypy_clean_slate) - CLI tool for providing a clean slate for mypy usage within a project.
+  (1 day ago)
+- [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh) - Github Action support for tox 4 and later
+  (1 day ago)
+- [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions) - Seamless integration of tox into GitHub Actions for tox 3 and 4
+  (1 day ago)
 - [mgedmin/check-manifest](https://github.com/mgedmin/check-manifest) - Tool to check the completeness of MANIFEST.in for Python packages
-  (5 days ago)
-- [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes. 
-  (1 week ago)
-- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-  (1 week ago)
-- [pappasam/toml-sort](https://github.com/pappasam/toml-sort) - Toml sorting library
-  (1 week ago)
-- [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
-  (3 weeks ago)
+  (6 days ago)
