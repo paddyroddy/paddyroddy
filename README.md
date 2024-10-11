@@ -15,38 +15,38 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 days ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (2 days ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (2 days ago)
-- [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
   (3 days ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (3 days ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (3 days ago)
+- [scipy-conference/scipy_proceedings](https://github.com/scipy-conference/scipy_proceedings) - Tools used to generate the SciPy conference proceedings
+  (4 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-346: switch to `Google` docstrings &#43; use static typing in docs](https://github.com/glass-dev/glass/pull/347) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+- [gh-346: enforce `NumPy` docstrings &#43; use static typing in docs](https://github.com/glass-dev/glass/pull/347) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (2 days ago)
 - [Second question no longer required](https://github.com/paddyroddy/python-template/pull/179) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (2 days ago)
+  (3 days ago)
 - [Use native TOML syntax for `tox`](https://github.com/astro-informatics/sleplet/pull/421) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (2 days ago)
+  (3 days ago)
 - [Missing `310` from `tox`](https://github.com/paddyroddy/python-template/pull/178) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (2 days ago)
+  (3 days ago)
 - [Use `tox-gh` under the hood over `tox-gh-actions`](https://github.com/astro-informatics/sleplet/pull/420) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (2 days ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
 - [matangover/mypy-vscode](https://github.com/matangover/mypy-vscode) - VS Code extension that provides type checking and analysis for Python code using mypy.
-  (2 days ago)
+  (3 days ago)
 - [geo7/mypy_clean_slate](https://github.com/geo7/mypy_clean_slate) - CLI tool for providing a clean slate for mypy usage within a project.
-  (2 days ago)
+  (3 days ago)
 - [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh) - Github Action support for tox 4 and later
-  (2 days ago)
+  (3 days ago)
 - [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions) - Seamless integration of tox into GitHub Actions for tox 3 and 4
-  (2 days ago)
+  (3 days ago)
 - [mgedmin/check-manifest](https://github.com/mgedmin/check-manifest) - Tool to check the completeness of MANIFEST.in for Python packages
   (1 week ago)
