@@ -14,11 +14,11 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (4 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 week ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (today)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (5 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (1 week ago)
@@ -27,21 +27,21 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
-- [Fix `Returns` in docstrings (I think entered in #357)](https://github.com/glass-dev/glass/pull/373) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [gh-358: add static types support](https://github.com/glass-dev/glass/pull/368) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-280: add `mypy` to codebase](https://github.com/glass-dev/glass/pull/359) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-355: consistent use of `typing` and `collections.abc`](https://github.com/glass-dev/glass/pull/356) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [Native TOML support for `tox`](https://github.com/UCL-ARC/python-tooling/pull/460) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 week ago)
+- [Missing `--checkout latest` instruction](https://github.com/UCL-ARC/python-tooling/pull/478) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (today)
+- [Once #471 is merged, we should encorage checkout `latest`](https://github.com/UCL-ARC/python-tooling/pull/476) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (1 day ago)
+- [Add instructions of how to extract the version of the repo](https://github.com/UCL-ARC/python-tooling/pull/475) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (1 day ago)
+- [Fix missing `target-version` in `ruff`](https://github.com/UCL-ARC/python-tooling/pull/474) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (1 day ago)
+- [Change to `github.ref_name` for `latest` flag](https://github.com/UCL-ARC/python-tooling/pull/472) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (6 days ago)
+  (1 week ago)
 - [matangover/mypy-vscode](https://github.com/matangover/mypy-vscode) - VS Code extension that provides type checking and analysis for Python code using mypy.
   (2 weeks ago)
 - [geo7/mypy_clean_slate](https://github.com/geo7/mypy_clean_slate) - CLI tool for providing a clean slate for mypy usage within a project.
