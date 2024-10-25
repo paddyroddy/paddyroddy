@@ -14,32 +14,34 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 day ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (6 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (2 days ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 week ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 week ago)
+  (2 weeks ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Missing `--checkout latest` instruction](https://github.com/UCL-ARC/python-tooling/pull/478) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+- [gh-379: fix warnings when running the notebooks](https://github.com/glass-dev/glass/pull/380) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
+- [Missing `--checkout latest` instruction](https://github.com/UCL-ARC/python-tooling/pull/478) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (2 days ago)
 - [Once #471 is merged, we should encorage checkout `latest`](https://github.com/UCL-ARC/python-tooling/pull/476) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (2 days ago)
+  (3 days ago)
 - [Add instructions of how to extract the version of the repo](https://github.com/UCL-ARC/python-tooling/pull/475) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (2 days ago)
+  (3 days ago)
 - [Fix missing `target-version` in `ruff`](https://github.com/UCL-ARC/python-tooling/pull/474) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (2 days ago)
-- [Change to `github.ref_name` for `latest` flag](https://github.com/UCL-ARC/python-tooling/pull/472) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (2 days ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
+- [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 week ago)
 - [matangover/mypy-vscode](https://github.com/matangover/mypy-vscode) - VS Code extension that provides type checking and analysis for Python code using mypy.
@@ -47,6 +49,4 @@ Research Computing, UCL.
 - [geo7/mypy_clean_slate](https://github.com/geo7/mypy_clean_slate) - CLI tool for providing a clean slate for mypy usage within a project.
   (2 weeks ago)
 - [tox-dev/tox-gh](https://github.com/tox-dev/tox-gh) - Github Action support for tox 4 and later
-  (2 weeks ago)
-- [ymyzk/tox-gh-actions](https://github.com/ymyzk/tox-gh-actions) - Seamless integration of tox into GitHub Actions for tox 3 and 4
   (2 weeks ago)
