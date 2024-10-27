@@ -15,11 +15,11 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (2 days ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (3 days ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (4 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (2 weeks ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
@@ -28,22 +28,22 @@ Research Computing, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [gh-188: add docstrings to all functions and tidy docs](https://github.com/glass-dev/glass/pull/381) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-379: fix warnings when running the notebooks](https://github.com/glass-dev/glass/pull/380) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
-- [Missing `--checkout latest` instruction](https://github.com/UCL-ARC/python-tooling/pull/478) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+- [gh-379: fix warnings when running the notebooks](https://github.com/glass-dev/glass/pull/380) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (3 days ago)
+- [Missing `--checkout latest` instruction](https://github.com/UCL-ARC/python-tooling/pull/478) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (4 days ago)
 - [Once #471 is merged, we should encorage checkout `latest`](https://github.com/UCL-ARC/python-tooling/pull/476) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (4 days ago)
+  (5 days ago)
 - [Add instructions of how to extract the version of the repo](https://github.com/UCL-ARC/python-tooling/pull/475) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [scikit-hep/ragged](https://github.com/scikit-hep/ragged) - Manipulating ragged arrays in an Array API compliant way.
-  (1 day ago)
-- [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
   (2 days ago)
+- [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
+  (3 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 week ago)
 - [matangover/mypy-vscode](https://github.com/matangover/mypy-vscode) - VS Code extension that provides type checking and analysis for Python code using mypy.
