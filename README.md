@@ -15,9 +15,9 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (5 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (6 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 week ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 week ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
@@ -27,23 +27,23 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-354: Tidy Actions, name steps, cache dependencies](https://github.com/glass-dev/glass/pull/388) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-248: fix all remaining possible ruff `# noqa` statements](https://github.com/glass-dev/glass/pull/394) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [Revert &#34;[pre-commit.ci] pre-commit autoupdate&#34;](https://github.com/UCL-ARC/python-tooling/pull/482) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+- [gh-362: review the `ruff-format` recommended rules](https://github.com/glass-dev/glass/pull/393) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [gh-188: add docstrings to all functions and tidy docs](https://github.com/glass-dev/glass/pull/381) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [gh-379: fix warnings when running the notebooks](https://github.com/glass-dev/glass/pull/380) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [Missing `--checkout latest` instruction](https://github.com/UCL-ARC/python-tooling/pull/478) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 week ago)
+- [gh-384: rename all internal functions to `trapezoid` over `trapz`](https://github.com/glass-dev/glass/pull/392) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-163: drop `Python 3.9` &amp; `NumPy &lt; 2.1.1` support](https://github.com/glass-dev/glass/pull/391) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-385: set random seeds in all glass functions used in notebooks](https://github.com/glass-dev/glass/pull/389) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [scikit-hep/ragged](https://github.com/scikit-hep/ragged) - Manipulating ragged arrays in an Array API compliant way.
-  (5 days ago)
-- [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
   (6 days ago)
+- [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
+  (1 week ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (2 weeks ago)
 - [matangover/mypy-vscode](https://github.com/matangover/mypy-vscode) - VS Code extension that provides type checking and analysis for Python code using mypy.
