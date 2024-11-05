@@ -15,38 +15,38 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (3 days ago)
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+  (1 day ago)
+- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (3 days ago)
-- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (3 days ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (3 days ago)
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Change to `${{ !cancelled() }}`](https://github.com/paddyroddy/.github/pull/258) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Add `pre-commit-ci` action to autofix](https://github.com/UCL-MIRSG/.github/pull/134) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Add `pre-commit-ci/live-action` to linting job](https://github.com/paddyroddy/.github/pull/257) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 - [gh-348: add overloading for functions with variable outputs](https://github.com/glass-dev/glass/pull/395) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+  (4 days ago)
 - [Expand default to link checker and exclude project link](https://github.com/UCL-MIRSG/.github/pull/133) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (3 days ago)
-- [Allow `terraform` to autoupdate](https://github.com/UCL-ARC/.github/pull/21) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (3 days ago)
-- [gh-248: fix all remaining possible ruff `# noqa` statements](https://github.com/glass-dev/glass/pull/394) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [gh-362: review the `ruff-format` recommended rules](https://github.com/glass-dev/glass/pull/393) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
+- [pre-commit-ci/lite-action](https://github.com/pre-commit-ci/lite-action) - github action for pre-commit-ci lite
+  (1 day ago)
 - [scikit-hep/ragged](https://github.com/scikit-hep/ragged) - Manipulating ragged arrays in an Array API compliant way.
   (1 week ago)
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
   (1 week ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (2 weeks ago)
-- [matangover/mypy-vscode](https://github.com/matangover/mypy-vscode) - VS Code extension that provides type checking and analysis for Python code using mypy.
-  (3 weeks ago)
-- [geo7/mypy_clean_slate](https://github.com/geo7/mypy_clean_slate) - CLI tool for providing a clean slate for mypy usage within a project.
-  (3 weeks ago)
