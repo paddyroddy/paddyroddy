@@ -15,11 +15,11 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
+  (2 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (5 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (6 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 week ago)
 - [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
   (1 week ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
@@ -28,9 +28,9 @@ Research Computing, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [gh-399: hide `kappa_ia_nla`](https://github.com/glass-dev/glass/pull/400) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-124: use `cosmology.api` over the `cosmology` package](https://github.com/glass-dev/glass/pull/397) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
+  (6 days ago)
 - [Change to `${{ !cancelled() }}`](https://github.com/paddyroddy/.github/pull/258) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 week ago)
 - [Add `pre-commit-ci` action to autofix](https://github.com/UCL-MIRSG/.github/pull/134) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
@@ -40,13 +40,13 @@ Research Computing, UCL.
 
 #### ⭐ Recent Stars
 
+- [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
+  (1 day ago)
+- [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
+  (1 day ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-  (3 days ago)
+  (4 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 week ago)
 - [pre-commit-ci/lite-action](https://github.com/pre-commit-ci/lite-action) - github action for pre-commit-ci lite
   (1 week ago)
-- [scikit-hep/ragged](https://github.com/scikit-hep/ragged) - Manipulating ragged arrays in an Array API compliant way.
-  (2 weeks ago)
-- [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
-  (2 weeks ago)
