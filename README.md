@@ -15,9 +15,9 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (2 days ago)
+  (1 day ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
@@ -27,25 +27,25 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-286: replace `stable` in docs with tag for `sdist`](https://github.com/glass-dev/glass/pull/416) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
 - [gh-399: hide `kappa_ia_nla`](https://github.com/glass-dev/glass/pull/400) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [gh-124: use `cosmology.api` over the `cosmology` package](https://github.com/glass-dev/glass/pull/397) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
+  (1 week ago)
 - [Change to `${{ !cancelled() }}`](https://github.com/paddyroddy/.github/pull/258) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 week ago)
 - [Add `pre-commit-ci` action to autofix](https://github.com/UCL-MIRSG/.github/pull/134) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
-- [Add `pre-commit-ci/live-action` to linting job](https://github.com/paddyroddy/.github/pull/257) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
-  (1 day ago)
+  (2 days ago)
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
-  (1 day ago)
+  (2 days ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-  (4 days ago)
+  (5 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 week ago)
 - [pre-commit-ci/lite-action](https://github.com/pre-commit-ci/lite-action) - github action for pre-commit-ci lite
