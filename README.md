@@ -27,25 +27,25 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-418: add variable names for `Yields` vars](https://github.com/glass-dev/glass/pull/428) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-421: fix TestPyPI deployment](https://github.com/glass-dev/glass/pull/427) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-398: consistent plotting for notebooks](https://github.com/glass-dev/glass/pull/425) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-419: fix imports](https://github.com/glass-dev/glass/pull/420) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-286: replace `stable` in docs with tag for `sdist`](https://github.com/glass-dev/glass/pull/416) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-399: hide `kappa_ia_nla`](https://github.com/glass-dev/glass/pull/400) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-124: use `cosmology.api` over the `cosmology` package](https://github.com/glass-dev/glass/pull/397) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [Change to `${{ !cancelled() }}`](https://github.com/paddyroddy/.github/pull/258) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
-  (3 days ago)
+  (4 days ago)
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
-  (3 days ago)
+  (4 days ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-  (6 days ago)
+  (1 week ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 week ago)
 - [pre-commit-ci/lite-action](https://github.com/pre-commit-ci/lite-action) - github action for pre-commit-ci lite
