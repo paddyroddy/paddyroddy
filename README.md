@@ -15,35 +15,35 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (today)
+  (1 day ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (2 weeks ago)
-- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-271: add tests for `glass.observations`](https://github.com/glass-dev/glass/pull/436) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Fix linting](https://github.com/glass-dev/glass/pull/435) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-431: switch from `license.file` to `license.text`](https://github.com/glass-dev/glass/pull/434) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-418: add variable names for `Yields` vars](https://github.com/glass-dev/glass/pull/428) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-421: fix TestPyPI deployment](https://github.com/glass-dev/glass/pull/427) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-398: consistent plotting for notebooks](https://github.com/glass-dev/glass/pull/425) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-419: fix imports](https://github.com/glass-dev/glass/pull/420) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (4 days ago)
-- [gh-286: replace `stable` in docs with tag for `sdist`](https://github.com/glass-dev/glass/pull/416) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-421: fix TestPyPI deployment](https://github.com/glass-dev/glass/pull/427) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
-  (6 days ago)
+  (1 week ago)
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
-  (6 days ago)
+  (1 week ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
   (1 week ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
