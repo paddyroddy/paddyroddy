@@ -14,12 +14,12 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (2 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 week ago)
+  (2 weeks ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (2 weeks ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
@@ -27,16 +27,16 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-443: `if` should be `elif` in `fixed_zbins`](https://github.com/glass-dev/glass/pull/444) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-441: import directly from `glass` in tests](https://github.com/glass-dev/glass/pull/442) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-271: add tests for `glass.observations`](https://github.com/glass-dev/glass/pull/436) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [Fix linting](https://github.com/glass-dev/glass/pull/435) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [gh-431: switch from `license.file` to `license.text`](https://github.com/glass-dev/glass/pull/434) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-418: add variable names for `Yields` vars](https://github.com/glass-dev/glass/pull/428) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [gh-421: fix TestPyPI deployment](https://github.com/glass-dev/glass/pull/427) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
