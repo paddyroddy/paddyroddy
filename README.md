@@ -14,29 +14,29 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
+  (3 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (2 weeks ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (2 weeks ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-443: `if` should be `elif` in `fixed_zbins`](https://github.com/glass-dev/glass/pull/444) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-450: move all `pytest.fixture` into `conftest.py`](https://github.com/glass-dev/glass/pull/451) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [gh-441: import directly from `glass` in tests](https://github.com/glass-dev/glass/pull/442) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-273: add tests for `glass.shells`](https://github.com/glass-dev/glass/pull/449) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [gh-271: add tests for `glass.observations`](https://github.com/glass-dev/glass/pull/436) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [Fix linting](https://github.com/glass-dev/glass/pull/435) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-431: switch from `license.file` to `license.text`](https://github.com/glass-dev/glass/pull/434) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+- [gh-447: make sure `dz` gives the same results as `nbins`](https://github.com/glass-dev/glass/pull/448) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Move `__all__` for PEP8](https://github.com/astro-informatics/sleplet/pull/428) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
+- [gh-445: place all public function in `__all__`](https://github.com/glass-dev/glass/pull/446) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
