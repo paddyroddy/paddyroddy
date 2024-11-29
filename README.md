@@ -14,32 +14,34 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 day ago)
+- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (3 weeks ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add Renovate config](https://github.com/UCL-ARC/coding-standards/pull/29) on [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards)
+  (1 day ago)
+- [Add prettier](https://github.com/UCL-ARC/coding-standards/pull/26) on [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards)
+  (1 day ago)
 - [gh-456: call `redshift_grid` within `distance_grid`](https://github.com/glass-dev/glass/pull/457) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+  (4 days ago)
 - [gh-275: add tests for `glass.lensing`](https://github.com/glass-dev/glass/pull/454) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+  (4 days ago)
 - [gh-450: move all `pytest.fixture` into `conftest.py`](https://github.com/glass-dev/glass/pull/451) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-273: add tests for `glass.shells`](https://github.com/glass-dev/glass/pull/449) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-447: make sure `dz` gives the same results as `nbins`](https://github.com/glass-dev/glass/pull/448) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
+  (1 day ago)
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
   (2 weeks ago)
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
@@ -47,6 +49,4 @@ Research Computing, UCL.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
   (2 weeks ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 weeks ago)
-- [pre-commit-ci/lite-action](https://github.com/pre-commit-ci/lite-action) - github action for pre-commit-ci lite
   (3 weeks ago)
