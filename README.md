@@ -14,36 +14,36 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 day ago)
+  (2 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
-- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
-  (6 days ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (6 days ago)
+  (2 days ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Group all non-major updates together](https://github.com/paddyroddy/.github/pull/260) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 - [Update default-config.json](https://github.com/UCL-MIRSG/.github/pull/139) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
+  (2 days ago)
 - [Group all non-major updates together](https://github.com/UCL-MIRSG/.github/pull/137) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
+  (2 days ago)
 - [Set `ignorePaths` to empty list](https://github.com/UCL-ARC/python-tooling/pull/505) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
+  (2 days ago)
 - [Force test `pre-commit` config to be picked up](https://github.com/UCL-ARC/python-tooling/pull/502) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
-- [Add Renovate config](https://github.com/UCL-ARC/coding-standards/pull/29) on [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards)
-  (6 days ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [data-apis/array-api-typing](https://github.com/data-apis/array-api-typing) - Static typing support for the array API standard
-  (1 day ago)
+  (2 days ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
-  (6 days ago)
+  (1 week ago)
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
   (3 weeks ago)
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
