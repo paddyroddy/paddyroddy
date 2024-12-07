@@ -14,36 +14,36 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 days ago)
+- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from www.thepowerof10.info
+  (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (1 day ago)
+- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (3 days ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (3 days ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 days ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add autofix linting](https://github.com/UCL-ARC/.github/pull/23) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+- [DevOps hour talk](https://github.com/paddyroddy/talks/pull/74) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
-- [Group all non-major updates together](https://github.com/paddyroddy/.github/pull/260) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 days ago)
-- [Update default-config.json](https://github.com/UCL-MIRSG/.github/pull/139) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (3 days ago)
-- [Group all non-major updates together](https://github.com/UCL-MIRSG/.github/pull/137) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (3 days ago)
-- [Set `ignorePaths` to empty list](https://github.com/UCL-ARC/python-tooling/pull/505) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (3 days ago)
+- [Incorporate `github-actions-maven` repo into our central actions](https://github.com/UCL-MIRSG/.github/pull/140) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Initial implementation](https://github.com/paddyroddy/fastest-races/pull/3) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
+  (1 day ago)
+- [Only run once for macOS/Windows for `3.13`](https://github.com/paddyroddy/python-template/pull/182) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (1 day ago)
+- [Remove references to example](https://github.com/paddyroddy/fastest-races/pull/2) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [GreenScheduler/cats](https://github.com/GreenScheduler/cats) - CATS: the Climate-Aware Task Scheduler :cat2: :tiger2: :leopard:
-  (1 day ago)
+  (2 days ago)
 - [data-apis/array-api-typing](https://github.com/data-apis/array-api-typing) - Static typing support for the array API standard
-  (3 days ago)
+  (4 days ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (1 week ago)
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
