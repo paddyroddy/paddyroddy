@@ -14,34 +14,34 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from www.thepowerof10.info
-  (4 days ago)
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+  (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (4 days ago)
+  (5 days ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
-  (4 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (6 days ago)
+  (5 days ago)
+- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from www.thepowerof10.info
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [DevOps hour talk](https://github.com/paddyroddy/talks/pull/74) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (4 days ago)
+  (5 days ago)
 - [Incorporate `github-actions-maven` repo into our central actions](https://github.com/UCL-MIRSG/.github/pull/140) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (4 days ago)
+  (5 days ago)
 - [Initial implementation](https://github.com/paddyroddy/fastest-races/pull/3) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (4 days ago)
+  (5 days ago)
 - [Only run once for macOS/Windows for `3.13`](https://github.com/paddyroddy/python-template/pull/182) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (4 days ago)
+  (5 days ago)
 - [Remove references to example](https://github.com/paddyroddy/fastest-races/pull/2) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [GreenScheduler/cats](https://github.com/GreenScheduler/cats) - CATS: the Climate-Aware Task Scheduler :cat2: :tiger2: :leopard:
-  (5 days ago)
+  (6 days ago)
 - [data-apis/array-api-typing](https://github.com/data-apis/array-api-typing) - Static typing support for the array API standard
   (1 week ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
