@@ -17,26 +17,26 @@ Research Computing, UCL.
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 day ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (2 days ago)
+  (3 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from www.thepowerof10.info
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Fix missing extension](https://github.com/paddyroddy/talks/pull/75) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 - [DevOps hour talk](https://github.com/paddyroddy/talks/pull/74) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (6 days ago)
+  (1 week ago)
 - [Incorporate `github-actions-maven` repo into our central actions](https://github.com/UCL-MIRSG/.github/pull/140) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (6 days ago)
+  (1 week ago)
 - [Initial implementation](https://github.com/paddyroddy/fastest-races/pull/3) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (6 days ago)
+  (1 week ago)
 - [Only run once for macOS/Windows for `3.13`](https://github.com/paddyroddy/python-template/pull/182) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (6 days ago)
-- [Remove references to example](https://github.com/paddyroddy/fastest-races/pull/2) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (6 days ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
