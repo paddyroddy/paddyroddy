@@ -14,21 +14,21 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 days ago)
+  (3 days ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (4 days ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 week ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 week ago)
+  (5 days ago)
 - [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from www.thepowerof10.info
+  (1 week ago)
+- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Fix missing extension](https://github.com/paddyroddy/talks/pull/75) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (2 days ago)
+  (3 days ago)
 - [DevOps hour talk](https://github.com/paddyroddy/talks/pull/74) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 week ago)
 - [Incorporate `github-actions-maven` repo into our central actions](https://github.com/UCL-MIRSG/.github/pull/140) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
