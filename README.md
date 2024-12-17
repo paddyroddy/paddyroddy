@@ -14,28 +14,28 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
+  (3 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 days ago)
+  (5 days ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (6 days ago)
-- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from www.thepowerof10.info
   (1 week ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add GitHub action for safe settings](https://github.com/UCL-MIRSG/.github/pull/141) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
 - [Fix missing extension](https://github.com/paddyroddy/talks/pull/75) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (4 days ago)
+  (5 days ago)
 - [DevOps hour talk](https://github.com/paddyroddy/talks/pull/74) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 week ago)
 - [Incorporate `github-actions-maven` repo into our central actions](https://github.com/UCL-MIRSG/.github/pull/140) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 week ago)
 - [Initial implementation](https://github.com/paddyroddy/fastest-races/pull/3) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (1 week ago)
-- [Only run once for macOS/Windows for `3.13`](https://github.com/paddyroddy/python-template/pull/182) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (1 week ago)
 
 #### ⭐ Recent Stars
@@ -43,7 +43,7 @@ Research Computing, UCL.
 - [GreenScheduler/cats](https://github.com/GreenScheduler/cats) - CATS: the Climate-Aware Task Scheduler 🐈 🐈‍⬛
   (1 week ago)
 - [data-apis/array-api-typing](https://github.com/data-apis/array-api-typing) - Static typing support for the array API standard
-  (1 week ago)
+  (2 weeks ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (2 weeks ago)
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
