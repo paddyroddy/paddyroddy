@@ -14,29 +14,27 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (today)
+- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 week ago)
-- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (1 week ago)
-- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
-  (1 week ago)
+- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
+  (1 day ago)
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (1 day ago)
+- [UCL-MIRSG/genfi2-upload-assistant](https://github.com/UCL-MIRSG/genfi2-upload-assistant)
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add Safe-Settings](https://github.com/paddyroddy/.github/pull/261) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Explicit regex exclude safe-settings](https://github.com/UCL-MIRSG/.github/pull/145) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (today)
+- [Make excluding regex explicit](https://github.com/paddyroddy/.github/pull/268) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Revert &#34;Another Safe-Settings test&#34;](https://github.com/paddyroddy/.github/pull/267) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Create documentation for `github/safe-settings`](https://github.com/UCL-MIRSG/.github/pull/143) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [Another Safe-Settings test](https://github.com/paddyroddy/.github/pull/266) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Add GitHub action for safe settings](https://github.com/UCL-MIRSG/.github/pull/141) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (3 days ago)
-- [Fix missing extension](https://github.com/paddyroddy/talks/pull/75) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
-- [DevOps hour talk](https://github.com/paddyroddy/talks/pull/74) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
 
 #### ⭐ Recent Stars
 
