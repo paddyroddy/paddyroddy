@@ -38,7 +38,7 @@ jobs:
           wc -l)" >> "$GITHUB_OUTPUT"
 
       - name: Autogenerate README
-        # if: ${{ steps.commit-count.outputs.count == 0 }}
+        if: ${{ steps.commit-count.outputs.count == 0 }}
         # yamllint disable-line rule:line-length
         uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
         env:
@@ -48,9 +48,9 @@ jobs:
           writeTo: ./README.md
 
       - name: Push README to main
-        # if: >-
-        #   ${{ steps.commit-count.outputs.count == 0 && github.ref ==
-        #   'refs/heads/main' }}
+        if: >-
+          ${{ steps.commit-count.outputs.count == 0 && github.ref ==
+          'refs/heads/main' }}
         # yamllint disable-line rule:line-length
         uses: stefanzweifel/git-auto-commit-action@8621497c8c39c72f3e2a999a26b4ca1b5058a842 # v5
         with:
