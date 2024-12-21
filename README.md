@@ -14,27 +14,27 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (today)
-- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
-  (1 day ago)
-- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (1 day ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (1 day ago)
 - [UCL-MIRSG/genfi2-upload-assistant](https://github.com/UCL-MIRSG/genfi2-upload-assistant)
-  (1 day ago)
+  (2 days ago)
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (2 days ago)
+- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Bypass README update](https://github.com/paddyroddy/.github/pull/269) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 - [Explicit regex exclude safe-settings](https://github.com/UCL-MIRSG/.github/pull/145) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (today)
+  (1 day ago)
 - [Make excluding regex explicit](https://github.com/paddyroddy/.github/pull/268) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
+  (1 day ago)
 - [Revert &#34;Another Safe-Settings test&#34;](https://github.com/paddyroddy/.github/pull/267) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
-- [Another Safe-Settings test](https://github.com/paddyroddy/.github/pull/266) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
