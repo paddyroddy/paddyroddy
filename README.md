@@ -15,35 +15,35 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (5 days ago)
+  (6 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (5 days ago)
+  (6 days ago)
 - [UCL-MIRSG/genfi2-upload-assistant](https://github.com/UCL-MIRSG/genfi2-upload-assistant)
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Bypass README update](https://github.com/paddyroddy/.github/pull/269) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (5 days ago)
-- [Explicit regex exclude safe-settings](https://github.com/UCL-MIRSG/.github/pull/145) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (5 days ago)
-- [Make excluding regex explicit](https://github.com/paddyroddy/.github/pull/268) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (5 days ago)
-- [Revert &#34;Another Safe-Settings test&#34;](https://github.com/paddyroddy/.github/pull/267) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (6 days ago)
+- [Explicit regex exclude safe-settings](https://github.com/UCL-MIRSG/.github/pull/145) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (6 days ago)
+- [Make excluding regex explicit](https://github.com/paddyroddy/.github/pull/268) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (6 days ago)
+- [Revert &#34;Another Safe-Settings test&#34;](https://github.com/paddyroddy/.github/pull/267) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [GreenScheduler/cats](https://github.com/GreenScheduler/cats) - CATS: the Climate-Aware Task Scheduler 🐈 🐈‍⬛
-  (2 weeks ago)
+  (3 weeks ago)
 - [data-apis/array-api-typing](https://github.com/data-apis/array-api-typing) - Static typing support for the array API standard
   (3 weeks ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
-  (3 weeks ago)
+  (4 weeks ago)
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
   (1 month ago)
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
