@@ -43,7 +43,7 @@ Research Computing, UCL.
 - [data-apis/array-api-typing](https://github.com/data-apis/array-api-typing) - Static typing support for the array API standard
   (3 weeks ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
-  (4 weeks ago)
+  (1 month ago)
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
   (1 month ago)
 - [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
