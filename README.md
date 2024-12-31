@@ -41,7 +41,7 @@ Research Computing, UCL.
 - [GreenScheduler/cats](https://github.com/GreenScheduler/cats) - CATS: the Climate-Aware Task Scheduler 🐈 🐈‍⬛
   (3 weeks ago)
 - [data-apis/array-api-typing](https://github.com/data-apis/array-api-typing) - Static typing support for the array API standard
-  (3 weeks ago)
+  (4 weeks ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (1 month ago)
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
