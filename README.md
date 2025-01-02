@@ -19,11 +19,11 @@ Research Computing, UCL.
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
 - [UCL-MIRSG/genfi2-upload-assistant](https://github.com/UCL-MIRSG/genfi2-upload-assistant)
-  (1 week ago)
+  (2 weeks ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (1 week ago)
+  (2 weeks ago)
 - [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
@@ -34,14 +34,14 @@ Research Computing, UCL.
 - [Make excluding regex explicit](https://github.com/paddyroddy/.github/pull/268) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 week ago)
 - [Revert &#34;Another Safe-Settings test&#34;](https://github.com/paddyroddy/.github/pull/267) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
+  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [GreenScheduler/cats](https://github.com/GreenScheduler/cats) - CATS: the Climate-Aware Task Scheduler 🐈 🐈‍⬛
-  (3 weeks ago)
-- [data-apis/array-api-typing](https://github.com/data-apis/array-api-typing) - Static typing support for the array API standard
   (4 weeks ago)
+- [data-apis/array-api-typing](https://github.com/data-apis/array-api-typing) - Static typing support for the array API standard
+  (1 month ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (1 month ago)
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
