@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
+  (today)
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 day ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 weeks ago)
-- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (2 weeks ago)
-- [UCL-MIRSG/genfi2-upload-assistant](https://github.com/UCL-MIRSG/genfi2-upload-assistant)
-  (2 weeks ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Update link checker for private repos](https://github.com/UCL-MIRSG/mirsg-template/pull/18) on [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template)
+- [Move secrets into the workflow](https://github.com/UCL-MIRSG/.github/pull/159) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 day ago)
-- [Exclude TSV from tab hook](https://github.com/UCL-MIRSG/.github/pull/153) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [Restore composite with owner and token](https://github.com/UCL-MIRSG/.github/pull/158) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 day ago)
-- [Change token to app based to link check private repos](https://github.com/UCL-MIRSG/.github/pull/152) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [Remove debug](https://github.com/UCL-MIRSG/.github/pull/157) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 day ago)
-- [Disable both `wrapper` via @renovatebot](https://github.com/UCL-MIRSG/.github/pull/151) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [Try `x-access-token:` for link checking](https://github.com/UCL-MIRSG/.github/pull/156) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 day ago)
-- [Only run Safe-Settings stuff in related changes](https://github.com/UCL-MIRSG/.github/pull/150) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [Save link checking cache](https://github.com/UCL-MIRSG/.github/pull/155) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token
+  (1 day ago)
 - [GreenScheduler/cats](https://github.com/GreenScheduler/cats) - CATS: the Climate-Aware Task Scheduler 🐈 🐈‍⬛
-  (4 weeks ago)
+  (1 month ago)
 - [data-apis/array-api-typing](https://github.com/data-apis/array-api-typing) - Static typing support for the array API standard
   (1 month ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (1 month ago)
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
-  (1 month ago)
-- [nschloe/tuna](https://github.com/nschloe/tuna) - :fish: Python profile viewer
   (1 month ago)
