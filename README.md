@@ -14,34 +14,34 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
+- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from www.thepowerof10.info
   (today)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (2 days ago)
+  (today)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (today)
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+  (today)
 
 #### 🔨 My Recent Pull Requests
 
-- [Move secrets into the workflow](https://github.com/UCL-MIRSG/.github/pull/159) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
-- [Restore composite with owner and token](https://github.com/UCL-MIRSG/.github/pull/158) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
-- [Remove debug](https://github.com/UCL-MIRSG/.github/pull/157) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
-- [Try `x-access-token:` for link checking](https://github.com/UCL-MIRSG/.github/pull/156) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
-- [Save link checking cache](https://github.com/UCL-MIRSG/.github/pull/155) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
+- [extendable typo](https://github.com/astro-informatics/sleplet/pull/435) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
+- [Change to licence PAT](https://github.com/astro-informatics/sleplet/pull/434) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
+- [Change to licence PAT](https://github.com/paddyroddy/dotfiles/pull/36) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
+- [Change to licence PAT](https://github.com/paddyroddy/python-template/pull/184) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (today)
+- [Change to licence PAT](https://github.com/paddyroddy/latex-template/pull/56) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+  (today)
 
 #### ⭐ Recent Stars
 
 - [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token
-  (1 day ago)
+  (2 days ago)
 - [GreenScheduler/cats](https://github.com/GreenScheduler/cats) - CATS: the Climate-Aware Task Scheduler 🐈 🐈‍⬛
   (1 month ago)
 - [data-apis/array-api-typing](https://github.com/data-apis/array-api-typing) - Static typing support for the array API standard
