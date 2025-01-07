@@ -14,34 +14,34 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from www.thepowerof10.info
+- [UCL-RITS/.github](https://github.com/UCL-RITS/.github) - Default files for all repositories
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
   (1 day ago)
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [extendable typo](https://github.com/astro-informatics/sleplet/pull/435) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Add Safe-Settings app to manage policy as code](https://github.com/UCL-RITS/.github/pull/4) on [UCL-RITS/.github](https://github.com/UCL-RITS/.github)
   (1 day ago)
-- [Change to licence PAT](https://github.com/astro-informatics/sleplet/pull/434) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Add Safe-Settings app to manage policy as code](https://github.com/UCL-ARC/.github/pull/24) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
   (1 day ago)
-- [Change to licence PAT](https://github.com/paddyroddy/dotfiles/pull/36) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [Add issue referring to archived repos](https://github.com/UCL-MIRSG/.github/pull/164) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 day ago)
-- [Change to licence PAT](https://github.com/paddyroddy/python-template/pull/184) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+- [Add issue in comment](https://github.com/paddyroddy/.github/pull/279) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Change to licence PAT](https://github.com/paddyroddy/latex-template/pull/56) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+- [Revert &#34;Try combining groups&#34;](https://github.com/paddyroddy/.github/pull/278) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token
-  (3 days ago)
+  (4 days ago)
 - [GreenScheduler/cats](https://github.com/GreenScheduler/cats) - CATS: the Climate-Aware Task Scheduler 🐈 🐈‍⬛
   (1 month ago)
 - [data-apis/array-api-typing](https://github.com/data-apis/array-api-typing) - Static typing support for the array API standard
