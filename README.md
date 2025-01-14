@@ -14,11 +14,11 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 days ago)
+  (5 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (6 days ago)
-- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
   (1 week ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
@@ -27,16 +27,16 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
-- [Talk: GitHub Safe-Settings: Policy as Code](https://github.com/paddyroddy/talks/pull/77) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (4 days ago)
-- [Add GitHub&#39;s Safe-Settings app to manage policy as code](https://github.com/UCL-RITS/.github/pull/4) on [UCL-RITS/.github](https://github.com/UCL-RITS/.github)
-  (1 week ago)
-- [Add GitHub&#39;s Safe-Settings app to manage policy as code](https://github.com/UCL-ARC/.github/pull/24) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (1 week ago)
-- [Add issue referring to archived repos](https://github.com/UCL-MIRSG/.github/pull/164) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
-- [Add issue in comment](https://github.com/paddyroddy/.github/pull/279) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
+- [Ignore nox/cache pip](https://github.com/paddyroddy/dotfiles/pull/37) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [gh-475: switch from `nox` to `tox`](https://github.com/glass-dev/glass/pull/476) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-469: @pre-commit.ci shouldn&#39;t break title checking](https://github.com/glass-dev/glass/pull/474) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-472: fix Sphinx configuration](https://github.com/glass-dev/glass/pull/473) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-468: fix virtualenv in testing](https://github.com/glass-dev/glass/pull/471) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
