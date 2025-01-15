@@ -14,29 +14,29 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (5 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 week ago)
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (6 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
-- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Fix Renovate config](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/161) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
+  (1 day ago)
 - [Ignore nox/cache pip](https://github.com/paddyroddy/dotfiles/pull/37) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
+  (2 days ago)
 - [gh-475: switch from `nox` to `tox`](https://github.com/glass-dev/glass/pull/476) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-469: @pre-commit.ci shouldn&#39;t break title checking](https://github.com/glass-dev/glass/pull/474) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-472: fix Sphinx configuration](https://github.com/glass-dev/glass/pull/473) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-468: fix virtualenv in testing](https://github.com/glass-dev/glass/pull/471) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
