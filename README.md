@@ -14,11 +14,11 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (1 week ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 week ago)
@@ -27,15 +27,15 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
-- [Manual revert of #467](https://github.com/glass-dev/glass/pull/484) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Add Firefox dev](https://github.com/paddyroddy/dotfiles/pull/38) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
+- [Manual revert of #467](https://github.com/glass-dev/glass/pull/484) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (2 days ago)
 - [Fix Renovate config](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/161) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
   (1 week ago)
 - [Ignore nox/cache pip](https://github.com/paddyroddy/dotfiles/pull/37) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 week ago)
 - [gh-475: switch from `nox` to `tox`](https://github.com/glass-dev/glass/pull/476) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-469: @pre-commit.ci shouldn&#39;t break title checking](https://github.com/glass-dev/glass/pull/474) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 
 #### ⭐ Recent Stars
