@@ -21,7 +21,7 @@ Research Computing, UCL.
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (3 weeks ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 weeks ago)
+  (1 month ago)
 - [UCL-RITS/.github](https://github.com/UCL-RITS/.github) - Default files for all repositories
   (1 month ago)
 
