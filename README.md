@@ -14,29 +14,29 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (today)
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+  (today)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (2 weeks ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (2 weeks ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (3 weeks ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 month ago)
-- [UCL-RITS/.github](https://github.com/UCL-RITS/.github) - Default files for all repositories
-  (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Skip archived repos automatically](https://github.com/paddyroddy/.github/pull/280) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
 - [Add Firefox dev](https://github.com/paddyroddy/dotfiles/pull/38) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (2 weeks ago)
 - [Manual revert of #467](https://github.com/glass-dev/glass/pull/484) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 weeks ago)
+  (3 weeks ago)
 - [Fix Renovate config](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/161) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
   (3 weeks ago)
 - [Ignore nox/cache pip](https://github.com/paddyroddy/dotfiles/pull/37) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 weeks ago)
-- [gh-475: switch from `nox` to `tox`](https://github.com/glass-dev/glass/pull/476) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 weeks ago)
+  (4 weeks ago)
 
 #### ⭐ Recent Stars
 
