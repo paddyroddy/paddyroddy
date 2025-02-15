@@ -14,36 +14,36 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (4 days ago)
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (4 days ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (4 days ago)
+  (5 days ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-501: move custom types into `TYPE_CHECKING`](https://github.com/glass-dev/glass/pull/520) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-501: changes missed in #507](https://github.com/glass-dev/glass/pull/517) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-501: change imports to be directly from `glass`](https://github.com/glass-dev/glass/pull/512) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-503: move all typing related imports into `from`](https://github.com/glass-dev/glass/pull/507) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [Remove SonicWall](https://github.com/paddyroddy/dotfiles/pull/39) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
-- [Add archived `genfi2-modules`](https://github.com/UCL-MIRSG/.github/pull/165) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (4 days ago)
-- [Remove string conversion following IGL upgrade](https://github.com/astro-informatics/sleplet/pull/436) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-  (3 days ago)
-- [lmstudio-ai/venvstacks](https://github.com/lmstudio-ai/venvstacks) - Virtual environment stacks for Python
   (4 days ago)
+- [lmstudio-ai/venvstacks](https://github.com/lmstudio-ai/venvstacks) - Virtual environment stacks for Python
+  (5 days ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
   (3 weeks ago)
 - [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token
