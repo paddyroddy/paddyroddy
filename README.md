@@ -14,23 +14,23 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (3 days ago)
+  (4 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (5 days ago)
+  (6 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 week ago)
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
   (2 weeks ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [gh-532: prepare for the `v2025.1` release](https://github.com/glass-dev/glass/pull/531) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+  (4 days ago)
 - [Change the pre-commit updates to be monthly](https://github.com/glass-dev/glass/pull/529) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+  (4 days ago)
 - [gh-501: move custom types into `TYPE_CHECKING`](https://github.com/glass-dev/glass/pull/520) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-501: changes missed in #507](https://github.com/glass-dev/glass/pull/517) on [glass-dev/glass](https://github.com/glass-dev/glass)
@@ -40,13 +40,13 @@ Research Computing, UCL.
 
 #### ⭐ Recent Stars
 
+- [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
+  (1 day ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-  (1 week ago)
+  (2 weeks ago)
 - [lmstudio-ai/venvstacks](https://github.com/lmstudio-ai/venvstacks) - Virtual environment stacks for Python
   (2 weeks ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
   (1 month ago)
 - [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token
   (1 month ago)
-- [GreenScheduler/cats](https://github.com/GreenScheduler/cats) - CATS: the Climate-Aware Task Scheduler 🐈 🐈‍⬛
-  (2 months ago)
