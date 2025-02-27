@@ -14,34 +14,34 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
 - [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
-  (2 days ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (5 days ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 week ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 weeks ago)
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (2 weeks ago)
+  (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-532: prepare for the `v2025.1` release](https://github.com/glass-dev/glass/pull/531) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [Change the pre-commit updates to be monthly](https://github.com/glass-dev/glass/pull/529) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [gh-501: move custom types into `TYPE_CHECKING`](https://github.com/glass-dev/glass/pull/520) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-501: changes missed in #507](https://github.com/glass-dev/glass/pull/517) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-501: change imports to be directly from `glass`](https://github.com/glass-dev/glass/pull/512) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
+- [gh-124: use `cosmology.api` over the `cosmology` package](https://github.com/glass-dev/glass/pull/537) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Add minimum release age for minor/major XNAT updates](https://github.com/UCL-MIRSG/.github/pull/167) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Tidy up update types](https://github.com/UCL-ARC/.github/pull/26) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (1 day ago)
+- [Make @renovatebot wait until status checks have completed](https://github.com/UCL-ARC/.github/pull/25) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (1 day ago)
+- [Make @renovatebot wait until status checks have completed ](https://github.com/paddyroddy/.github/pull/281) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-  (2 days ago)
+  (3 days ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
   (2 weeks ago)
 - [lmstudio-ai/venvstacks](https://github.com/lmstudio-ai/venvstacks) - Virtual environment stacks for Python
