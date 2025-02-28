@@ -14,34 +14,34 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (today)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
-- [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
-  (3 days ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-538: suppress notebook rules rather than blanket turning off `ruff`](https://github.com/glass-dev/glass/pull/539) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-124: use `cosmology.api` over the `cosmology` package](https://github.com/glass-dev/glass/pull/537) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [Add minimum release age for minor/major XNAT updates](https://github.com/UCL-MIRSG/.github/pull/167) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
+  (2 days ago)
 - [Tidy up update types](https://github.com/UCL-ARC/.github/pull/26) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (1 day ago)
+  (2 days ago)
 - [Make @renovatebot wait until status checks have completed](https://github.com/UCL-ARC/.github/pull/25) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (1 day ago)
-- [Make @renovatebot wait until status checks have completed ](https://github.com/paddyroddy/.github/pull/281) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-  (3 days ago)
+  (4 days ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
   (2 weeks ago)
 - [lmstudio-ai/venvstacks](https://github.com/lmstudio-ai/venvstacks) - Virtual environment stacks for Python
