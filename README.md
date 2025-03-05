@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (2 days ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (6 days ago)
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (6 days ago)
-- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (6 days ago)
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
+- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add option to pass in `lychee` arguments](https://github.com/paddyroddy/.github/pull/282) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 - [gh-554: move contributors to a file and show in docs](https://github.com/glass-dev/glass/pull/563) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-561: simplify @all-contributors config](https://github.com/glass-dev/glass/pull/562) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-547: comment out CHANGELOG entry by default](https://github.com/glass-dev/glass/pull/548) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 - [Rename .all-contributorsrc.json to .all-contributorsrc](https://github.com/glass-dev/glass/pull/543) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-540: add all contributors config](https://github.com/glass-dev/glass/pull/541) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
+- [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
+  (1 day ago)
+- [j178/prefligit](https://github.com/j178/prefligit) - pre-commit re-implemented in Rust
+  (1 day ago)
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
   (1 week ago)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
   (3 weeks ago)
 - [lmstudio-ai/venvstacks](https://github.com/lmstudio-ai/venvstacks) - Virtual environment stacks for Python
   (3 weeks ago)
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-  (1 month ago)
-- [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token
-  (2 months ago)
