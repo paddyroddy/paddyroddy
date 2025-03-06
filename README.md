@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
   (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 day ago)
 - [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
-  (1 day ago)
+  (2 days ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add option to pass in `lychee` arguments](https://github.com/paddyroddy/.github/pull/282) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Allow repository admin to bypass status checks in PRs](https://github.com/paddyroddy/.github/pull/284) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [gh-554: move contributors to a file and show in docs](https://github.com/glass-dev/glass/pull/563) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Don&#39;t auto merge this repo for @renovatebot](https://github.com/UCL-ARC/.github/pull/27) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (1 day ago)
+- [Don&#39;t automerge this repo for @renovatebot](https://github.com/UCL-MIRSG/.github/pull/169) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Add a custom manager for `safe-settings`](https://github.com/paddyroddy/.github/pull/283) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Add option to pass in `lychee` arguments](https://github.com/paddyroddy/.github/pull/282) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (2 days ago)
-- [gh-561: simplify @all-contributors config](https://github.com/glass-dev/glass/pull/562) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-547: comment out CHANGELOG entry by default](https://github.com/glass-dev/glass/pull/548) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [Rename .all-contributorsrc.json to .all-contributorsrc](https://github.com/glass-dev/glass/pull/543) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
 
 #### ⭐ Recent Stars
 
+- [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
+  (1 day ago)
+- [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
+  (1 day ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+  (1 day ago)
 - [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
-  (1 day ago)
+  (2 days ago)
 - [j178/prefligit](https://github.com/j178/prefligit) - pre-commit re-implemented in Rust
-  (1 day ago)
-- [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-  (1 week ago)
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-  (3 weeks ago)
-- [lmstudio-ai/venvstacks](https://github.com/lmstudio-ai/venvstacks) - Virtual environment stacks for Python
-  (3 weeks ago)
+  (2 days ago)
