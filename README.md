@@ -16,37 +16,37 @@ Research Computing, UCL.
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (5 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (5 days ago)
+  (1 day ago)
 - [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (5 days ago)
-- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+  (6 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-578: mutable argument should be empty list rather than `None`](https://github.com/glass-dev/glass/pull/579) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Update `texlive` year to 2025](https://github.com/paddyroddy/dotfiles/pull/40) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
+- [gh-578: mutable argument should be empty list rather than `None`](https://github.com/glass-dev/glass/pull/579) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (2 days ago)
 - [gh-573: add keyword `rng` to functions in notebooks](https://github.com/glass-dev/glass/pull/574) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 - [gh-569: enforce large file check with exception](https://github.com/glass-dev/glass/pull/570) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
+  (6 days ago)
 - [Enforce checking for large files](https://github.com/UCL-MIRSG/.github/pull/171) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (5 days ago)
-- [Enforce checking for large files](https://github.com/paddyroddy/.github/pull/285) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
+- [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
+  (1 day ago)
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
-  (6 days ago)
-- [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
-  (6 days ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-  (6 days ago)
-- [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
   (1 week ago)
-- [j178/prefligit](https://github.com/j178/prefligit) - pre-commit re-implemented in Rust
+- [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
+  (1 week ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+  (1 week ago)
+- [pages-themes/hacker](https://github.com/pages-themes/hacker) - Hacker is a Jekyll theme for GitHub Pages
   (1 week ago)
