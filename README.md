@@ -14,34 +14,34 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [cosmology-api/cosmology.api](https://github.com/cosmology-api/cosmology.api) - The Cosmology API standard
-  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (5 days ago)
+  (1 day ago)
+- [cosmology-api/cosmology.api](https://github.com/cosmology-api/cosmology.api) - The Cosmology API standard
+  (2 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 week ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-568: convert `_weight` funcs to classes for `_windows` funcs](https://github.com/glass-dev/glass/pull/589) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Remove citrix](https://github.com/paddyroddy/dotfiles/pull/43) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
 - [Add `HasInverseComovingDistance.inv_comoving_distance`](https://github.com/cosmology-api/cosmology.api/pull/115) on [cosmology-api/cosmology.api](https://github.com/cosmology-api/cosmology.api)
-  (2 days ago)
+  (3 days ago)
 - [Remove SonicWall](https://github.com/paddyroddy/dotfiles/pull/42) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (5 days ago)
+  (6 days ago)
 - [Update brews](https://github.com/paddyroddy/dotfiles/pull/41) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 week ago)
-- [gh-585: remove redunant `glass.ext.camb` import](https://github.com/glass-dev/glass/pull/586) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [Update `texlive` year to 2025](https://github.com/paddyroddy/dotfiles/pull/40) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [cosmology-api/cosmology.api](https://github.com/cosmology-api/cosmology.api) - The Cosmology API standard
-  (1 day ago)
+  (2 days ago)
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
   (1 week ago)
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
