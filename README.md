@@ -15,9 +15,9 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (6 days ago)
+  (1 week ago)
 - [cosmology-api/cosmology.api](https://github.com/cosmology-api/cosmology.api) - The Cosmology API standard
   (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
@@ -28,25 +28,25 @@ Research Computing, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [Add `H_over_H0`](https://github.com/cosmology-api/cosmology.compat.camb/pull/47) on [cosmology-api/cosmology.compat.camb](https://github.com/cosmology-api/cosmology.compat.camb)
-  (1 day ago)
+  (2 days ago)
 - [gh-495: allow `zeff` to be computed automatically](https://github.com/glass-dev/glass/pull/590) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 - [gh-568: convert `_weight` funcs to classes for `_windows` funcs](https://github.com/glass-dev/glass/pull/589) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
+  (1 week ago)
 - [Remove citrix](https://github.com/paddyroddy/dotfiles/pull/43) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (6 days ago)
+  (1 week ago)
 - [Add `HasInverseComovingDistance.inv_comoving_distance`](https://github.com/cosmology-api/cosmology.api/pull/115) on [cosmology-api/cosmology.api](https://github.com/cosmology-api/cosmology.api)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [scientific-python/pytest-doctestplus](https://github.com/scientific-python/pytest-doctestplus) - Pytest plugin providing advanced doctest features
+  (1 day ago)
 - [cosmology-api/cosmology.api](https://github.com/cosmology-api/cosmology.api) - The Cosmology API standard
   (1 week ago)
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
   (2 weeks ago)
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
-  (2 weeks ago)
+  (3 weeks ago)
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
-  (2 weeks ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-  (2 weeks ago)
+  (3 weeks ago)
