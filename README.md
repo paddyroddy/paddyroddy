@@ -14,36 +14,36 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 day ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from www.thepowerof10.info
   (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Change to SHA tag](https://github.com/paddyroddy/python-template/pull/192) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (1 day ago)
+- [Change to SHA tag](https://github.com/paddyroddy/fastest-races/pull/7) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
+  (1 day ago)
+- [Change ` gh-action-pypi-publish` to tag](https://github.com/astro-informatics/sleplet/pull/456) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
 - [Use `kubectl` plugin](https://github.com/paddyroddy/dotfiles/pull/46) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
+  (2 days ago)
 - [Add SPDX licence field](https://github.com/astro-informatics/sleplet/pull/455) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
-- [Add SPDX licence](https://github.com/paddyroddy/python-template/pull/191) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (1 day ago)
-- [Use updated deployment workflow](https://github.com/paddyroddy/fastest-races/pull/6) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (1 day ago)
-- [Rename package location](https://github.com/paddyroddy/python-template/pull/190) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
+  (2 days ago)
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package) - Build and Inspect Python Packages in GitHub Actions
-  (1 day ago)
+  (2 days ago)
 - [cloudacademy/intro-to-k8s](https://github.com/cloudacademy/intro-to-k8s) - Assets used for the production of the Introduction to Kubernetes course on Cloud Academy
   (1 week ago)
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
