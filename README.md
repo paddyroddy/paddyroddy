@@ -14,36 +14,36 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (today)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (3 days ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from www.thepowerof10.info
-  (3 days ago)
+  (4 days ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (4 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update 10km PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/123) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
 - [gh-406: array API support for `glass.arraytools`](https://github.com/glass-dev/glass/pull/597) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [Change to SHA tag](https://github.com/paddyroddy/python-template/pull/192) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (3 days ago)
+  (4 days ago)
 - [Change to SHA tag](https://github.com/paddyroddy/fastest-races/pull/7) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (3 days ago)
+  (4 days ago)
 - [Change ` gh-action-pypi-publish` to tag](https://github.com/astro-informatics/sleplet/pull/456) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (3 days ago)
-- [Use `kubectl` plugin](https://github.com/paddyroddy/dotfiles/pull/46) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (4 days ago)
+  (5 days ago)
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package) - Build and Inspect Python Packages in GitHub Actions
-  (4 days ago)
+  (5 days ago)
 - [cloudacademy/intro-to-k8s](https://github.com/cloudacademy/intro-to-k8s) - Assets used for the production of the Introduction to Kubernetes course on Cloud Academy
   (1 week ago)
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
