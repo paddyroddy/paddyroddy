@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 day ago)
+- [cosmology-api/cosmology.compat.camb](https://github.com/cosmology-api/cosmology.compat.camb) - Cosmology API compatibility layer for CAMB
+  (1 day ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (today)
+  (1 day ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (4 days ago)
-- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from www.thepowerof10.info
-  (4 days ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (4 days ago)
+  (5 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (4 days ago)
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Update 10km PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/123) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+- [Set large file limit to 2MB](https://github.com/UCL-MIRSG/.github/pull/174) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 day ago)
+- [Paddy/issue 46](https://github.com/paddyroddy/cosmology.compat.camb/pull/1) on [paddyroddy/cosmology.compat.camb](https://github.com/paddyroddy/cosmology.compat.camb)
+  (1 day ago)
+- [Update 10km PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/123) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (2 days ago)
 - [gh-406: array API support for `glass.arraytools`](https://github.com/glass-dev/glass/pull/597) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+  (4 days ago)
 - [Change to SHA tag](https://github.com/paddyroddy/python-template/pull/192) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (4 days ago)
-- [Change to SHA tag](https://github.com/paddyroddy/fastest-races/pull/7) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (4 days ago)
-- [Change ` gh-action-pypi-publish` to tag](https://github.com/astro-informatics/sleplet/pull/456) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
+- [data-apis/array-api-strict](https://github.com/data-apis/array-api-strict) - Strict implementation of the Python array API (previously numpy.array_api)
+  (today)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (5 days ago)
+  (6 days ago)
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package) - Build and Inspect Python Packages in GitHub Actions
-  (5 days ago)
+  (6 days ago)
 - [cloudacademy/intro-to-k8s](https://github.com/cloudacademy/intro-to-k8s) - Assets used for the production of the Introduction to Kubernetes course on Cloud Academy
   (1 week ago)
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
-  (1 week ago)
-- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
   (1 week ago)
