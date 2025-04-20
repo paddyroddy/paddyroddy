@@ -15,7 +15,7 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [cosmology-api/cosmology.compat.camb](https://github.com/cosmology-api/cosmology.compat.camb) - Cosmology API compatibility layer for CAMB
-  (6 days ago)
+  (1 week ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 week ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
@@ -34,7 +34,7 @@ Research Computing, UCL.
 - [Paddy/issue 46](https://github.com/paddyroddy/cosmology.compat.camb/pull/1) on [paddyroddy/cosmology.compat.camb](https://github.com/paddyroddy/cosmology.compat.camb)
   (1 week ago)
 - [Update 10km PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/123) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 week ago)
+  (2 weeks ago)
 - [gh-406: array API support for `glass.arraytools`](https://github.com/glass-dev/glass/pull/597) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 weeks ago)
 
