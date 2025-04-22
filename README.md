@@ -21,14 +21,14 @@ Research Computing, UCL.
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 week ago)
+  (2 weeks ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [gh-599: swap all `xp` vars to `xq` (and similar)](https://github.com/glass-dev/glass/pull/600) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
+  (2 weeks ago)
 - [Set large file limit to 2MB](https://github.com/UCL-MIRSG/.github/pull/174) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (2 weeks ago)
 - [Paddy/issue 46](https://github.com/paddyroddy/cosmology.compat.camb/pull/1) on [paddyroddy/cosmology.compat.camb](https://github.com/paddyroddy/cosmology.compat.camb)
@@ -43,7 +43,7 @@ Research Computing, UCL.
 - [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
   (1 week ago)
 - [data-apis/array-api-strict](https://github.com/data-apis/array-api-strict) - Strict implementation of the Python array API (previously numpy.array_api)
-  (1 week ago)
+  (2 weeks ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (2 weeks ago)
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package) - Build and Inspect Python Packages in GitHub Actions
