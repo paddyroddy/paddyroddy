@@ -45,8 +45,8 @@ Research Computing, UCL.
 - [data-apis/array-api-strict](https://github.com/data-apis/array-api-strict) - Strict implementation of the Python array API (previously numpy.array_api)
   (2 weeks ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (2 weeks ago)
-- [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package) - Build and Inspect Python Packages in GitHub Actions
-  (2 weeks ago)
-- [cloudacademy/intro-to-k8s](https://github.com/cloudacademy/intro-to-k8s) - Assets used for the production of the Introduction to Kubernetes course on Cloud Academy
   (3 weeks ago)
+- [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package) - Build and Inspect Python Packages in GitHub Actions
+  (3 weeks ago)
+- [cloudacademy/intro-to-k8s](https://github.com/cloudacademy/intro-to-k8s) - Assets used for the production of the Introduction to Kubernetes course on Cloud Academy
+  (4 weeks ago)
