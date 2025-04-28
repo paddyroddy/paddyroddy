@@ -14,6 +14,8 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (today)
 - [cosmology-api/cosmology.compat.camb](https://github.com/cosmology-api/cosmology.compat.camb) - Cosmology API compatibility layer for CAMB
   (2 weeks ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
@@ -22,20 +24,18 @@ Research Computing, UCL.
   (2 weeks ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (2 weeks ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update mara PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/124) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (today)
 - [gh-599: swap all `xp` vars to `xq` (and similar)](https://github.com/glass-dev/glass/pull/600) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 weeks ago)
 - [Set large file limit to 2MB](https://github.com/UCL-MIRSG/.github/pull/174) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (2 weeks ago)
-- [Paddy/issue 46](https://github.com/paddyroddy/cosmology.compat.camb/pull/1) on [paddyroddy/cosmology.compat.camb](https://github.com/paddyroddy/cosmology.compat.camb)
-  (2 weeks ago)
-- [Update 10km PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/123) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (3 weeks ago)
-- [gh-406: array API support for `glass.arraytools`](https://github.com/glass-dev/glass/pull/597) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Paddy/issue 46](https://github.com/paddyroddy/cosmology.compat.camb/pull/1) on [paddyroddy/cosmology.compat.camb](https://github.com/paddyroddy/cosmology.compat.camb)
+  (3 weeks ago)
+- [Update 10km PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/123) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (3 weeks ago)
 
 #### ⭐ Recent Stars
