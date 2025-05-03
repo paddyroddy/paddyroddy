@@ -16,26 +16,26 @@ Research Computing, UCL.
 
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (2 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (3 days ago)
+  (4 days ago)
 - [cosmology-api/cosmology.compat.camb](https://github.com/cosmology-api/cosmology.compat.camb) - Cosmology API compatibility layer for CAMB
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Change to once/month](https://github.com/paddyroddy/adr-tree-surgery-website/pull/98) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (1 day ago)
+- [Renovate: paddyroddy/.github](https://github.com/paddyroddy/adr-tree-surgery-website/pull/97) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (1 day ago)
+- [Change to once/month](https://github.com/paddyroddy/paddyroddy.github.io/pull/128) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
 - [Fix link checking and check `gh-pages` branch](https://github.com/paddyroddy/paddyroddy.github.io/pull/127) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
+  (2 days ago)
 - [Fix link checking and check `gh-pages` branch](https://github.com/paddyroddy/adr-tree-surgery-website/pull/96) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 day ago)
-- [Alphabetical](https://github.com/paddyroddy/.github/pull/296) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
-- [Add a branch option to link checking](https://github.com/paddyroddy/.github/pull/295) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
-- [gh-612: handle NoneType in `get_namespace`](https://github.com/glass-dev/glass/pull/613) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
 
 #### ⭐ Recent Stars
