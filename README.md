@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (5 days ago)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (5 days ago)
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (today)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (6 days ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 week ago)
-- [cosmology-api/cosmology.compat.camb](https://github.com/cosmology-api/cosmology.compat.camb) - Cosmology API compatibility layer for CAMB
-  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Simplify `managerFilePatterns`](https://github.com/paddyroddy/.github/pull/299) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [gh-616: use `position_weights()` in galaxy redshift example](https://github.com/glass-dev/glass/pull/617) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [Change to once/month](https://github.com/paddyroddy/adr-tree-surgery-website/pull/98) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (5 days ago)
-- [Renovate: paddyroddy/.github](https://github.com/paddyroddy/adr-tree-surgery-website/pull/97) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (5 days ago)
-- [Change to once/month](https://github.com/paddyroddy/paddyroddy.github.io/pull/128) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (5 days ago)
-- [Fix link checking and check `gh-pages` branch](https://github.com/paddyroddy/paddyroddy.github.io/pull/127) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (6 days ago)
-- [Fix link checking and check `gh-pages` branch](https://github.com/paddyroddy/adr-tree-surgery-website/pull/96) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+- [Renovate: paddyroddy/.github](https://github.com/paddyroddy/adr-tree-surgery-website/pull/97) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (6 days ago)
+- [Change to once/month](https://github.com/paddyroddy/paddyroddy.github.io/pull/128) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (6 days ago)
 
 #### ⭐ Recent Stars
 
+- [DataDog/datadog-vale](https://github.com/DataDog/datadog-vale) - Documentation Style Guide for the Vale Linter. Owned and maintained by the Datadog Docs team.
+  (1 day ago)
 - [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
   (3 weeks ago)
 - [data-apis/array-api-strict](https://github.com/data-apis/array-api-strict) - Strict implementation of the Python array API (previously numpy.array_api)
-  (4 weeks ago)
+  (1 month ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (1 month ago)
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package) - Build and Inspect Python Packages in GitHub Actions
-  (1 month ago)
-- [cloudacademy/intro-to-k8s](https://github.com/cloudacademy/intro-to-k8s) - Assets used for the production of the Introduction to Kubernetes course on Cloud Academy
   (1 month ago)
