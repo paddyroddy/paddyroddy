@@ -14,12 +14,12 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (6 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (6 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (6 days ago)
+  (1 day ago)
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (1 week ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
@@ -28,9 +28,9 @@ Research Computing, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [gh-618: fix notebook resolutions](https://github.com/glass-dev/glass/pull/620) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
+  (1 week ago)
 - [Simplify `managerFilePatterns`](https://github.com/paddyroddy/.github/pull/299) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (6 days ago)
+  (1 week ago)
 - [gh-616: use `position_weights()` in galaxy redshift example](https://github.com/glass-dev/glass/pull/617) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [Change to once/month](https://github.com/paddyroddy/adr-tree-surgery-website/pull/98) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
@@ -41,7 +41,7 @@ Research Computing, UCL.
 #### ⭐ Recent Stars
 
 - [willmycroft/po10-api](https://github.com/willmycroft/po10-api) - A python web scraper for accessing the Power of 10 UK athletics database.
-  (1 day ago)
+  (2 days ago)
 - [DataDog/datadog-vale](https://github.com/DataDog/datadog-vale) - Documentation Style Guide for the Vale Linter. Owned and maintained by the Datadog Docs team.
   (1 week ago)
 - [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
