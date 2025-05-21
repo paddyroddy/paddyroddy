@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (today)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
-- [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com) - A game to provide guidance on choosing a database for your project
-  (4 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (1 week ago)
+  (1 day ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (2 days ago)
+- [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com) - A game to provide guidance on choosing a database for your project
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Change CI to SHA versioning](https://github.com/astro-informatics/sleplet/pull/457) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Chane `prettier` hook](https://github.com/paddyroddy/.github/pull/300) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Line wrapping :)](https://github.com/chooseadb/chooseadb.com/pull/50) on [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com)
-  (5 days ago)
-- [Remove unnecessary file type exclusion](https://github.com/chooseadb/chooseadb.com/pull/37) on [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com)
-  (5 days ago)
-- [Fix link checking](https://github.com/chooseadb/chooseadb.com/pull/35) on [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com)
-  (5 days ago)
-- [Checks whether the links are working in the `gh-pages` branch](https://github.com/chooseadb/chooseadb.com/pull/34) on [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com)
-  (5 days ago)
+- [Vale talk](https://github.com/paddyroddy/talks/pull/79) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Reduce font size](https://github.com/paddyroddy/dotfiles/pull/48) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [Switch from `alacritty` to `ghostty`](https://github.com/paddyroddy/dotfiles/pull/47) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [Change CI to SHA versioning](https://github.com/astro-informatics/sleplet/pull/457) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+  (1 day ago)
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft&#39;s Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
+  (1 day ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+  (1 day ago)
 - [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com) - A game to provide guidance on choosing a database for your project
-  (5 days ago)
+  (6 days ago)
 - [willmycroft/po10-api](https://github.com/willmycroft/po10-api) - A python web scraper for accessing the Power of 10 UK athletics database.
   (1 week ago)
-- [DataDog/datadog-vale](https://github.com/DataDog/datadog-vale) - Documentation Style Guide for the Vale Linter. Owned and maintained by the Datadog Docs team.
-  (1 week ago)
-- [patrick-kidger/jaxtyping](https://github.com/patrick-kidger/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays. https://docs.kidger.site/jaxtyping/
-  (1 month ago)
-- [data-apis/array-api-strict](https://github.com/data-apis/array-api-strict) - Strict implementation of the Python array API (previously numpy.array_api)
-  (1 month ago)
