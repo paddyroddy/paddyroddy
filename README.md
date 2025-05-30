@@ -14,34 +14,34 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/2025-05-27-UCL-SWC](https://github.com/UCL-ARC/2025-05-27-UCL-SWC)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
   (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 week ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 week ago)
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
+- [UCL-ARC/2025-05-27-UCL-SWC](https://github.com/UCL-ARC/2025-05-27-UCL-SWC)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add kubelogin](https://github.com/paddyroddy/dotfiles/pull/51) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [Add `vale` to talks repo](https://github.com/paddyroddy/talks/pull/80) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
-- [Add maple font](https://github.com/paddyroddy/dotfiles/pull/50) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 week ago)
-- [Remove alt option setting](https://github.com/paddyroddy/dotfiles/pull/49) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 week ago)
-- [Chane `prettier` hook](https://github.com/paddyroddy/.github/pull/300) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
-- [Vale talk](https://github.com/paddyroddy/talks/pull/79) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
+- [Switch vale location](https://github.com/paddyroddy/phd-thesis/pull/62) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
+  (1 day ago)
+- [Switch vale location](https://github.com/paddyroddy/latex-template/pull/59) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+  (1 day ago)
+- [Move vale from latex to own folder](https://github.com/paddyroddy/.github/pull/301) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Add kubelogin](https://github.com/paddyroddy/dotfiles/pull/51) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for &#34;Python Reddit API Wrapper&#34;, is a python package that allows for simple access to Reddit&#39;s API.
-  (1 day ago)
+  (2 days ago)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
   (1 week ago)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
