@@ -20,7 +20,7 @@ jobs:
       - name: Generate token
         id: generate-token
         # yamllint disable-line rule:line-length
-        uses: actions/create-github-app-token@d72941d797fd3113feb6b93fd0dec494b13a2547 # v1
+        uses: actions/create-github-app-token@df432ceedc7162793a195dd1713ff69aefc7379e # v2
         with:
           app-id: ${{ vars.README_APP_ID }}
           private-key: ${{ secrets.README_APP_PRIVATE_KEY }}
