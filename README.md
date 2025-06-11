@@ -15,38 +15,38 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com) - A game to provide guidance on choosing a database for your project
-  (today)
+  (1 day ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (5 days ago)
+  (6 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (5 days ago)
+  (6 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (5 days ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [How I make my talks talk](https://github.com/paddyroddy/talks/pull/96) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 - [Add `Vale` for linting prose](https://github.com/chooseadb/chooseadb.com/pull/67) on [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com)
-  (today)
+  (1 day ago)
 - [Update index.qmd](https://github.com/paddyroddy/talks/pull/95) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (5 days ago)
+  (6 days ago)
 - [Update action.yml](https://github.com/paddyroddy/.github/pull/308) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (5 days ago)
+  (6 days ago)
 - [Update index.qmd](https://github.com/paddyroddy/talks/pull/94) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (5 days ago)
-- [github-check](https://github.com/paddyroddy/.github/pull/307) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-  (1 day ago)
+  (2 days ago)
 - [errata-ai/vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
-  (5 days ago)
+  (6 days ago)
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
-  (6 days ago)
+  (1 week ago)
 - [redhat-documentation/vale-at-red-hat](https://github.com/redhat-documentation/vale-at-red-hat) - Vale config files, styles, and docs to help individuals and teams roll out Vale
-  (6 days ago)
+  (1 week ago)
 - [ChrisChinchilla/Openly](https://github.com/ChrisChinchilla/Openly) - A Vale linter style that aims to replicate Grammarly in an open-source, privacy-friendly way
-  (6 days ago)
+  (1 week ago)
