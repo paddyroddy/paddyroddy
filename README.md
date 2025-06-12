@@ -14,36 +14,36 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com) - A game to provide guidance on choosing a database for your project
-  (1 day ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (5 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (6 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com) - A game to provide guidance on choosing a database for your project
+  (2 days ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (6 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Bring in general improvements](https://github.com/paddyroddy/talks/pull/97) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 - [How I make my talks talk](https://github.com/paddyroddy/talks/pull/96) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
+  (2 days ago)
 - [Add `Vale` for linting prose](https://github.com/chooseadb/chooseadb.com/pull/67) on [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com)
-  (1 day ago)
+  (2 days ago)
 - [Update index.qmd](https://github.com/paddyroddy/talks/pull/95) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (6 days ago)
+  (1 week ago)
 - [Update action.yml](https://github.com/paddyroddy/.github/pull/308) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (6 days ago)
-- [Update index.qmd](https://github.com/paddyroddy/talks/pull/94) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (6 days ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-  (2 days ago)
+  (3 days ago)
 - [errata-ai/vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
-  (6 days ago)
+  (1 week ago)
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
   (1 week ago)
 - [redhat-documentation/vale-at-red-hat](https://github.com/redhat-documentation/vale-at-red-hat) - Vale config files, styles, and docs to help individuals and teams roll out Vale
