@@ -15,33 +15,33 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A posters of talks I&#39;ve presented
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (3 days ago)
+  (4 days ago)
 - [chooseadb/chooseadb.com](https://github.com/chooseadb/chooseadb.com) - A game to provide guidance on choosing a database for your project
-  (5 days ago)
+  (6 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Prepare poster for EuroSciPy 2025](https://github.com/paddyroddy/posters/pull/1) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (1 day ago)
+  (2 days ago)
 - [Update aliases_general.zsh](https://github.com/paddyroddy/dotfiles/pull/84) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
-- [Improvements and preparing for metatalk](https://github.com/paddyroddy/talks/pull/98) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (3 days ago)
-- [Bring in general improvements](https://github.com/paddyroddy/talks/pull/97) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (4 days ago)
-- [How I make my talks talk](https://github.com/paddyroddy/talks/pull/96) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [Improvements and preparing for metatalk](https://github.com/paddyroddy/talks/pull/98) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (4 days ago)
+- [Bring in general improvements](https://github.com/paddyroddy/talks/pull/97) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (5 days ago)
+- [How I make my talks talk](https://github.com/paddyroddy/talks/pull/96) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-  (6 days ago)
+  (1 week ago)
 - [errata-ai/vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
   (1 week ago)
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
