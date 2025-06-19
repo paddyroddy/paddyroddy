@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [chooseadb/talks](https://github.com/chooseadb/talks) - A series of talks to promote chooseadb.com
-  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
+  (2 days ago)
 - [chooseadb/chooseadb.github.io](https://github.com/chooseadb/chooseadb.github.io) - A game to provide guidance on choosing a database for your project
-  (1 day ago)
+  (2 days ago)
+- [chooseadb/talks](https://github.com/chooseadb/talks) - A series of talks to promote chooseadb.com
+  (2 days ago)
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A posters of talks I&#39;ve presented
-  (4 days ago)
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Brew](https://github.com/paddyroddy/dotfiles/pull/88) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [Change to delta](https://github.com/paddyroddy/dotfiles/pull/87) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
 - [Add `site-url`](https://github.com/paddyroddy/talks/pull/99) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
+  (2 days ago)
 - [Add `site-url`](https://github.com/chooseadb/talks/pull/4) on [chooseadb/talks](https://github.com/chooseadb/talks)
-  (1 day ago)
+  (2 days ago)
 - [Fix image problem](https://github.com/chooseadb/chooseadb.github.io/pull/70) on [chooseadb/chooseadb.github.io](https://github.com/chooseadb/chooseadb.github.io)
-  (1 day ago)
-- [Update aliases_general.zsh](https://github.com/paddyroddy/dotfiles/pull/86) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
-- [Update aliases_general.zsh](https://github.com/paddyroddy/dotfiles/pull/85) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [tmedwards/tweego](https://github.com/tmedwards/tweego) - Tweego is a free (gratis and libre) command line compiler for Twine/Twee story formats, written in Go.
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
   (1 day ago)
+- [tmedwards/tweego](https://github.com/tmedwards/tweego) - Tweego is a free (gratis and libre) command line compiler for Twine/Twee story formats, written in Go.
+  (2 days ago)
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
   (1 week ago)
 - [errata-ai/vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
-  (1 week ago)
-- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
   (2 weeks ago)
-- [redhat-documentation/vale-at-red-hat](https://github.com/redhat-documentation/vale-at-red-hat) - Vale config files, styles, and docs to help individuals and teams roll out Vale
+- [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
   (2 weeks ago)
