@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (2 days ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (2 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (3 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+  (3 days ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (4 days ago)
-- [chooseadb/chooseadb.github.io](https://github.com/chooseadb/chooseadb.github.io) - A game to provide guidance on choosing a database for your project
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (5 days ago)
+- [chooseadb/talks](https://github.com/chooseadb/talks) - A series of talks to promote chooseadb.com
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Add template files](https://github.com/paddyroddy/posters/pull/4) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (2 days ago)
-- [Create EuroSciPy 2025 poster](https://github.com/paddyroddy/posters/pull/3) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (2 days ago)
-- [Create posters.html](https://github.com/paddyroddy/paddyroddy.github.io/pull/131) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (2 days ago)
-- [Fix contents](https://github.com/paddyroddy/posters/pull/2) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (2 days ago)
-- [Update `fontawesome`](https://github.com/paddyroddy/talks/pull/100) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (3 days ago)
+- [Create EuroSciPy 2025 poster](https://github.com/paddyroddy/posters/pull/3) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (3 days ago)
+- [Create posters.html](https://github.com/paddyroddy/paddyroddy.github.io/pull/131) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (3 days ago)
+- [Fix contents](https://github.com/paddyroddy/posters/pull/2) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (3 days ago)
+- [Update `fontawesome`](https://github.com/paddyroddy/talks/pull/100) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [MIT-BECL/Poster_Resources](https://github.com/MIT-BECL/Poster_Resources) - Guidelines, templates, and examples for creating scientific posters
-  (2 days ago)
+  (3 days ago)
 - [qmd-lab/closeread](https://github.com/qmd-lab/closeread) - Easy scrollytelling in Quarto
-  (3 days ago)
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
-  (3 days ago)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
   (4 days ago)
-- [tmedwards/tweego](https://github.com/tmedwards/tweego) - Tweego is a free (gratis and libre) command line compiler for Twine/Twee story formats, written in Go.
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
+  (4 days ago)
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
   (5 days ago)
+- [tmedwards/tweego](https://github.com/tmedwards/tweego) - Tweego is a free (gratis and libre) command line compiler for Twine/Twee story formats, written in Go.
+  (6 days ago)
