@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (3 days ago)
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (3 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (5 days ago)
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (4 days ago)
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+  (4 days ago)
 - [chooseadb/talks](https://github.com/chooseadb/talks) - A series of talks to promote chooseadb.com
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [DevOps typo](https://github.com/paddyroddy/talks/pull/101) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Brew](https://github.com/paddyroddy/dotfiles/pull/89) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
 - [Add template files](https://github.com/paddyroddy/posters/pull/4) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (3 days ago)
+  (4 days ago)
 - [Create EuroSciPy 2025 poster](https://github.com/paddyroddy/posters/pull/3) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (3 days ago)
+  (4 days ago)
 - [Create posters.html](https://github.com/paddyroddy/paddyroddy.github.io/pull/131) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (3 days ago)
-- [Fix contents](https://github.com/paddyroddy/posters/pull/2) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (3 days ago)
-- [Update `fontawesome`](https://github.com/paddyroddy/talks/pull/100) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (4 days ago)
 
 #### ⭐ Recent Stars
 
+- [optimagic-dev/optimagic](https://github.com/optimagic-dev/optimagic) - optimagic is a Python package for numerical optimization. It is a unified interface to optimizers from SciPy, NlOpt and other packages.  optimagic&#39;s minimize function works just like SciPy&#39;s, so you don&#39;t have to adjust your code. You simply get more optimizers for free. On top you get diagnostic tools, parallel numerical derivatives and more.
+  (1 day ago)
+- [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git  and git-annex
+  (1 day ago)
 - [MIT-BECL/Poster_Resources](https://github.com/MIT-BECL/Poster_Resources) - Guidelines, templates, and examples for creating scientific posters
-  (3 days ago)
+  (4 days ago)
 - [qmd-lab/closeread](https://github.com/qmd-lab/closeread) - Easy scrollytelling in Quarto
-  (4 days ago)
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
-  (4 days ago)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
   (5 days ago)
-- [tmedwards/tweego](https://github.com/tmedwards/tweego) - Tweego is a free (gratis and libre) command line compiler for Twine/Twee story formats, written in Go.
-  (6 days ago)
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
+  (5 days ago)
