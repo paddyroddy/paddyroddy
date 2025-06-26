@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 days ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (5 days ago)
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (5 days ago)
 - [chooseadb/talks](https://github.com/chooseadb/talks) - A series of talks to promote chooseadb.com
-  (1 week ago)
+  (1 day ago)
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+  (1 day ago)
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [UCL-ARC-RSEworkshop-summer-25/average_squares](https://github.com/UCL-ARC-RSEworkshop-summer-25/average_squares)
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Rename _quarto.yml to _quarto.yaml](https://github.com/chooseadb/talks/pull/5) on [chooseadb/talks](https://github.com/chooseadb/talks)
+  (1 day ago)
+- [Rename _quarto.yml to _quarto.yaml](https://github.com/paddyroddy/blog/pull/7) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
+  (1 day ago)
+- [Rename _quarto.yml to _quarto.yaml](https://github.com/paddyroddy/posters/pull/5) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (1 day ago)
+- [Rename _quarto.yml to _quarto.yaml](https://github.com/paddyroddy/talks/pull/102) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 - [DevOps typo](https://github.com/paddyroddy/talks/pull/101) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (2 days ago)
-- [Brew](https://github.com/paddyroddy/dotfiles/pull/89) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (2 days ago)
-- [Add template files](https://github.com/paddyroddy/posters/pull/4) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (5 days ago)
-- [Create EuroSciPy 2025 poster](https://github.com/paddyroddy/posters/pull/3) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (5 days ago)
-- [Create posters.html](https://github.com/paddyroddy/paddyroddy.github.io/pull/131) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (5 days ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry or uv.
-  (1 day ago)
+  (2 days ago)
 - [optimagic-dev/optimagic](https://github.com/optimagic-dev/optimagic) - optimagic is a Python package for numerical optimization. It is a unified interface to optimizers from SciPy, NlOpt and other packages.  optimagic&#39;s minimize function works just like SciPy&#39;s, so you don&#39;t have to adjust your code. You simply get more optimizers for free. On top you get diagnostic tools, parallel numerical derivatives and more.
-  (2 days ago)
+  (3 days ago)
 - [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git  and git-annex
-  (2 days ago)
+  (3 days ago)
 - [MIT-BECL/Poster_Resources](https://github.com/MIT-BECL/Poster_Resources) - Guidelines, templates, and examples for creating scientific posters
-  (5 days ago)
-- [qmd-lab/closeread](https://github.com/qmd-lab/closeread) - Easy scrollytelling in Quarto
   (6 days ago)
+- [qmd-lab/closeread](https://github.com/qmd-lab/closeread) - Easy scrollytelling in Quarto
+  (1 week ago)
