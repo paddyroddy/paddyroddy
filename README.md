@@ -14,29 +14,29 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (today)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 days ago)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (1 day ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (4 days ago)
-- [UCL-ARC-RSEworkshop-summer-25/average_squares](https://github.com/UCL-ARC-RSEworkshop-summer-25/average_squares)
-  (6 days ago)
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Simplify link](https://github.com/paddyroddy/paddyroddy.github.io/pull/135) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
+- [Exclude scholar](https://github.com/paddyroddy/paddyroddy.github.io/pull/134) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
+- [Delete .lycheeignore](https://github.com/paddyroddy/adr-tree-surgery-website/pull/102) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (1 day ago)
+- [Create lychee ignore file](https://github.com/paddyroddy/adr-tree-surgery-website/pull/101) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (1 day ago)
 - [Revert &#34;Hide Ghostty icon&#34;](https://github.com/paddyroddy/dotfiles/pull/91) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
-- [Hide Ghostty icon](https://github.com/paddyroddy/dotfiles/pull/90) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
-- [Simplify names](https://github.com/paddyroddy/paddyroddy.github.io/pull/133) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (4 days ago)
-- [5km PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/132) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (5 days ago)
-- [Rename _quarto.yml to _quarto.yaml](https://github.com/chooseadb/talks/pull/5) on [chooseadb/talks](https://github.com/chooseadb/talks)
-  (6 days ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
