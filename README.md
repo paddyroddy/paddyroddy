@@ -14,28 +14,28 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
   (1 day ago)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (1 day ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (2 days ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add `hostRules` to fix `customDatasource` issue](https://github.com/UCL-MIRSG/.github/pull/178) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Fix VUIIS renovate lookup](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/177) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
+  (1 day ago)
 - [Simplify link](https://github.com/paddyroddy/paddyroddy.github.io/pull/135) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
+  (2 days ago)
 - [Exclude scholar](https://github.com/paddyroddy/paddyroddy.github.io/pull/134) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
+  (2 days ago)
 - [Delete .lycheeignore](https://github.com/paddyroddy/adr-tree-surgery-website/pull/102) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 day ago)
-- [Create lychee ignore file](https://github.com/paddyroddy/adr-tree-surgery-website/pull/101) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (1 day ago)
-- [Revert &#34;Hide Ghostty icon&#34;](https://github.com/paddyroddy/dotfiles/pull/91) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (2 days ago)
 
 #### ⭐ Recent Stars
@@ -49,4 +49,4 @@ Research Computing, UCL.
 - [MIT-BECL/Poster_Resources](https://github.com/MIT-BECL/Poster_Resources) - Guidelines, templates, and examples for creating scientific posters
   (1 week ago)
 - [qmd-lab/closeread](https://github.com/qmd-lab/closeread) - Easy scrollytelling in Quarto
-  (1 week ago)
+  (2 weeks ago)
