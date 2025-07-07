@@ -15,37 +15,37 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (3 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (4 days ago)
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (4 days ago)
+  (5 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (5 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (5 days ago)
+  (6 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (5 days ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Revert &#34;Add `hostRules` to fix `customDatasource` issue&#34;](https://github.com/UCL-MIRSG/.github/pull/180) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (3 days ago)
+  (4 days ago)
 - [Add `hostRules` to fix `customDatasource` issue](https://github.com/UCL-MIRSG/.github/pull/178) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (4 days ago)
+  (5 days ago)
 - [Fix VUIIS renovate lookup](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/177) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (4 days ago)
+  (5 days ago)
 - [Simplify link](https://github.com/paddyroddy/paddyroddy.github.io/pull/135) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (5 days ago)
+  (6 days ago)
 - [Exclude scholar](https://github.com/paddyroddy/paddyroddy.github.io/pull/134) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry or uv.
   (1 week ago)
 - [optimagic-dev/optimagic](https://github.com/optimagic-dev/optimagic) - optimagic is a Python package for numerical optimization. It is a unified interface to optimizers from SciPy, NlOpt and other packages.  optimagic&#39;s minimize function works just like SciPy&#39;s, so you don&#39;t have to adjust your code. You simply get more optimizers for free. On top you get diagnostic tools, parallel numerical derivatives and more.
-  (1 week ago)
+  (2 weeks ago)
 - [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git  and git-annex
-  (1 week ago)
+  (2 weeks ago)
 - [MIT-BECL/Poster_Resources](https://github.com/MIT-BECL/Poster_Resources) - Guidelines, templates, and examples for creating scientific posters
   (2 weeks ago)
 - [qmd-lab/closeread](https://github.com/qmd-lab/closeread) - Easy scrollytelling in Quarto
