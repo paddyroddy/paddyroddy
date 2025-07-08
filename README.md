@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (4 days ago)
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (5 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (5 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (5 days ago)
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
   (6 days ago)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Center Mermaid](https://github.com/paddyroddy/talks/pull/103) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 - [Revert &#34;Add `hostRules` to fix `customDatasource` issue&#34;](https://github.com/UCL-MIRSG/.github/pull/180) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (4 days ago)
+  (5 days ago)
 - [Add `hostRules` to fix `customDatasource` issue](https://github.com/UCL-MIRSG/.github/pull/178) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (5 days ago)
+  (6 days ago)
 - [Fix VUIIS renovate lookup](https://github.com/UCL-MIRSG/ansible-collection-infra/pull/177) on [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra)
-  (5 days ago)
+  (6 days ago)
 - [Simplify link](https://github.com/paddyroddy/paddyroddy.github.io/pull/135) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (6 days ago)
-- [Exclude scholar](https://github.com/paddyroddy/paddyroddy.github.io/pull/134) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (6 days ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [firedrakeproject/mpi-pytest](https://github.com/firedrakeproject/mpi-pytest) - Pytest plugin that lets you run tests in parallel with MPI.
+  (1 day ago)
+- [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
+  (1 day ago)
+- [codemeta/codemeta](https://github.com/codemeta/codemeta) - Minimal metadata schemas for science software and code, in JSON-LD
+  (1 day ago)
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry or uv.
-  (1 week ago)
+  (2 weeks ago)
 - [optimagic-dev/optimagic](https://github.com/optimagic-dev/optimagic) - optimagic is a Python package for numerical optimization. It is a unified interface to optimizers from SciPy, NlOpt and other packages.  optimagic&#39;s minimize function works just like SciPy&#39;s, so you don&#39;t have to adjust your code. You simply get more optimizers for free. On top you get diagnostic tools, parallel numerical derivatives and more.
-  (2 weeks ago)
-- [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git  and git-annex
-  (2 weeks ago)
-- [MIT-BECL/Poster_Resources](https://github.com/MIT-BECL/Poster_Resources) - Guidelines, templates, and examples for creating scientific posters
-  (2 weeks ago)
-- [qmd-lab/closeread](https://github.com/qmd-lab/closeread) - Easy scrollytelling in Quarto
   (2 weeks ago)
