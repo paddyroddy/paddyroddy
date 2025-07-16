@@ -40,13 +40,13 @@ Research Computing, UCL.
 
 #### ⭐ Recent Stars
 
-- [Wilm0r/giggity](https://github.com/Wilm0r/giggity) - Generic Android conference schedule viewer
+- [spylang/spy](https://github.com/spylang/spy) - SPy language
+  (today)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
   (1 day ago)
-- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
-  (1 week ago)
-- [firedrakeproject/mpi-pytest](https://github.com/firedrakeproject/mpi-pytest) - Pytest plugin that lets you run tests in parallel with MPI.
-  (1 week ago)
-- [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
-  (1 week ago)
-- [codemeta/codemeta](https://github.com/codemeta/codemeta) - Minimal metadata schemas for science software and code, in JSON-LD
-  (1 week ago)
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
+  (1 day ago)
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
+  (1 day ago)
+- [coobas/europython-25](https://github.com/coobas/europython-25) - Materials for EuroPython 2025 tutorial &#34;Accelerating Scientific Python: JAX, Numba, and Ray in Action&#34;
+  (1 day ago)
