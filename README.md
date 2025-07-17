@@ -27,6 +27,8 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
+- [Move `optional-dependencies` to `dependency-groups`](https://github.com/astro-informatics/sleplet/pull/462) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
 - [Bump ruff](https://github.com/UCL-MIRSG/.github/pull/183) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 week ago)
 - [gh-629: temporarily pin `array-api-strict`](https://github.com/glass-dev/glass/pull/632) on [glass-dev/glass](https://github.com/glass-dev/glass)
@@ -35,18 +37,16 @@ Research Computing, UCL.
   (1 week ago)
 - [Disable PLC0415 in tests](https://github.com/glass-dev/glass/pull/630) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
-- [Rename deprecated pre-commit hook](https://github.com/UCL-MIRSG/.github/pull/181) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [spylang/spy](https://github.com/spylang/spy) - SPy language
+- [CodSpeedHQ/pytest-codspeed](https://github.com/CodSpeedHQ/pytest-codspeed) - A pytest plugin to create benchmarks
   (today)
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth &amp; AI solutions, and much more.
+  (today)
+- [green-api/whatsapp-chatbot-python](https://github.com/green-api/whatsapp-chatbot-python) - This library helps you easily create a Python chatbot with WhatsApp API.
   (1 day ago)
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
+- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
   (1 day ago)
-- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
-  (1 day ago)
-- [coobas/europython-25](https://github.com/coobas/europython-25) - Materials for EuroPython 2025 tutorial &#34;Accelerating Scientific Python: JAX, Numba, and Ray in Action&#34;
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
   (1 day ago)
