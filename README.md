@@ -28,7 +28,7 @@ Research Computing, UCL.
 #### 🔨 My Recent Pull Requests
 
 - [Move `optional-dependencies` to `dependency-groups`](https://github.com/astro-informatics/sleplet/pull/462) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 - [Bump ruff](https://github.com/UCL-MIRSG/.github/pull/183) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 week ago)
 - [gh-629: temporarily pin `array-api-strict`](https://github.com/glass-dev/glass/pull/632) on [glass-dev/glass](https://github.com/glass-dev/glass)
@@ -40,13 +40,13 @@ Research Computing, UCL.
 
 #### ⭐ Recent Stars
 
-- [CodSpeedHQ/pytest-codspeed](https://github.com/CodSpeedHQ/pytest-codspeed) - A pytest plugin to create benchmarks
+- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
   (today)
-- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth &amp; AI solutions, and much more.
-  (today)
-- [green-api/whatsapp-chatbot-python](https://github.com/green-api/whatsapp-chatbot-python) - This library helps you easily create a Python chatbot with WhatsApp API.
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
   (1 day ago)
-- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
+- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
   (1 day ago)
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+- [econchick/interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
+  (1 day ago)
+- [adamchainz/time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
   (1 day ago)
