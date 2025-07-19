@@ -27,26 +27,26 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
+- [GH-32609: [Python] Incorporate `zen-xu/pyarrow-stubs` for typing](https://github.com/rok/arrow/pull/1) on [rok/arrow](https://github.com/rok/arrow)
+  (today)
+- [Start EuroPython &amp; EuroSciPy 2025](https://github.com/paddyroddy/talks/pull/105) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 - [Move `optional-dependencies` to `dependency-groups`](https://github.com/astro-informatics/sleplet/pull/462) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (2 days ago)
+  (3 days ago)
 - [Bump ruff](https://github.com/UCL-MIRSG/.github/pull/183) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 week ago)
 - [gh-629: temporarily pin `array-api-strict`](https://github.com/glass-dev/glass/pull/632) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
-- [Add already used hooks for Terraform](https://github.com/UCL-MIRSG/.github/pull/182) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
-- [Disable PLC0415 in tests](https://github.com/glass-dev/glass/pull/630) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+- [cmaureir/europython2025](https://github.com/cmaureir/europython2025) - EuroPython 2025 talk material
   (today)
-- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui
+  (today)
+- [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run mypy and pyright over millions of lines of code
+  (today)
+- [Qirky/FoxDot](https://github.com/Qirky/FoxDot) - Python driven environment for Live Coding
   (1 day ago)
-- [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
-  (1 day ago)
-- [econchick/interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
-  (1 day ago)
-- [adamchainz/time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
+- [gkocjan/the_best_python_config](https://github.com/gkocjan/the_best_python_config) - Demo for talk about pydantic-settings and best coding practices
   (1 day ago)
