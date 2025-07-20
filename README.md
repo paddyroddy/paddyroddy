@@ -27,26 +27,26 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
-- [GH-32609: [Python] Incorporate `zen-xu/pyarrow-stubs` for typing](https://github.com/rok/arrow/pull/1) on [rok/arrow](https://github.com/rok/arrow)
+- [GH-45867: [PYTHON] Fix `SetuptoolsDeprecationWarning`](https://github.com/apache/arrow/pull/47141) on [apache/arrow](https://github.com/apache/arrow)
   (today)
-- [Start EuroPython &amp; EuroSciPy 2025](https://github.com/paddyroddy/talks/pull/105) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [GH-32609: [Python] Add typing to arrow using stubs](https://github.com/rok/arrow/pull/3) on [rok/arrow](https://github.com/rok/arrow)
   (1 day ago)
-- [Move `optional-dependencies` to `dependency-groups`](https://github.com/astro-informatics/sleplet/pull/462) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (3 days ago)
-- [Bump ruff](https://github.com/UCL-MIRSG/.github/pull/183) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
-- [gh-629: temporarily pin `array-api-strict`](https://github.com/glass-dev/glass/pull/632) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
+- [MINOR: [Python] Prepare `pyarrow-stubs` for history merging](https://github.com/rok/arrow/pull/2) on [rok/arrow](https://github.com/rok/arrow)
+  (1 day ago)
+- [GH-32609: [Python] Incorporate `zen-xu/pyarrow-stubs` for typing](https://github.com/rok/arrow/pull/1) on [rok/arrow](https://github.com/rok/arrow)
+  (1 day ago)
+- [Start EuroPython &amp; EuroSciPy 2025](https://github.com/paddyroddy/talks/pull/105) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [cmaureir/europython2025](https://github.com/cmaureir/europython2025) - EuroPython 2025 talk material
-  (today)
+  (1 day ago)
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui
-  (today)
+  (1 day ago)
 - [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run mypy and pyright over millions of lines of code
-  (today)
+  (1 day ago)
 - [Qirky/FoxDot](https://github.com/Qirky/FoxDot) - Python driven environment for Live Coding
-  (1 day ago)
+  (2 days ago)
 - [gkocjan/the_best_python_config](https://github.com/gkocjan/the_best_python_config) - Demo for talk about pydantic-settings and best coding practices
-  (1 day ago)
+  (2 days ago)
