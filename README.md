@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 week ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 week ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 week ago)
+  (2 weeks ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [GH-45867: [PYTHON] Fix `SetuptoolsDeprecationWarning`](https://github.com/apache/arrow/pull/47141) on [apache/arrow](https://github.com/apache/arrow)
-  (today)
-- [GH-32609: [Python] Add typing to arrow using stubs](https://github.com/rok/arrow/pull/3) on [rok/arrow](https://github.com/rok/arrow)
+- [GH-14: [Python] Fix `not-iterable` typing](https://github.com/rok/arrow/pull/26) on [rok/arrow](https://github.com/rok/arrow)
   (1 day ago)
-- [MINOR: [Python] Prepare `pyarrow-stubs` for history merging](https://github.com/rok/arrow/pull/2) on [rok/arrow](https://github.com/rok/arrow)
+- [GH-12 : [Python] Fix `invalid-return-type` error](https://github.com/rok/arrow/pull/25) on [rok/arrow](https://github.com/rok/arrow)
   (1 day ago)
-- [GH-32609: [Python] Incorporate `zen-xu/pyarrow-stubs` for typing](https://github.com/rok/arrow/pull/1) on [rok/arrow](https://github.com/rok/arrow)
+- [GH-20: [Python] Fix `unsupported-reference` typing](https://github.com/rok/arrow/pull/24) on [rok/arrow](https://github.com/rok/arrow)
   (1 day ago)
-- [Start EuroPython &amp; EuroSciPy 2025](https://github.com/paddyroddy/talks/pull/105) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (2 days ago)
+- [GH-21: [Python] Fix `unsupported-operator` typing](https://github.com/rok/arrow/pull/22) on [rok/arrow](https://github.com/rok/arrow)
+  (1 day ago)
+- [MINOR: [PYTHON] Add `ty` as a step in the action](https://github.com/rok/arrow/pull/4) on [rok/arrow](https://github.com/rok/arrow)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [cmaureir/europython2025](https://github.com/cmaureir/europython2025) - EuroPython 2025 talk material
-  (1 day ago)
+  (2 days ago)
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui
-  (1 day ago)
+  (2 days ago)
 - [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run mypy and pyright over millions of lines of code
-  (1 day ago)
+  (2 days ago)
 - [Qirky/FoxDot](https://github.com/Qirky/FoxDot) - Python driven environment for Live Coding
-  (2 days ago)
+  (3 days ago)
 - [gkocjan/the_best_python_config](https://github.com/gkocjan/the_best_python_config) - Demo for talk about pydantic-settings and best coding practices
-  (2 days ago)
+  (3 days ago)
