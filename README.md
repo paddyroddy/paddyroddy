@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (2 weeks ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 weeks ago)
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (2 weeks ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (2 weeks ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add `gs`](https://github.com/paddyroddy/dotfiles/pull/92) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
 - [GH-14: [Python] Fix `not-iterable` typing](https://github.com/rok/arrow/pull/26) on [rok/arrow](https://github.com/rok/arrow)
-  (2 days ago)
-- [GH-12 : [Python] Fix `invalid-return-type` error](https://github.com/rok/arrow/pull/25) on [rok/arrow](https://github.com/rok/arrow)
-  (2 days ago)
+  (3 days ago)
+- [GH-12: [Python] Fix `invalid-return-type` error](https://github.com/rok/arrow/pull/25) on [rok/arrow](https://github.com/rok/arrow)
+  (3 days ago)
 - [GH-20: [Python] Fix `unsupported-reference` typing](https://github.com/rok/arrow/pull/24) on [rok/arrow](https://github.com/rok/arrow)
-  (2 days ago)
+  (3 days ago)
 - [GH-21: [Python] Fix `unsupported-operator` typing](https://github.com/rok/arrow/pull/22) on [rok/arrow](https://github.com/rok/arrow)
-  (2 days ago)
-- [MINOR: [PYTHON] Add `ty` as a step in the action](https://github.com/rok/arrow/pull/4) on [rok/arrow](https://github.com/rok/arrow)
-  (2 days ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
+- [aryamanjeendgar/CopyCuTTer](https://github.com/aryamanjeendgar/CopyCuTTer) - A complete TUI for the `cookiecutter` and `copier` projects
+  (today)
+- [ymyzk/mypy-playground](https://github.com/ymyzk/mypy-playground) - The mypy playground. Try mypy with your web browser.
+  (1 day ago)
 - [cmaureir/europython2025](https://github.com/cmaureir/europython2025) - EuroPython 2025 talk material
-  (3 days ago)
-- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui
-  (3 days ago)
-- [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run mypy and pyright over millions of lines of code
-  (3 days ago)
-- [Qirky/FoxDot](https://github.com/Qirky/FoxDot) - Python driven environment for Live Coding
   (4 days ago)
-- [gkocjan/the_best_python_config](https://github.com/gkocjan/the_best_python_config) - Demo for talk about pydantic-settings and best coding practices
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui
+  (4 days ago)
+- [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run mypy and pyright over millions of lines of code
   (4 days ago)
