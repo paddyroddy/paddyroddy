@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 day ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (2 weeks ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 weeks ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 weeks ago)
+  (1 day ago)
+- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from https://thepowerof10.info
+  (1 day ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add `gs`](https://github.com/paddyroddy/dotfiles/pull/92) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [GH-47137: [PYTHON] Switch to `[dependency-groups]`](https://github.com/apache/arrow/pull/47176) on [apache/arrow](https://github.com/apache/arrow)
   (1 day ago)
-- [GH-14: [Python] Fix `not-iterable` typing](https://github.com/rok/arrow/pull/26) on [rok/arrow](https://github.com/rok/arrow)
-  (3 days ago)
-- [GH-12: [Python] Fix `invalid-return-type` error](https://github.com/rok/arrow/pull/25) on [rok/arrow](https://github.com/rok/arrow)
-  (3 days ago)
-- [GH-20: [Python] Fix `unsupported-reference` typing](https://github.com/rok/arrow/pull/24) on [rok/arrow](https://github.com/rok/arrow)
-  (3 days ago)
-- [GH-21: [Python] Fix `unsupported-operator` typing](https://github.com/rok/arrow/pull/22) on [rok/arrow](https://github.com/rok/arrow)
-  (3 days ago)
+- [Switch to `dependency-groups`](https://github.com/UCL-ARC/python-tooling/pull/585) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (1 day ago)
+- [gh-633: switch to `dependency-groups`](https://github.com/glass-dev/glass/pull/634) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Change to `[dependency-groups]`](https://github.com/paddyroddy/python-template/pull/194) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (1 day ago)
+- [Change to `[dependency-groups]`](https://github.com/paddyroddy/fastest-races/pull/11) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [aryamanjeendgar/CopyCuTTer](https://github.com/aryamanjeendgar/CopyCuTTer) - A complete TUI for the `cookiecutter` and `copier` projects
-  (today)
-- [ymyzk/mypy-playground](https://github.com/ymyzk/mypy-playground) - The mypy playground. Try mypy with your web browser.
   (1 day ago)
+- [ymyzk/mypy-playground](https://github.com/ymyzk/mypy-playground) - The mypy playground. Try mypy with your web browser.
+  (2 days ago)
 - [cmaureir/europython2025](https://github.com/cmaureir/europython2025) - EuroPython 2025 talk material
-  (4 days ago)
+  (5 days ago)
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui
-  (4 days ago)
+  (5 days ago)
 - [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run mypy and pyright over millions of lines of code
-  (4 days ago)
+  (5 days ago)
