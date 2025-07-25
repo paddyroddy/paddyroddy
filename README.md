@@ -15,38 +15,38 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
-- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from https://thepowerof10.info
-  (1 day ago)
+  (today)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (1 day ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from https://thepowerof10.info
   (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [GH-47137: [PYTHON] Switch to `[dependency-groups]`](https://github.com/apache/arrow/pull/47176) on [apache/arrow](https://github.com/apache/arrow)
+- [Modernise licence metadata in `pyproject.toml`](https://github.com/paddyroddy/fastest-races/pull/13) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
   (1 day ago)
-- [Switch to `dependency-groups`](https://github.com/UCL-ARC/python-tooling/pull/585) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+- [Remove TOML hack, no forced new lines](https://github.com/paddyroddy/fastest-races/pull/12) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
   (1 day ago)
-- [gh-633: switch to `dependency-groups`](https://github.com/glass-dev/glass/pull/634) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Remove TOML hack, no forced new lines](https://github.com/paddyroddy/python-template/pull/195) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (1 day ago)
-- [Change to `[dependency-groups]`](https://github.com/paddyroddy/python-template/pull/194) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+- [Remove TOML hack, no forced new lines](https://github.com/astro-informatics/sleplet/pull/464) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
-- [Change to `[dependency-groups]`](https://github.com/paddyroddy/fastest-races/pull/11) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
+- [Disable auto stretch in presentations](https://github.com/paddyroddy/talks/pull/106) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [aryamanjeendgar/CopyCuTTer](https://github.com/aryamanjeendgar/CopyCuTTer) - A complete TUI for the `cookiecutter` and `copier` projects
+- [JeffersGlass/mkdocs-pyscript](https://github.com/JeffersGlass/mkdocs-pyscript) - Use PyScript in mkdocs
   (1 day ago)
-- [ymyzk/mypy-playground](https://github.com/ymyzk/mypy-playground) - The mypy playground. Try mypy with your web browser.
+- [koxudaxi/europython_2025](https://github.com/koxudaxi/europython_2025)
+  (1 day ago)
+- [aryamanjeendgar/CopyCuTTer](https://github.com/aryamanjeendgar/CopyCuTTer) - A complete TUI for the `cookiecutter` and `copier` projects
   (2 days ago)
+- [ymyzk/mypy-playground](https://github.com/ymyzk/mypy-playground) - The mypy playground. Try mypy with your web browser.
+  (3 days ago)
 - [cmaureir/europython2025](https://github.com/cmaureir/europython2025) - EuroPython 2025 talk material
-  (5 days ago)
-- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui
-  (5 days ago)
-- [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer) - Run mypy and pyright over millions of lines of code
-  (5 days ago)
+  (6 days ago)
