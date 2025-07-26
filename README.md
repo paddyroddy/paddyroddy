@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (today)
+  (1 day ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
-- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from https://thepowerof10.info
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add loop](https://github.com/paddyroddy/dotfiles/pull/93) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
 - [Modernise licence metadata in `pyproject.toml`](https://github.com/paddyroddy/fastest-races/pull/13) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (1 day ago)
+  (2 days ago)
 - [Remove TOML hack, no forced new lines](https://github.com/paddyroddy/fastest-races/pull/12) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (1 day ago)
+  (2 days ago)
 - [Remove TOML hack, no forced new lines](https://github.com/paddyroddy/python-template/pull/195) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (1 day ago)
+  (2 days ago)
 - [Remove TOML hack, no forced new lines](https://github.com/astro-informatics/sleplet/pull/464) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
-- [Disable auto stretch in presentations](https://github.com/paddyroddy/talks/pull/106) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
+- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
+  (1 day ago)
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
+  (1 day ago)
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+  (1 day ago)
 - [JeffersGlass/mkdocs-pyscript](https://github.com/JeffersGlass/mkdocs-pyscript) - Use PyScript in mkdocs
-  (1 day ago)
-- [koxudaxi/europython_2025](https://github.com/koxudaxi/europython_2025)
-  (1 day ago)
-- [aryamanjeendgar/CopyCuTTer](https://github.com/aryamanjeendgar/CopyCuTTer) - A complete TUI for the `cookiecutter` and `copier` projects
   (2 days ago)
-- [ymyzk/mypy-playground](https://github.com/ymyzk/mypy-playground) - The mypy playground. Try mypy with your web browser.
-  (3 days ago)
-- [cmaureir/europython2025](https://github.com/cmaureir/europython2025) - EuroPython 2025 talk material
-  (6 days ago)
+- [koxudaxi/europython_2025](https://github.com/koxudaxi/europython_2025)
+  (2 days ago)
