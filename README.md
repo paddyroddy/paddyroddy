@@ -15,38 +15,38 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (today)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (3 days ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (4 days ago)
+  (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (4 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [UCL-ARC/terraform-harvester-modules](https://github.com/UCL-ARC/terraform-harvester-modules) - Terraform modules for use with Condenser
+  (1 day ago)
+- [paddyroddy/renovate-37190](https://github.com/paddyroddy/renovate-37190) - Reproduction for Renovate issue 37190
+  (1 day ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Consistent typos settings](https://github.com/UCL-MIRSG/.github/pull/188) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Change the typos comments and fix Renovate bug](https://github.com/UCL-ARC/terraform-harvester-modules/pull/32) on [UCL-ARC/terraform-harvester-modules](https://github.com/UCL-ARC/terraform-harvester-modules)
+  (1 day ago)
+- [Revert &#34;Ignore `terraform` dependencies&#34;](https://github.com/UCL-MIRSG/.github/pull/187) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
 - [Revert &#34;Change back to ..&#34;](https://github.com/paddyroddy/dotfiles/pull/94) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
+  (1 day ago)
 - [Add loop](https://github.com/paddyroddy/dotfiles/pull/93) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
-- [Modernise licence metadata in `pyproject.toml`](https://github.com/paddyroddy/fastest-races/pull/13) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (4 days ago)
-- [Remove TOML hack, no forced new lines](https://github.com/paddyroddy/fastest-races/pull/12) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (4 days ago)
-- [Remove TOML hack, no forced new lines](https://github.com/paddyroddy/python-template/pull/195) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
-  (3 days ago)
+  (4 days ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-  (3 days ago)
+  (4 days ago)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-  (3 days ago)
+  (4 days ago)
 - [JeffersGlass/mkdocs-pyscript](https://github.com/JeffersGlass/mkdocs-pyscript) - Use PyScript in mkdocs
-  (4 days ago)
+  (5 days ago)
 - [koxudaxi/europython_2025](https://github.com/koxudaxi/europython_2025)
-  (4 days ago)
+  (5 days ago)
