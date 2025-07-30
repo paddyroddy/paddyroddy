@@ -16,37 +16,37 @@ Research Computing, UCL.
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 day ago)
-- [UCL-ARC/terraform-harvester-modules](https://github.com/UCL-ARC/terraform-harvester-modules) - Terraform modules for use with Condenser
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
-- [paddyroddy/renovate-37190](https://github.com/paddyroddy/renovate-37190) - Reproduction for Renovate issue 37190
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 day ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Consistent typos settings](https://github.com/UCL-MIRSG/.github/pull/188) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [Add instructions of ignoring typos](https://github.com/paddyroddy/.github/pull/313) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Change the typos comments and fix Renovate bug](https://github.com/UCL-ARC/terraform-harvester-modules/pull/32) on [UCL-ARC/terraform-harvester-modules](https://github.com/UCL-ARC/terraform-harvester-modules)
+- [Remove typos](https://github.com/paddyroddy/dotfiles/pull/95) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
-- [Revert &#34;Ignore `terraform` dependencies&#34;](https://github.com/UCL-MIRSG/.github/pull/187) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [Add ignore line and ignore next line for typos](https://github.com/paddyroddy/talks/pull/107) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
-- [Revert &#34;Change back to ..&#34;](https://github.com/paddyroddy/dotfiles/pull/94) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [Add ignore line and ignore next line for typos](https://github.com/paddyroddy/phd-thesis/pull/65) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
   (1 day ago)
-- [Add loop](https://github.com/paddyroddy/dotfiles/pull/93) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (4 days ago)
+- [Add missing subtitle](https://github.com/UCL-MIRSG/.github/pull/191) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
-  (4 days ago)
+  (5 days ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-  (4 days ago)
+  (5 days ago)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-  (4 days ago)
+  (5 days ago)
 - [JeffersGlass/mkdocs-pyscript](https://github.com/JeffersGlass/mkdocs-pyscript) - Use PyScript in mkdocs
-  (5 days ago)
+  (6 days ago)
 - [koxudaxi/europython_2025](https://github.com/koxudaxi/europython_2025)
-  (5 days ago)
+  (6 days ago)
