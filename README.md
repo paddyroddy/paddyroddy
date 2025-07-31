@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 day ago)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (2 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add `hostRules` to fix `customDatasource` issue](https://github.com/UCL-MIRSG/.github/pull/192) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
 - [Add instructions of ignoring typos](https://github.com/paddyroddy/.github/pull/313) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 - [Remove typos](https://github.com/paddyroddy/dotfiles/pull/95) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
+  (2 days ago)
 - [Add ignore line and ignore next line for typos](https://github.com/paddyroddy/talks/pull/107) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
+  (2 days ago)
 - [Add ignore line and ignore next line for typos](https://github.com/paddyroddy/phd-thesis/pull/65) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
-  (1 day ago)
-- [Add missing subtitle](https://github.com/UCL-MIRSG/.github/pull/191) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
-  (5 days ago)
+  (6 days ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-  (5 days ago)
+  (6 days ago)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-  (5 days ago)
+  (6 days ago)
 - [JeffersGlass/mkdocs-pyscript](https://github.com/JeffersGlass/mkdocs-pyscript) - Use PyScript in mkdocs
-  (6 days ago)
+  (1 week ago)
 - [koxudaxi/europython_2025](https://github.com/koxudaxi/europython_2025)
-  (6 days ago)
+  (1 week ago)
