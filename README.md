@@ -14,29 +14,29 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (today)
-- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (today)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (2 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+  (1 day ago)
+- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
+  (1 day ago)
+- [UCL-ARC/terraform-harvester-modules](https://github.com/UCL-ARC/terraform-harvester-modules) - Terraform modules for use with Condenser
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Revert &#34;Revert &#34;Add `hostRules` to fix `customDatasource` issue&#34;&#34;](https://github.com/UCL-MIRSG/.github/pull/195) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Revert &#34;Add `hostRules` to fix `customDatasource` issue&#34;](https://github.com/UCL-MIRSG/.github/pull/194) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
 - [Fix pre-commit regex](https://github.com/UCL-MIRSG/.github/pull/193) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (today)
+  (1 day ago)
 - [Fix regex](https://github.com/paddyroddy/phd-thesis/pull/66) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
-  (today)
+  (1 day ago)
 - [Fix regex for pre-commit](https://github.com/paddyroddy/.github/pull/314) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
-- [Add `hostRules` to fix `customDatasource` issue](https://github.com/UCL-MIRSG/.github/pull/192) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (2 days ago)
-- [Add instructions of ignoring typos](https://github.com/paddyroddy/.github/pull/313) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
