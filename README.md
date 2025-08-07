@@ -14,34 +14,34 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [chooseadb/chooseadb.github.io](https://github.com/chooseadb/chooseadb.github.io) - A game to provide guidance on choosing a database for your project
+- [paddyroddy/posters2](https://github.com/paddyroddy/posters2)
   (1 day ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+- [chooseadb/chooseadb.github.io](https://github.com/chooseadb/chooseadb.github.io) - A game to provide guidance on choosing a database for your project
   (2 days ago)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (5 days ago)
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (3 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (5 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (5 days ago)
+  (6 days ago)
+- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Assign and ask for reviewers for PRs](https://github.com/chooseadb/chooseadb.github.io/pull/76) on [chooseadb/chooseadb.github.io](https://github.com/chooseadb/chooseadb.github.io)
-  (2 days ago)
+  (3 days ago)
 - [Revert &#34;Revert &#34;Add `hostRules` to fix `customDatasource` issue&#34;&#34;](https://github.com/UCL-MIRSG/.github/pull/195) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (5 days ago)
+  (6 days ago)
 - [Revert &#34;Add `hostRules` to fix `customDatasource` issue&#34;](https://github.com/UCL-MIRSG/.github/pull/194) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (5 days ago)
+  (6 days ago)
 - [Fix pre-commit regex](https://github.com/UCL-MIRSG/.github/pull/193) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (5 days ago)
+  (6 days ago)
 - [Fix regex](https://github.com/paddyroddy/phd-thesis/pull/66) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
-  (2 days ago)
+  (3 days ago)
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
   (1 week ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -49,4 +49,4 @@ Research Computing, UCL.
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
   (1 week ago)
 - [JeffersGlass/mkdocs-pyscript](https://github.com/JeffersGlass/mkdocs-pyscript) - Use PyScript in mkdocs
-  (1 week ago)
+  (2 weeks ago)
