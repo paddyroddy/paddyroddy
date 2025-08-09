@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/posters2](https://github.com/paddyroddy/posters2)
-  (today)
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+  (1 day ago)
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
 - [chooseadb/chooseadb.github.io](https://github.com/chooseadb/chooseadb.github.io) - A game to provide guidance on choosing a database for your project
-  (3 days ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
   (4 days ago)
-- [UCL-ARC/terraform-harvester-modules](https://github.com/UCL-ARC/terraform-harvester-modules) - Terraform modules for use with Condenser
-  (1 week ago)
-- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (1 week ago)
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Fix missing codeblocks](https://github.com/paddyroddy/posters/pull/6) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (1 day ago)
+- [Move favicon](https://github.com/paddyroddy/blog/pull/8) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
+  (1 day ago)
+- [Move favicon](https://github.com/paddyroddy/talks/pull/108) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 - [Assign and ask for reviewers for PRs](https://github.com/chooseadb/chooseadb.github.io/pull/76) on [chooseadb/chooseadb.github.io](https://github.com/chooseadb/chooseadb.github.io)
-  (4 days ago)
+  (5 days ago)
 - [Revert &#34;Revert &#34;Add `hostRules` to fix `customDatasource` issue&#34;&#34;](https://github.com/UCL-MIRSG/.github/pull/195) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
-- [Revert &#34;Add `hostRules` to fix `customDatasource` issue&#34;](https://github.com/UCL-MIRSG/.github/pull/194) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
-- [Fix pre-commit regex](https://github.com/UCL-MIRSG/.github/pull/193) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
-- [Fix regex](https://github.com/paddyroddy/phd-thesis/pull/66) on [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
+  (1 day ago)
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
-  (4 days ago)
+  (5 days ago)
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
   (2 weeks ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
   (2 weeks ago)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-  (2 weeks ago)
-- [JeffersGlass/mkdocs-pyscript](https://github.com/JeffersGlass/mkdocs-pyscript) - Use PyScript in mkdocs
   (2 weeks ago)
