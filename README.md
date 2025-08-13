@@ -15,11 +15,11 @@ Research Computing, UCL.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 days ago)
+  (5 days ago)
 - [chooseadb/chooseadb.github.io](https://github.com/chooseadb/chooseadb.github.io) - A game to provide guidance on choosing a database for your project
   (1 week ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
@@ -27,21 +27,21 @@ Research Computing, UCL.
 
 #### 🔨 My Recent Pull Requests
 
+- [Switch from `pre-commit` to `prek`](https://github.com/paddyroddy/.github/pull/315) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 - [Add astro poster](https://github.com/paddyroddy/posters/pull/14) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (1 day ago)
+  (2 days ago)
 - [Convert to A0](https://github.com/paddyroddy/posters/pull/13) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (1 day ago)
+  (2 days ago)
 - [Tidy fonts by converting to paths](https://github.com/paddyroddy/posters/pull/12) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (1 day ago)
+  (2 days ago)
 - [Final tidying up of the poster](https://github.com/paddyroddy/posters/pull/11) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (1 day ago)
-- [Final tidying up](https://github.com/paddyroddy/posters/pull/10) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-  (4 days ago)
+  (5 days ago)
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
   (1 week ago)
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
