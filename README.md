@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
   (today)
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 day ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (1 day ago)
+  (2 days ago)
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
-- [chooseadb/chooseadb.github.io](https://github.com/chooseadb/chooseadb.github.io) - A game to provide guidance on choosing a database for your project
-  (1 week ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Install Terraform for `pre-commit` hook](https://github.com/UCL-MIRSG/.github/pull/198) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (today)
+  (1 day ago)
 - [Add site title](https://github.com/paddyroddy/talks/pull/109) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
-- [Add site title](https://github.com/paddyroddy/posters/pull/15) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (1 day ago)
-- [Site layout consistency](https://github.com/paddyroddy/blog/pull/9) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (1 day ago)
-- [Switch from `pre-commit` to `prek`](https://github.com/paddyroddy/.github/pull/315) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (2 days ago)
+- [Add site title](https://github.com/paddyroddy/posters/pull/15) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (2 days ago)
+- [Site layout consistency](https://github.com/paddyroddy/blog/pull/9) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
+  (2 days ago)
+- [Switch from `pre-commit` to `prek`](https://github.com/paddyroddy/.github/pull/315) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-  (6 days ago)
+  (1 week ago)
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
   (1 week ago)
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
-  (2 weeks ago)
+  (3 weeks ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-  (2 weeks ago)
+  (3 weeks ago)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-  (2 weeks ago)
+  (3 weeks ago)
