@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-  (3 days ago)
+  (1 day ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (4 days ago)
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (5 days ago)
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
   (5 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (5 days ago)
+  (6 days ago)
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Autoclrf](https://github.com/paddyroddy/dotfiles/pull/98) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
+- [Add brews](https://github.com/paddyroddy/dotfiles/pull/97) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
 - [Install Terraform for `pre-commit` hook](https://github.com/UCL-MIRSG/.github/pull/198) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (4 days ago)
+  (5 days ago)
 - [Add site title](https://github.com/paddyroddy/talks/pull/109) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (5 days ago)
+  (6 days ago)
 - [Add site title](https://github.com/paddyroddy/posters/pull/15) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (5 days ago)
-- [Site layout consistency](https://github.com/paddyroddy/blog/pull/9) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (5 days ago)
-- [Switch from `pre-commit` to `prek`](https://github.com/paddyroddy/.github/pull/315) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-  (1 week ago)
-- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
-  (2 weeks ago)
-- [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
-  (3 weeks ago)
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-  (3 weeks ago)
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
-  (3 weeks ago)
+- [Cheukting/ml_fastapi](https://github.com/Cheukting/ml_fastapi) - Workshop: Deploy your Machine Learning model with Fast API
+  (today)
+- [MDPI-AG/euroscipy2025](https://github.com/MDPI-AG/euroscipy2025) - Annotating the dynamic: Type Annotation for DataFrames
+  (today)
+- [Blosc/EuroSciPy2025-CCC-Tutorial](https://github.com/Blosc/EuroSciPy2025-CCC-Tutorial) - Compress, Compute, and Conquer: Python-Blosc2 for Efficient Data Analysis (EuroSciPy 2025 tutorial)
+  (today)
+- [brisvag/napari-tutorial-euroscipy2025](https://github.com/brisvag/napari-tutorial-euroscipy2025)
+  (today)
+- [skrub-data/EuroSciPy2025](https://github.com/skrub-data/EuroSciPy2025)
+  (today)
