@@ -14,39 +14,39 @@ Research Computing, UCL.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (today)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (today)
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (5 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (6 days ago)
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Autoclrf](https://github.com/paddyroddy/dotfiles/pull/98) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [Make README more accessible](https://github.com/paddyroddy/talks/pull/110) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (today)
-- [Add brews](https://github.com/paddyroddy/dotfiles/pull/97) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [Add `flycut`](https://github.com/paddyroddy/dotfiles/pull/99) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
+- [Autoclrf](https://github.com/paddyroddy/dotfiles/pull/98) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
+- [Add brews](https://github.com/paddyroddy/dotfiles/pull/97) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (2 days ago)
 - [Install Terraform for `pre-commit` hook](https://github.com/UCL-MIRSG/.github/pull/198) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (5 days ago)
-- [Add site title](https://github.com/paddyroddy/talks/pull/109) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (6 days ago)
-- [Add site title](https://github.com/paddyroddy/posters/pull/15) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
   (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [Cheukting/ml_fastapi](https://github.com/Cheukting/ml_fastapi) - Workshop: Deploy your Machine Learning model with Fast API
+- [TermiT/Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers
   (today)
-- [MDPI-AG/euroscipy2025](https://github.com/MDPI-AG/euroscipy2025) - Annotating the dynamic: Type Annotation for DataFrames
+- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
   (today)
-- [Blosc/EuroSciPy2025-CCC-Tutorial](https://github.com/Blosc/EuroSciPy2025-CCC-Tutorial) - Compress, Compute, and Conquer: Python-Blosc2 for Efficient Data Analysis (EuroSciPy 2025 tutorial)
-  (today)
-- [brisvag/napari-tutorial-euroscipy2025](https://github.com/brisvag/napari-tutorial-euroscipy2025)
-  (today)
-- [skrub-data/EuroSciPy2025](https://github.com/skrub-data/EuroSciPy2025)
-  (today)
+- [OleBialas/DataLad-EuroScipy25](https://github.com/OleBialas/DataLad-EuroScipy25)
+  (1 day ago)
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+  (1 day ago)
+- [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
+  (1 day ago)
