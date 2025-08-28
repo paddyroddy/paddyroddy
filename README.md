@@ -14,39 +14,39 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 week ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 week ago)
+  (today)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [data-apis/array-api-extra](https://github.com/data-apis/array-api-extra) - Extra array functions built on top of the array API standard.
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
   (1 week ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 week ago)
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add talk to README](https://github.com/paddyroddy/talks/pull/111) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Modern GNU tools](https://github.com/paddyroddy/dotfiles/pull/100) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [Follow `EffVer` versioning](https://github.com/astro-informatics/sleplet/pull/467) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
 - [ENH: Implement `nan_to_num` function](https://github.com/data-apis/array-api-extra/pull/398) on [data-apis/array-api-extra](https://github.com/data-apis/array-api-extra)
-  (5 days ago)
+  (6 days ago)
 - [Make README more accessible](https://github.com/paddyroddy/talks/pull/110) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
-- [Add `flycut`](https://github.com/paddyroddy/dotfiles/pull/99) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 week ago)
-- [Autoclrf](https://github.com/paddyroddy/dotfiles/pull/98) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 week ago)
-- [Add brews](https://github.com/paddyroddy/dotfiles/pull/97) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
   (1 day ago)
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+  (1 day ago)
+- [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
+  (2 days ago)
 - [scipy/scipy_doctest](https://github.com/scipy/scipy_doctest) - Floating-point aware doctesting
-  (5 days ago)
+  (6 days ago)
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that&#39;s just a textarea https://overtype.dev
-  (6 days ago)
-- [open-atmos/jupyter-utils](https://github.com/open-atmos/jupyter-utils) - utility routines for embedding vector graphics and animations in Python Jupyter notebooks using matplotlib (with focus on testing and Colab &amp; GitHub compatibility)
-  (6 days ago)
-- [scientific-python/spatch](https://github.com/scientific-python/spatch) - Scientific Python diSPATCHing
-  (6 days ago)
+  (1 week ago)
