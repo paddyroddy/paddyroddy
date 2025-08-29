@@ -14,39 +14,39 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
   (today)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (today)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
+  (2 days ago)
 - [data-apis/array-api-extra](https://github.com/data-apis/array-api-extra) - Extra array functions built on top of the array API standard.
-  (1 day ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
-- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-  (1 week ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Adjust max file size of pre-commit hooks](https://github.com/paddyroddy/posters/pull/16) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (today)
+- [Increse size of maximimum files to 700kB](https://github.com/paddyroddy/.github/pull/316) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Start introduction talk for ARC](https://github.com/paddyroddy/talks/pull/113) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Start EuroPython &amp; EuroSciPy 2025](https://github.com/paddyroddy/talks/pull/112) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 - [Add talk to README](https://github.com/paddyroddy/talks/pull/111) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
-- [Modern GNU tools](https://github.com/paddyroddy/dotfiles/pull/100) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
-- [Follow `EffVer` versioning](https://github.com/astro-informatics/sleplet/pull/467) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
-- [ENH: Implement `nan_to_num` function](https://github.com/data-apis/array-api-extra/pull/398) on [data-apis/array-api-extra](https://github.com/data-apis/array-api-extra)
-  (6 days ago)
-- [Make README more accessible](https://github.com/paddyroddy/talks/pull/110) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-  (1 day ago)
-- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-  (1 day ago)
-- [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
   (2 days ago)
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+  (2 days ago)
+- [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
+  (3 days ago)
 - [scipy/scipy_doctest](https://github.com/scipy/scipy_doctest) - Floating-point aware doctesting
-  (6 days ago)
+  (1 week ago)
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that&#39;s just a textarea https://overtype.dev
   (1 week ago)
