@@ -14,39 +14,39 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (today)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
   (1 day ago)
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (4 days ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (4 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (5 days ago)
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Fix link checking](https://github.com/paddyroddy/paddyroddy.github.io/pull/136) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+- [Cache executed cells](https://github.com/paddyroddy/talks/pull/115) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (today)
+- [Do not store user cookies](https://github.com/paddyroddy/adr-tree-surgery-website/pull/104) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
   (1 day ago)
-- [Ignore pycache](https://github.com/paddyroddy/dotfiles/pull/101) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [Do not store user cookies](https://github.com/paddyroddy/paddyroddy.github.io/pull/137) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (1 day ago)
-- [Convert to a pyproject.toml file](https://github.com/paddyroddy/.github/pull/317) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (4 days ago)
-- [Adjust max file size of pre-commit hooks](https://github.com/paddyroddy/posters/pull/16) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (4 days ago)
-- [Increse size of maximimum files to 700kB](https://github.com/paddyroddy/.github/pull/316) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (4 days ago)
+- [Do not store user cookies](https://github.com/paddyroddy/posters/pull/17) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (1 day ago)
+- [Do not store user cookies](https://github.com/paddyroddy/blog/pull/10) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
+  (1 day ago)
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-  (6 days ago)
+  (1 week ago)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-  (6 days ago)
+  (1 week ago)
 - [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
   (1 week ago)
 - [scipy/scipy_doctest](https://github.com/scipy/scipy_doctest) - Floating-point aware doctesting
-  (1 week ago)
-- [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that&#39;s just a textarea https://overtype.dev
   (1 week ago)
