@@ -14,34 +14,34 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (today)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (1 day ago)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (2 days ago)
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Cache executed cells](https://github.com/paddyroddy/talks/pull/115) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (today)
-- [Do not store user cookies](https://github.com/paddyroddy/adr-tree-surgery-website/pull/104) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+- [Add git alias](https://github.com/paddyroddy/dotfiles/pull/102) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
-- [Do not store user cookies](https://github.com/paddyroddy/paddyroddy.github.io/pull/137) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+- [Cache Jupyter in GHA](https://github.com/paddyroddy/talks/pull/118) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
-- [Do not store user cookies](https://github.com/paddyroddy/posters/pull/17) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+- [Cache jupyter output in quarto](https://github.com/paddyroddy/.github/pull/320) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [Do not store user cookies](https://github.com/paddyroddy/blog/pull/10) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
+- [Revert &#34;Convert to a pyproject.toml file&#34;](https://github.com/paddyroddy/.github/pull/319) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Typo](https://github.com/paddyroddy/talks/pull/117) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
-  (1 day ago)
+  (2 days ago)
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
   (1 week ago)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
