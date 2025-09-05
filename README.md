@@ -14,39 +14,39 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 day ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (2 days ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (2 days ago)
+  (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add favicon as logo](https://github.com/paddyroddy/talks/pull/120) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Set view distance to higher values to fix leaflet](https://github.com/paddyroddy/talks/pull/119) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Add initial to licence](https://github.com/astro-informatics/sleplet/pull/468) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
 - [Add git alias](https://github.com/paddyroddy/dotfiles/pull/102) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
+  (2 days ago)
 - [Cache Jupyter in GHA](https://github.com/paddyroddy/talks/pull/118) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
-- [Cache jupyter output in quarto](https://github.com/paddyroddy/.github/pull/320) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
-- [Revert &#34;Convert to a pyproject.toml file&#34;](https://github.com/paddyroddy/.github/pull/319) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
-- [Typo](https://github.com/paddyroddy/talks/pull/117) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
+- [parmsam/quarto-quiz](https://github.com/parmsam/quarto-quiz) - Multiple choice quiz extension for RevealJS in Quarto
+  (1 day ago)
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
-  (2 days ago)
+  (3 days ago)
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
   (1 week ago)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
   (1 week ago)
 - [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
-  (1 week ago)
-- [scipy/scipy_doctest](https://github.com/scipy/scipy_doctest) - Floating-point aware doctesting
   (1 week ago)
