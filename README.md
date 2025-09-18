@@ -17,7 +17,7 @@ Research Computing, University College London.
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 week ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 week ago)
+  (2 weeks ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (2 weeks ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
@@ -30,18 +30,18 @@ Research Computing, University College London.
 - [Slide numbers only](https://github.com/paddyroddy/talks/pull/121) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 week ago)
 - [Add favicon as logo](https://github.com/paddyroddy/talks/pull/120) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
+  (2 weeks ago)
 - [Set view distance to higher values to fix leaflet](https://github.com/paddyroddy/talks/pull/119) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 week ago)
+  (2 weeks ago)
 - [Add initial to licence](https://github.com/astro-informatics/sleplet/pull/468) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 week ago)
+  (2 weeks ago)
 - [Add git alias](https://github.com/paddyroddy/dotfiles/pull/102) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [parmsam/quarto-quiz](https://github.com/parmsam/quarto-quiz) - Multiple choice quiz extension for RevealJS in Quarto
-  (1 week ago)
+  (2 weeks ago)
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
   (2 weeks ago)
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
