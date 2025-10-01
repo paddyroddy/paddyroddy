@@ -14,19 +14,21 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (3 weeks ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 weeks ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 weeks ago)
+  (4 weeks ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 weeks ago)
+  (4 weeks ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (4 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Remove redundant comment](https://github.com/astro-informatics/sleplet/pull/469) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
 - [Slide numbers only](https://github.com/paddyroddy/talks/pull/121) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (3 weeks ago)
 - [Add favicon as logo](https://github.com/paddyroddy/talks/pull/120) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
@@ -34,8 +36,6 @@ Research Computing, University College London.
 - [Set view distance to higher values to fix leaflet](https://github.com/paddyroddy/talks/pull/119) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (3 weeks ago)
 - [Add initial to licence](https://github.com/astro-informatics/sleplet/pull/468) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (3 weeks ago)
-- [Add git alias](https://github.com/paddyroddy/dotfiles/pull/102) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (3 weeks ago)
 
 #### ⭐ Recent Stars
