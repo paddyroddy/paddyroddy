@@ -15,7 +15,7 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (3 weeks ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
@@ -23,27 +23,27 @@ Research Computing, University College London.
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (4 weeks ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (4 weeks ago)
+  (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Remove redundant comment](https://github.com/astro-informatics/sleplet/pull/469) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 - [Slide numbers only](https://github.com/paddyroddy/talks/pull/121) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (3 weeks ago)
 - [Add favicon as logo](https://github.com/paddyroddy/talks/pull/120) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (3 weeks ago)
+  (4 weeks ago)
 - [Set view distance to higher values to fix leaflet](https://github.com/paddyroddy/talks/pull/119) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (3 weeks ago)
+  (4 weeks ago)
 - [Add initial to licence](https://github.com/astro-informatics/sleplet/pull/468) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (3 weeks ago)
+  (4 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [parmsam/quarto-quiz](https://github.com/parmsam/quarto-quiz) - Multiple choice quiz extension for RevealJS in Quarto
-  (3 weeks ago)
-- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
   (4 weeks ago)
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
+  (1 month ago)
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
   (1 month ago)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
