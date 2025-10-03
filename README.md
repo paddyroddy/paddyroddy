@@ -15,22 +15,22 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (2 days ago)
+  (3 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (3 weeks ago)
+  (4 weeks ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (4 weeks ago)
+  (1 month ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (4 weeks ago)
+  (1 month ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Remove redundant comment](https://github.com/astro-informatics/sleplet/pull/469) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (2 days ago)
+  (3 days ago)
 - [Slide numbers only](https://github.com/paddyroddy/talks/pull/121) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (3 weeks ago)
+  (4 weeks ago)
 - [Add favicon as logo](https://github.com/paddyroddy/talks/pull/120) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (4 weeks ago)
 - [Set view distance to higher values to fix leaflet](https://github.com/paddyroddy/talks/pull/119) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
