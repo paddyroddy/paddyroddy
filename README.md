@@ -15,9 +15,9 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 weeks ago)
+  (1 month ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 month ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
@@ -28,9 +28,9 @@ Research Computing, University College London.
 #### 🔨 My Recent Pull Requests
 
 - [Remove redundant comment](https://github.com/astro-informatics/sleplet/pull/469) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (4 days ago)
+  (5 days ago)
 - [Slide numbers only](https://github.com/paddyroddy/talks/pull/121) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (4 weeks ago)
+  (1 month ago)
 - [Add favicon as logo](https://github.com/paddyroddy/talks/pull/120) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 month ago)
 - [Set view distance to higher values to fix leaflet](https://github.com/paddyroddy/talks/pull/119) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
