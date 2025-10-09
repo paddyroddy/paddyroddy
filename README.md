@@ -14,28 +14,28 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (1 day ago)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 week ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 month ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 month ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 month ago)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add 3.14 support](https://github.com/paddyroddy/python-template/pull/196) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (1 day ago)
+- [Add 3.14 support](https://github.com/astro-informatics/sleplet/pull/470) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
+- [Add 3.14 support](https://github.com/UCL-ARC/python-tooling/pull/592) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (1 day ago)
 - [Remove redundant comment](https://github.com/astro-informatics/sleplet/pull/469) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 week ago)
 - [Slide numbers only](https://github.com/paddyroddy/talks/pull/121) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 month ago)
-- [Add favicon as logo](https://github.com/paddyroddy/talks/pull/120) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 month ago)
-- [Set view distance to higher values to fix leaflet](https://github.com/paddyroddy/talks/pull/119) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 month ago)
-- [Add initial to licence](https://github.com/astro-informatics/sleplet/pull/468) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 month ago)
 
 #### ⭐ Recent Stars
