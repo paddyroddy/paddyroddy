@@ -14,32 +14,34 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
   (1 day ago)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
   (1 day ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 week ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 month ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 month ago)
+  (1 day ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (2 days ago)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Consistent linking](https://github.com/paddyroddy/talks/pull/122) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Change link styles](https://github.com/paddyroddy/posters/pull/18) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (1 day ago)
+- [Add SSI blog to website](https://github.com/paddyroddy/blog/pull/11) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
+  (1 day ago)
 - [Add 3.14 support](https://github.com/paddyroddy/python-template/pull/196) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (1 day ago)
+  (2 days ago)
 - [Add 3.14 support](https://github.com/astro-informatics/sleplet/pull/470) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
-- [Add 3.14 support](https://github.com/UCL-ARC/python-tooling/pull/592) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (1 day ago)
-- [Remove redundant comment](https://github.com/astro-informatics/sleplet/pull/469) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 week ago)
-- [Slide numbers only](https://github.com/paddyroddy/talks/pull/121) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 month ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
+- [joatmon08/manning-book](https://github.com/joatmon08/manning-book) - Code examples for &#34;Infrastructure as Code, Patterns &amp; Practices&#34; by Rosemary Wang
+  (1 day ago)
 - [parmsam/quarto-quiz](https://github.com/parmsam/quarto-quiz) - Multiple choice quiz extension for RevealJS in Quarto
   (1 month ago)
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
@@ -47,6 +49,4 @@ Research Computing, University College London.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
   (1 month ago)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-  (1 month ago)
-- [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
   (1 month ago)
