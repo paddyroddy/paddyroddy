@@ -14,34 +14,34 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (1 day ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (2 days ago)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (2 days ago)
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
   (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-654: add `types` for the labelled examples workflow](https://github.com/glass-dev/glass/pull/655) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-652: make `array-api-strict` an official dependency](https://github.com/glass-dev/glass/pull/653) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [Consistent linking](https://github.com/paddyroddy/talks/pull/122) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
-- [Change link styles](https://github.com/paddyroddy/posters/pull/18) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (1 day ago)
-- [Add SSI blog to website](https://github.com/paddyroddy/blog/pull/11) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (1 day ago)
-- [Add 3.14 support](https://github.com/paddyroddy/python-template/pull/196) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (2 days ago)
-- [Add 3.14 support](https://github.com/astro-informatics/sleplet/pull/470) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+- [Change link styles](https://github.com/paddyroddy/posters/pull/18) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (2 days ago)
+- [Add SSI blog to website](https://github.com/paddyroddy/blog/pull/11) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
   (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [joatmon08/manning-book](https://github.com/joatmon08/manning-book) - Code examples for &#34;Infrastructure as Code, Patterns &amp; Practices&#34; by Rosemary Wang
-  (1 day ago)
+  (2 days ago)
 - [parmsam/quarto-quiz](https://github.com/parmsam/quarto-quiz) - Multiple choice quiz extension for RevealJS in Quarto
   (1 month ago)
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
