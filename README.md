@@ -14,39 +14,39 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (4 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (4 days ago)
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (5 days ago)
+  (today)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (5 days ago)
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add apple container](https://github.com/paddyroddy/dotfiles/pull/103) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [gh-659: rename hook to `ruff-check`](https://github.com/glass-dev/glass/pull/660) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
+- [Make homepage not an external link](https://github.com/paddyroddy/talks/pull/124) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
+- [Turn off preview links](https://github.com/paddyroddy/talks/pull/123) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Add apple container](https://github.com/paddyroddy/dotfiles/pull/103) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (2 days ago)
 - [gh-654: add `types` for the labelled examples workflow](https://github.com/glass-dev/glass/pull/655) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-652: make `array-api-strict` an official dependency](https://github.com/glass-dev/glass/pull/653) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [Consistent linking](https://github.com/paddyroddy/talks/pull/122) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (5 days ago)
-- [Change link styles](https://github.com/paddyroddy/posters/pull/18) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
   (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
   (1 day ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  (2 days ago)
 - [joatmon08/manning-book](https://github.com/joatmon08/manning-book) - Code examples for &#34;Infrastructure as Code, Patterns &amp; Practices&#34; by Rosemary Wang
-  (5 days ago)
+  (6 days ago)
 - [parmsam/quarto-quiz](https://github.com/parmsam/quarto-quiz) - Multiple choice quiz extension for RevealJS in Quarto
   (1 month ago)
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
-  (1 month ago)
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
   (1 month ago)
