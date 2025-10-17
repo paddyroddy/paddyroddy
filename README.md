@@ -15,35 +15,35 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
+  (today)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (3 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (4 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-667: Make JAX an optional dependency as intended](https://github.com/glass-dev/glass/pull/672) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-669: Add test to make sure that GLASS is tested on its own](https://github.com/glass-dev/glass/pull/670) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-665: fix documentation and change to `jaxtyping`](https://github.com/glass-dev/glass/pull/668) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-661: Add Python 3.14 support](https://github.com/glass-dev/glass/pull/662) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-659: rename hook to `ruff-check`](https://github.com/glass-dev/glass/pull/660) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [Make homepage not an external link](https://github.com/paddyroddy/talks/pull/124) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (2 days ago)
-- [Turn off preview links](https://github.com/paddyroddy/talks/pull/123) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (2 days ago)
-- [Add apple container](https://github.com/paddyroddy/dotfiles/pull/103) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
 
 #### ⭐ Recent Stars
 
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
-  (2 days ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   (3 days ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  (4 days ago)
 - [joatmon08/manning-book](https://github.com/joatmon08/manning-book) - Code examples for &#34;Infrastructure as Code, Patterns &amp; Practices&#34; by Rosemary Wang
   (1 week ago)
 - [parmsam/quarto-quiz](https://github.com/parmsam/quarto-quiz) - Multiple choice quiz extension for RevealJS in Quarto
