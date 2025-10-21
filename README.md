@@ -15,11 +15,11 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (2 days ago)
+  (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (5 days ago)
+  (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (6 days ago)
+  (1 week ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 week ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
@@ -27,23 +27,23 @@ Research Computing, University College London.
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-686: relax `array-api-strict` upper bound pin](https://github.com/glass-dev/glass/pull/689) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-687: fix documentation](https://github.com/glass-dev/glass/pull/688) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-666: make docs fail on warnings](https://github.com/glass-dev/glass/pull/685) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-682: create an `isort` section for Array API](https://github.com/glass-dev/glass/pull/684) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-667: Make JAX an optional dependency as intended](https://github.com/glass-dev/glass/pull/672) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-669: Add test to make sure that GLASS is tested on its own](https://github.com/glass-dev/glass/pull/670) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-665: fix documentation and change to `jaxtyping`](https://github.com/glass-dev/glass/pull/668) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-661: Add Python 3.14 support](https://github.com/glass-dev/glass/pull/662) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-659: rename hook to `ruff-check`](https://github.com/glass-dev/glass/pull/660) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
-  (5 days ago)
+  (1 week ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-  (6 days ago)
+  (1 week ago)
 - [joatmon08/manning-book](https://github.com/joatmon08/manning-book) - Code examples for &#34;Infrastructure as Code, Patterns &amp; Practices&#34; by Rosemary Wang
   (1 week ago)
 - [parmsam/quarto-quiz](https://github.com/parmsam/quarto-quiz) - Multiple choice quiz extension for RevealJS in Quarto
