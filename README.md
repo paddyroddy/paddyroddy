@@ -16,27 +16,27 @@ Research Computing, University College London.
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
+- [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
+  (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 week ago)
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-695: Prepare for the `2025.2` release](https://github.com/glass-dev/glass/pull/696) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-693: Add script to generate release notes](https://github.com/glass-dev/glass/pull/694) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-691: rename envvar to `ARRAY_BACKEND`](https://github.com/glass-dev/glass/pull/692) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-686: relax `array-api-strict` upper bound pin](https://github.com/glass-dev/glass/pull/689) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-687: fix documentation](https://github.com/glass-dev/glass/pull/688) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-666: make docs fail on warnings](https://github.com/glass-dev/glass/pull/685) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-682: create an `isort` section for Array API](https://github.com/glass-dev/glass/pull/684) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-667: Make JAX an optional dependency as intended](https://github.com/glass-dev/glass/pull/672) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
