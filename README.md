@@ -14,28 +14,28 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
+- [conda-forge/transformcl-feedstock](https://github.com/conda-forge/transformcl-feedstock) - A conda-smithy repository for transformcl.
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
-- [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
+- [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
   (1 day ago)
+- [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 week ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 week ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Adding pyssht](https://github.com/conda-forge/staged-recipes/pull/31261) on [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+  (1 day ago)
+- [Remove unrequired dependencies](https://github.com/conda-forge/glass-feedstock/pull/18) on [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock)
+  (1 day ago)
+- [gh-702: use `ruff.lint.future-annotations`](https://github.com/glass-dev/glass/pull/703) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-700: remove `typing-extensions` dependency](https://github.com/glass-dev/glass/pull/701) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-695: Prepare for the `2025.2` release](https://github.com/glass-dev/glass/pull/696) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-693: Add script to generate release notes](https://github.com/glass-dev/glass/pull/694) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-691: rename envvar to `ARRAY_BACKEND`](https://github.com/glass-dev/glass/pull/692) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-686: relax `array-api-strict` upper bound pin](https://github.com/glass-dev/glass/pull/689) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-687: fix documentation](https://github.com/glass-dev/glass/pull/688) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
 
 #### ⭐ Recent Stars
@@ -45,7 +45,7 @@ Research Computing, University College London.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   (1 week ago)
 - [joatmon08/manning-book](https://github.com/joatmon08/manning-book) - Code examples for &#34;Infrastructure as Code, Patterns &amp; Practices&#34; by Rosemary Wang
-  (1 week ago)
+  (2 weeks ago)
 - [parmsam/quarto-quiz](https://github.com/parmsam/quarto-quiz) - Multiple choice quiz extension for RevealJS in Quarto
   (1 month ago)
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
