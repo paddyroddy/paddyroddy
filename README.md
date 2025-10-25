@@ -14,29 +14,29 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
+- [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
 - [conda-forge/transformcl-feedstock](https://github.com/conda-forge/transformcl-feedstock) - A conda-smithy repository for transformcl.
-  (2 days ago)
-- [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
-  (2 days ago)
-- [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
   (3 days ago)
+- [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
+  (4 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-714: ensure `pytest` and `nox` agree on test dependencies](https://github.com/glass-dev/glass/pull/715) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-623: use `array_api_compat.array_namespace` helper](https://github.com/glass-dev/glass/pull/711) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-678: improved `mypy` test configuration via `pyproject.toml`](https://github.com/glass-dev/glass/pull/710) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [Adding pyssht](https://github.com/conda-forge/staged-recipes/pull/31261) on [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
-  (2 days ago)
+  (3 days ago)
 - [Remove unrequired dependencies](https://github.com/conda-forge/glass-feedstock/pull/18) on [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock)
-  (2 days ago)
-- [gh-702: use `ruff.lint.future-annotations`](https://github.com/glass-dev/glass/pull/703) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
