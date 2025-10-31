@@ -17,7 +17,7 @@ Research Computing, University College London.
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
 - [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
-  (6 days ago)
+  (1 week ago)
 - [conda-forge/transformcl-feedstock](https://github.com/conda-forge/transformcl-feedstock) - A conda-smithy repository for transformcl.
   (1 week ago)
 - [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
@@ -27,21 +27,21 @@ Research Computing, University College London.
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-644: create a custom types file](https://github.com/glass-dev/glass/pull/729) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-744: make `pre-commit[bot]` follow commit spec](https://github.com/glass-dev/glass/pull/745) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [gh-727: ensure examples workflow runs on change](https://github.com/glass-dev/glass/pull/728) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-742: make `allcontributors` follow the commit spec](https://github.com/glass-dev/glass/pull/743) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [gh-725: change @dependabot commit title](https://github.com/glass-dev/glass/pull/726) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-730: add missing import from docstring](https://github.com/glass-dev/glass/pull/741) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [gh-714: ensure `pytest` and `nox` agree on test dependencies](https://github.com/glass-dev/glass/pull/715) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [gh-623: use `array_api_compat.array_namespace` helper](https://github.com/glass-dev/glass/pull/711) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
+- [gh-739: don&#39;t use numpy alias when interacting with backend](https://github.com/glass-dev/glass/pull/740) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-737: consistent importing of `_array_api_utils`](https://github.com/glass-dev/glass/pull/738) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-  (1 day ago)
+  (2 days ago)
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
   (2 weeks ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
