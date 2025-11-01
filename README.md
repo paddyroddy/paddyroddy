@@ -27,21 +27,21 @@ Research Computing, University College London.
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-417: Improve type rendering in the documentation](https://github.com/glass-dev/glass/pull/746) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-744: make `pre-commit[bot]` follow commit spec](https://github.com/glass-dev/glass/pull/745) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-742: make `allcontributors` follow the commit spec](https://github.com/glass-dev/glass/pull/743) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-730: add missing import from docstring](https://github.com/glass-dev/glass/pull/741) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-739: don&#39;t use numpy alias when interacting with backend](https://github.com/glass-dev/glass/pull/740) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-737: consistent importing of `_array_api_utils`](https://github.com/glass-dev/glass/pull/738) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-  (2 days ago)
+  (3 days ago)
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
   (2 weeks ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
