@@ -15,35 +15,35 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (3 days ago)
+  (1 day ago)
 - [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
   (1 week ago)
 - [conda-forge/transformcl-feedstock](https://github.com/conda-forge/transformcl-feedstock) - A conda-smithy repository for transformcl.
   (1 week ago)
 - [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
-  (1 week ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (2 weeks ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-751: tidy up doc plotting routines](https://github.com/glass-dev/glass/pull/752) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-749: Make `_uniform_grid` (and upstream) require array backend](https://github.com/glass-dev/glass/pull/750) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-747: Force nox to default to 3.13](https://github.com/glass-dev/glass/pull/748) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-417: Improve type rendering in the documentation](https://github.com/glass-dev/glass/pull/746) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (3 days ago)
+- [gh-417: Improve type rendering in the documentation](https://github.com/glass-dev/glass/pull/746) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (4 days ago)
 - [gh-744: make `pre-commit[bot]` follow commit spec](https://github.com/glass-dev/glass/pull/745) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-742: make `allcontributors` follow the commit spec](https://github.com/glass-dev/glass/pull/743) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-730: add missing import from docstring](https://github.com/glass-dev/glass/pull/741) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-  (5 days ago)
+  (6 days ago)
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
-  (2 weeks ago)
+  (3 weeks ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   (3 weeks ago)
 - [joatmon08/manning-book](https://github.com/joatmon08/manning-book) - Code examples for &#34;Infrastructure as Code, Patterns &amp; Practices&#34; by Rosemary Wang
