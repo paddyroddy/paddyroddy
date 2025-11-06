@@ -14,28 +14,28 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [UCL-MIRSG/template-xnat-plugin](https://github.com/UCL-MIRSG/template-xnat-plugin)
+- [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks) - Benchmarks for the glass package
   (1 day ago)
 - [UCL-MIRSG/xnat-chart](https://github.com/UCL-MIRSG/xnat-chart) - Helm Chart for XNAT
-  (1 day ago)
+  (2 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-762: general linting improvments](https://github.com/glass-dev/glass/pull/763) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-731: create spherical harmonic utilities module](https://github.com/glass-dev/glass/pull/761) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-3: add auto tagging workflow](https://github.com/glass-dev/glass-benchmarks/pull/8) on [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks)
+  (1 day ago)
 - [gh-720: add warning if `nearcorr` has no convergence](https://github.com/glass-dev/glass/pull/757) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-754: modern SPDX licensing](https://github.com/glass-dev/glass/pull/755) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [Remove Windows app](https://github.com/paddyroddy/dotfiles/pull/104) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
-- [gh-751: tidy up doc plotting routines](https://github.com/glass-dev/glass/pull/752) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
-- [gh-749: Make `_uniform_grid` (and upstream) require array backend](https://github.com/glass-dev/glass/pull/750) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-754: modern SPDX licensing](https://github.com/glass-dev/glass/pull/755) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
 
 #### ⭐ Recent Stars
@@ -47,6 +47,6 @@ Research Computing, University College London.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   (3 weeks ago)
 - [joatmon08/manning-book](https://github.com/joatmon08/manning-book) - Code examples for &#34;Infrastructure as Code, Patterns &amp; Practices&#34; by Rosemary Wang
-  (3 weeks ago)
+  (4 weeks ago)
 - [parmsam/quarto-quiz](https://github.com/parmsam/quarto-quiz) - Multiple choice quiz extension for RevealJS in Quarto
   (2 months ago)
