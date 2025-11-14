@@ -15,27 +15,27 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (2 days ago)
-- [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
-  (6 days ago)
+  (1 day ago)
 - [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks) - Benchmarks for the glass package
-  (1 week ago)
-- [UCL-MIRSG/xnat-chart](https://github.com/UCL-MIRSG/xnat-chart) - Helm Chart for XNAT
+  (1 day ago)
+- [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
   (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 week ago)
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Migrate `glass-dev/glass-benchmarks` to this repository](https://github.com/glass-dev/glass/pull/769) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Add archiving note](https://github.com/glass-dev/glass-benchmarks/pull/24) on [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks)
   (1 day ago)
+- [gh-772: make CI self-consistent and move `tests` to `tests/core`](https://github.com/glass-dev/glass/pull/773) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-775: Merge `glass-dev/glass-benchmarks` to this repository](https://github.com/glass-dev/glass/pull/769) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (2 days ago)
 - [gh-762: general linting improvments](https://github.com/glass-dev/glass/pull/763) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-731: create spherical harmonic utilities module](https://github.com/glass-dev/glass/pull/761) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-3: add auto tagging workflow](https://github.com/glass-dev/glass-benchmarks/pull/8) on [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks)
-  (1 week ago)
-- [gh-720: add warning if `nearcorr` has no convergence](https://github.com/glass-dev/glass/pull/757) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 
 #### ⭐ Recent Stars
