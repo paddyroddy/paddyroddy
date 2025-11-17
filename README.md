@@ -15,9 +15,9 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (2 days ago)
+  (today)
 - [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks) - Benchmarks for the glass package
-  (3 days ago)
+  (4 days ago)
 - [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
   (1 week ago)
 - [UCL-MIRSG/xnat-chart](https://github.com/UCL-MIRSG/xnat-chart) - Helm Chart for XNAT
@@ -28,11 +28,11 @@ Research Computing, University College London.
 #### 🔨 My Recent Pull Requests
 
 - [Add archiving note](https://github.com/glass-dev/glass-benchmarks/pull/24) on [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks)
-  (3 days ago)
-- [gh-772: make CI self-consistent and move `tests` to `tests/core`](https://github.com/glass-dev/glass/pull/773) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-775: Merge `glass-dev/glass-benchmarks` to this repository](https://github.com/glass-dev/glass/pull/769) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (4 days ago)
+- [gh-772: make CI self-consistent and move `tests` to `tests/core`](https://github.com/glass-dev/glass/pull/773) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (4 days ago)
+- [gh-775: Merge `glass-dev/glass-benchmarks` to this repository](https://github.com/glass-dev/glass/pull/769) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (5 days ago)
 - [gh-762: general linting improvments](https://github.com/glass-dev/glass/pull/763) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-731: create spherical harmonic utilities module](https://github.com/glass-dev/glass/pull/761) on [glass-dev/glass](https://github.com/glass-dev/glass)
@@ -40,6 +40,8 @@ Research Computing, University College London.
 
 #### ⭐ Recent Stars
 
+- [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
+  (today)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
   (2 weeks ago)
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
@@ -48,5 +50,3 @@ Research Computing, University College London.
   (1 month ago)
 - [joatmon08/manning-book](https://github.com/joatmon08/manning-book) - Code examples for &#34;Infrastructure as Code, Patterns &amp; Practices&#34; by Rosemary Wang
   (1 month ago)
-- [parmsam/quarto-quiz](https://github.com/parmsam/quarto-quiz) - Multiple choice quiz extension for RevealJS in Quarto
-  (2 months ago)
