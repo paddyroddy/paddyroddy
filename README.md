@@ -15,33 +15,33 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (today)
+  (1 day ago)
 - [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks) - Benchmarks for the glass package
-  (4 days ago)
+  (5 days ago)
 - [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
   (1 week ago)
 - [UCL-MIRSG/xnat-chart](https://github.com/UCL-MIRSG/xnat-chart) - Helm Chart for XNAT
-  (1 week ago)
+  (2 weeks ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-793: remove `inplace` option to `multalm`](https://github.com/glass-dev/glass/pull/797) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [Add archiving note](https://github.com/glass-dev/glass-benchmarks/pull/24) on [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks)
-  (4 days ago)
-- [gh-772: make CI self-consistent and move `tests` to `tests/core`](https://github.com/glass-dev/glass/pull/773) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-775: Merge `glass-dev/glass-benchmarks` to this repository](https://github.com/glass-dev/glass/pull/769) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (5 days ago)
+- [gh-772: make CI self-consistent and move `tests` to `tests/core`](https://github.com/glass-dev/glass/pull/773) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (5 days ago)
+- [gh-775: Merge `glass-dev/glass-benchmarks` to this repository](https://github.com/glass-dev/glass/pull/769) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (6 days ago)
 - [gh-762: general linting improvments](https://github.com/glass-dev/glass/pull/763) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-731: create spherical harmonic utilities module](https://github.com/glass-dev/glass/pull/761) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
-  (today)
+  (1 day ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
   (2 weeks ago)
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
