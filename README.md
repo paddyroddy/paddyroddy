@@ -16,37 +16,37 @@ Research Computing, University College London.
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
 - [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks) - Benchmarks for the glass package
-  (5 days ago)
+  (6 days ago)
 - [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
   (1 week ago)
-- [UCL-MIRSG/xnat-chart](https://github.com/UCL-MIRSG/xnat-chart) - Helm Chart for XNAT
-  (2 weeks ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-793: remove `inplace` option to `multalm`](https://github.com/glass-dev/glass/pull/797) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-794: create spherical harmonic transform wrapper functions](https://github.com/glass-dev/glass/pull/805) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [Add archiving note](https://github.com/glass-dev/glass-benchmarks/pull/24) on [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks)
-  (5 days ago)
-- [gh-772: make CI self-consistent and move `tests` to `tests/core`](https://github.com/glass-dev/glass/pull/773) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [gh-775: Merge `glass-dev/glass-benchmarks` to this repository](https://github.com/glass-dev/glass/pull/769) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [gh-762: general linting improvments](https://github.com/glass-dev/glass/pull/763) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
+- [gh-777: change noxfile logging to `session.log`](https://github.com/glass-dev/glass/pull/804) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-792: change dependabot label](https://github.com/glass-dev/glass/pull/803) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Remove author link](https://github.com/paddyroddy/talks/pull/125) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [gh-323: add `uv` support in `nox` and CI](https://github.com/glass-dev/glass/pull/801) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
+- [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
   (1 day ago)
+- [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
+  (2 days ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-  (2 weeks ago)
+  (3 weeks ago)
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
   (1 month ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-  (1 month ago)
-- [joatmon08/manning-book](https://github.com/joatmon08/manning-book) - Code examples for &#34;Infrastructure as Code, Patterns &amp; Practices&#34; by Rosemary Wang
   (1 month ago)
