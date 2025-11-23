@@ -15,9 +15,9 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 days ago)
+  (5 days ago)
 - [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks) - Benchmarks for the glass package
   (1 week ago)
 - [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
@@ -28,22 +28,22 @@ Research Computing, University College London.
 #### 🔨 My Recent Pull Requests
 
 - [gh-827: replace `np.allclose` with `compare` fixture](https://github.com/glass-dev/glass/pull/828) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-825: create an array comparison helper to replace `np.testing`](https://github.com/glass-dev/glass/pull/826) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-821: consistent importing of `glass.fields` in tests](https://github.com/glass-dev/glass/pull/822) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-767: remove dependence on NumPy in tests](https://github.com/glass-dev/glass/pull/820) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-807: add missing `harmonics` modules doc](https://github.com/glass-dev/glass/pull/808) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (3 days ago)
+- [gh-767: remove dependence on NumPy in tests](https://github.com/glass-dev/glass/pull/820) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (3 days ago)
+- [gh-807: add missing `harmonics` modules doc](https://github.com/glass-dev/glass/pull/808) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
-  (4 days ago)
-- [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
   (5 days ago)
+- [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
+  (6 days ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
   (3 weeks ago)
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
