@@ -15,7 +15,7 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (4 days ago)
+  (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 week ago)
 - [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks) - Benchmarks for the glass package
@@ -28,15 +28,15 @@ Research Computing, University College London.
 #### 🔨 My Recent Pull Requests
 
 - [CCMI CDT Testing Talk](https://github.com/paddyroddy/talks/pull/126) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
+  (2 days ago)
 - [gh-810: run regression tests only on latest Python](https://github.com/glass-dev/glass/pull/830) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-827: replace `np.allclose` with `compare` fixture](https://github.com/glass-dev/glass/pull/828) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-825: create an array comparison helper to replace `np.testing`](https://github.com/glass-dev/glass/pull/826) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-821: consistent importing of `glass.fields` in tests](https://github.com/glass-dev/glass/pull/822) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (5 days ago)
+- [gh-825: create an array comparison helper to replace `np.testing`](https://github.com/glass-dev/glass/pull/826) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (5 days ago)
+- [gh-821: consistent importing of `glass.fields` in tests](https://github.com/glass-dev/glass/pull/822) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
@@ -45,7 +45,7 @@ Research Computing, University College London.
 - [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
   (1 week ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-  (3 weeks ago)
+  (4 weeks ago)
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
   (1 month ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
