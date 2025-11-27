@@ -14,29 +14,29 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (today)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 week ago)
 - [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks) - Benchmarks for the glass package
-  (1 week ago)
-- [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
   (2 weeks ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Port to uv](https://github.com/astro-informatics/sleplet/pull/474) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
+- [Correct lang version](https://github.com/paddyroddy/.github/pull/322) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Add language version to prettier](https://github.com/paddyroddy/.github/pull/321) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [copilot improvements](https://github.com/paddyroddy/dotfiles/pull/105) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
 - [CCMI CDT Testing Talk](https://github.com/paddyroddy/talks/pull/126) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (2 days ago)
-- [gh-810: run regression tests only on latest Python](https://github.com/glass-dev/glass/pull/830) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-827: replace `np.allclose` with `compare` fixture](https://github.com/glass-dev/glass/pull/828) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [gh-825: create an array comparison helper to replace `np.testing`](https://github.com/glass-dev/glass/pull/826) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [gh-821: consistent importing of `glass.fields` in tests](https://github.com/glass-dev/glass/pull/822) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
