@@ -14,28 +14,28 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 week ago)
-- [glass-dev/glass-benchmarks](https://github.com/glass-dev/glass-benchmarks) - Benchmarks for the glass package
-  (2 weeks ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Port all actions to uv](https://github.com/paddyroddy/.github/pull/324) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Port to uv &amp; add 3.14](https://github.com/paddyroddy/python-template/pull/197) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
   (1 day ago)
-- [gh-841: only run benchmark coverage on latest version](https://github.com/glass-dev/glass/pull/842) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [cov report lcov](https://github.com/paddyroddy/.github/pull/327) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [gh-838: don&#39;t run regression tests when only tests change](https://github.com/glass-dev/glass/pull/840) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Fix missing stuff from uv](https://github.com/paddyroddy/.github/pull/326) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [gh-836: consistent setting of seed throughout](https://github.com/glass-dev/glass/pull/837) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Remove `check-manifest`](https://github.com/paddyroddy/.github/pull/325) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
-- [gh-819: use `uxpx` within `effective_cls`](https://github.com/glass-dev/glass/pull/835) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [SLow plugins](https://github.com/paddyroddy/dotfiles/pull/108) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
 
 #### ⭐ Recent Stars
