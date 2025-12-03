@@ -14,34 +14,34 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (3 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (4 days ago)
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-851: Prepare for `2025.3` release](https://github.com/glass-dev/glass/pull/852) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Fix tox typo](https://github.com/paddyroddy/.github/pull/328) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Add navigation keybinds](https://github.com/paddyroddy/dotfiles/pull/109) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (2 days ago)
+- [gh-848: replace `healpy` dependence with `ducc0`](https://github.com/glass-dev/glass/pull/847) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (2 days ago)
 - [Port to uv &amp; add 3.14](https://github.com/paddyroddy/python-template/pull/197) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (3 days ago)
-- [cov report lcov](https://github.com/paddyroddy/.github/pull/327) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
-- [Fix missing stuff from uv](https://github.com/paddyroddy/.github/pull/326) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
-- [Remove `check-manifest`](https://github.com/paddyroddy/.github/pull/325) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
-- [SLow plugins](https://github.com/paddyroddy/dotfiles/pull/108) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
-  (1 week ago)
+  (2 weeks ago)
 - [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
   (2 weeks ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
