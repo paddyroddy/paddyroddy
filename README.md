@@ -16,27 +16,27 @@ Research Computing, University College London.
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [UCL/open-source](https://github.com/UCL/open-source) - Open Source Programme Office
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (2 days ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (5 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-851: Prepare for `2025.3` release](https://github.com/glass-dev/glass/pull/852) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Add spellchecker](https://github.com/UCL/open-source/pull/72) on [UCL/open-source](https://github.com/UCL/open-source)
   (1 day ago)
-- [Fix tox typo](https://github.com/paddyroddy/.github/pull/328) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Adds vale to the repo with `proselint` rule](https://github.com/UCL/open-source/pull/69) on [UCL/open-source](https://github.com/UCL/open-source)
   (1 day ago)
-- [Add navigation keybinds](https://github.com/paddyroddy/dotfiles/pull/109) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (2 days ago)
-- [gh-848: replace `healpy` dependence with `ducc0`](https://github.com/glass-dev/glass/pull/847) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [Port to uv &amp; add 3.14](https://github.com/paddyroddy/python-template/pull/197) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (5 days ago)
+- [Port actions from Python to uv](https://github.com/UCL-MIRSG/.github/pull/204) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [gh-853: import glass more consistently in tests](https://github.com/glass-dev/glass/pull/854) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Add coverage section](https://github.com/paddyroddy/talks/pull/130) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
