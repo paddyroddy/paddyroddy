@@ -17,26 +17,26 @@ Research Computing, University College London.
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
-- [UCL/open-source](https://github.com/UCL/open-source) - Open Source Programme Office
-  (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (2 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [UCL/open-source](https://github.com/UCL/open-source) - Open Source Programme Office
+  (2 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (3 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-861: be more careful with coverage exclusion](https://github.com/glass-dev/glass/pull/865) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-861: be more careful with coverage exclusion [WIP]](https://github.com/glass-dev/glass/pull/859) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-824: expose `glass.arraytools` module](https://github.com/glass-dev/glass/pull/857) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [Add spellchecker](https://github.com/UCL/open-source/pull/72) on [UCL/open-source](https://github.com/UCL/open-source)
-  (1 day ago)
+  (2 days ago)
 - [Adds vale to the repo with `proselint` rule](https://github.com/UCL/open-source/pull/69) on [UCL/open-source](https://github.com/UCL/open-source)
-  (1 day ago)
-- [Port actions from Python to uv](https://github.com/UCL-MIRSG/.github/pull/204) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
-- [gh-853: import glass more consistently in tests](https://github.com/glass-dev/glass/pull/854) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [Add coverage section](https://github.com/paddyroddy/talks/pull/130) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
