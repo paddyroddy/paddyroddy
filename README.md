@@ -17,25 +17,25 @@ Research Computing, University College London.
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 days ago)
-- [UCL/open-source](https://github.com/UCL/open-source) - Open Source Programme Office
-  (2 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (3 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [UCL/open-source](https://github.com/UCL/open-source) - Open Source Programme Office
+  (3 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (4 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-843: tidy up the `test.yaml` action](https://github.com/glass-dev/glass/pull/869) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-858: remove `pythonLocation` which comes from `setup-python`](https://github.com/glass-dev/glass/pull/868) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-866: exclude imports from coverage report](https://github.com/glass-dev/glass/pull/867) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-861: be more careful with coverage exclusion](https://github.com/glass-dev/glass/pull/865) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-861: be more careful with coverage exclusion [WIP]](https://github.com/glass-dev/glass/pull/859) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-824: expose `glass.arraytools` module](https://github.com/glass-dev/glass/pull/857) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [Add spellchecker](https://github.com/UCL/open-source/pull/72) on [UCL/open-source](https://github.com/UCL/open-source)
   (2 days ago)
-- [Adds vale to the repo with `proselint` rule](https://github.com/UCL/open-source/pull/69) on [UCL/open-source](https://github.com/UCL/open-source)
+- [gh-861: be more careful with coverage exclusion [WIP]](https://github.com/glass-dev/glass/pull/859) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
 
 #### ⭐ Recent Stars
