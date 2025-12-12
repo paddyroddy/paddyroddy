@@ -14,10 +14,10 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (2 days ago)
 - [UCL/open-source](https://github.com/UCL/open-source) - Open Source Programme Office
   (1 week ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
@@ -27,16 +27,16 @@ Research Computing, University College London.
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-839: split up test into multiple tests](https://github.com/glass-dev/glass/pull/877) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-890: add `warn=False` to `redshifts_from_nz` benchmarks](https://github.com/glass-dev/glass/pull/891) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [gh-870: split up `conftest.py` into separate files](https://github.com/glass-dev/glass/pull/872) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-843: tidy up the `test.yaml` action](https://github.com/glass-dev/glass/pull/869) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [gh-858: remove `pythonLocation` which comes from `setup-python`](https://github.com/glass-dev/glass/pull/868) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [gh-866: exclude imports from coverage report](https://github.com/glass-dev/glass/pull/867) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
+- [gh-880: Fix inconsistencies in the documentation rendering](https://github.com/glass-dev/glass/pull/889) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-881: Prepare some functions for Array API porting](https://github.com/glass-dev/glass/pull/888) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-882: Update code dependencies](https://github.com/glass-dev/glass/pull/887) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-883: Small algorithmic changes](https://github.com/glass-dev/glass/pull/886) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
@@ -49,4 +49,4 @@ Research Computing, University College London.
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
   (1 month ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-  (1 month ago)
+  (2 months ago)
