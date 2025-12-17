@@ -14,36 +14,36 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
   (1 day ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (2 days ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Remove messenger](https://github.com/paddyroddy/dotfiles/pull/111) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [Change GoatCounter to header-based approach](https://github.com/paddyroddy/talks/pull/133) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
-- [Update 10km PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/141) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (2 days ago)
-- [Clipboard select](https://github.com/paddyroddy/dotfiles/pull/110) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (4 days ago)
-- [gh-894: add spell checking and content linting](https://github.com/glass-dev/glass/pull/895) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-890: add `warn=False` to `redshifts_from_nz` benchmarks](https://github.com/glass-dev/glass/pull/891) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
+- [Switch from Google Analytics to GoatCounter](https://github.com/paddyroddy/posters/pull/19) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (1 day ago)
+- [Switch from Google Analytics to GoatCounter](https://github.com/paddyroddy/blog/pull/12) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
+  (1 day ago)
+- [Switch from Google Analytics to GoatCounter](https://github.com/paddyroddy/talks/pull/131) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Add GoatCounter](https://github.com/paddyroddy/paddyroddy.github.io/pull/142) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
   (4 weeks ago)
 - [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
-  (4 weeks ago)
+  (1 month ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
   (1 month ago)
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
