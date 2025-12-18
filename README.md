@@ -14,39 +14,39 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (1 day ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
+  (1 day ago)
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+  (1 day ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Change GoatCounter to header-based approach](https://github.com/paddyroddy/talks/pull/133) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [Move from `mypy` to `ty`](https://github.com/astro-informatics/sleplet/pull/478) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 day ago)
-- [Switch from Google Analytics to GoatCounter](https://github.com/paddyroddy/posters/pull/19) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+- [Swap `mypy` with `ty`](https://github.com/paddyroddy/dotfiles/pull/113) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
-- [Switch from Google Analytics to GoatCounter](https://github.com/paddyroddy/blog/pull/12) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
+- [Add glow](https://github.com/paddyroddy/dotfiles/pull/112) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
-- [Switch from Google Analytics to GoatCounter](https://github.com/paddyroddy/talks/pull/131) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+- [gh-912: use `math.pi`](https://github.com/glass-dev/glass/pull/913) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [Add GoatCounter](https://github.com/paddyroddy/paddyroddy.github.io/pull/142) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+- [Add ARCHER2 talk](https://github.com/paddyroddy/talks/pull/137) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+  (1 day ago)
 - [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
-  (4 weeks ago)
+  (1 month ago)
 - [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
   (1 month ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
   (1 month ago)
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
-  (2 months ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
   (2 months ago)
