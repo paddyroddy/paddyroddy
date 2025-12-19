@@ -14,34 +14,34 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (1 day ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
   (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
+- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
+  (1 day ago)
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+  (2 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-921: pin `pre-commit` to oldest support Python version](https://github.com/glass-dev/glass/pull/924) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Remove academic icons](https://github.com/paddyroddy/paddyroddy.github.io/pull/144) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
+- [gh-914: fix versions for array backends for 3.10](https://github.com/glass-dev/glass/pull/916) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [Move from `mypy` to `ty`](https://github.com/astro-informatics/sleplet/pull/478) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (2 days ago)
 - [Swap `mypy` with `ty`](https://github.com/paddyroddy/dotfiles/pull/113) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
-- [Add glow](https://github.com/paddyroddy/dotfiles/pull/112) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
-- [gh-912: use `math.pi`](https://github.com/glass-dev/glass/pull/913) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [Add ARCHER2 talk](https://github.com/paddyroddy/talks/pull/137) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-  (1 day ago)
+  (2 days ago)
 - [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
   (1 month ago)
 - [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
