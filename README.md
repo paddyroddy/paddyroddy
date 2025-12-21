@@ -15,33 +15,33 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (2 days ago)
+  (3 days ago)
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-  (2 days ago)
+  (3 days ago)
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [gh-923: migrate from `mypy` to `ty`](https://github.com/glass-dev/glass/pull/926) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-921: pin `pre-commit` to oldest support Python version](https://github.com/glass-dev/glass/pull/924) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [Remove academic icons](https://github.com/paddyroddy/paddyroddy.github.io/pull/144) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (2 days ago)
-- [gh-914: fix versions for array backends for 3.10](https://github.com/glass-dev/glass/pull/916) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [Move from `mypy` to `ty`](https://github.com/astro-informatics/sleplet/pull/478) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (3 days ago)
+- [Remove academic icons](https://github.com/paddyroddy/paddyroddy.github.io/pull/144) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (3 days ago)
+- [gh-914: fix versions for array backends for 3.10](https://github.com/glass-dev/glass/pull/916) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (3 days ago)
+- [Move from `mypy` to `ty`](https://github.com/astro-informatics/sleplet/pull/478) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-  (3 days ago)
+  (4 days ago)
 - [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
   (1 month ago)
 - [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
