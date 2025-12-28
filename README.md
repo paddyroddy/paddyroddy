@@ -15,9 +15,9 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
+  (4 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (5 days ago)
+  (6 days ago)
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
@@ -28,9 +28,9 @@ Research Computing, University College London.
 #### 🔨 My Recent Pull Requests
 
 - [gh-433: use `fancy-pypi-readme` to do PyPI README prep](https://github.com/glass-dev/glass/pull/929) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-186: add GLASS extensions to documentation](https://github.com/glass-dev/glass/pull/927) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (5 days ago)
+- [gh-186: add GLASS extensions to documentation](https://github.com/glass-dev/glass/pull/927) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (6 days ago)
 - [gh-923: migrate from `mypy` to `ty`](https://github.com/glass-dev/glass/pull/926) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-921: pin `pre-commit` to oldest support Python version](https://github.com/glass-dev/glass/pull/924) on [glass-dev/glass](https://github.com/glass-dev/glass)
@@ -47,6 +47,6 @@ Research Computing, University College London.
 - [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
   (1 month ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-  (1 month ago)
+  (2 months ago)
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
   (2 months ago)
