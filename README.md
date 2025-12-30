@@ -15,7 +15,7 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (5 days ago)
+  (6 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 week ago)
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
@@ -28,7 +28,7 @@ Research Computing, University College London.
 #### 🔨 My Recent Pull Requests
 
 - [gh-433: use `fancy-pypi-readme` to do PyPI README prep](https://github.com/glass-dev/glass/pull/929) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
+  (1 week ago)
 - [gh-186: add GLASS extensions to documentation](https://github.com/glass-dev/glass/pull/927) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-923: migrate from `mypy` to `ty`](https://github.com/glass-dev/glass/pull/926) on [glass-dev/glass](https://github.com/glass-dev/glass)
