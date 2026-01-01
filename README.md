@@ -14,29 +14,29 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (today)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
+- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
+  (today)
+- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from https://thepowerof10.info
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 week ago)
-- [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-  (1 week ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 week ago)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-433: use `fancy-pypi-readme` to do PyPI README prep](https://github.com/glass-dev/glass/pull/929) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-186: add GLASS extensions to documentation](https://github.com/glass-dev/glass/pull/927) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-923: migrate from `mypy` to `ty`](https://github.com/glass-dev/glass/pull/926) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-921: pin `pre-commit` to oldest support Python version](https://github.com/glass-dev/glass/pull/924) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [Remove academic icons](https://github.com/paddyroddy/paddyroddy.github.io/pull/144) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 week ago)
+- [Update license copyright year(s)](https://github.com/paddyroddy/latex-template/pull/62) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+  (today)
+- [Update license copyright year(s)](https://github.com/paddyroddy/fastest-races/pull/14) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
+  (today)
+- [Update license copyright year(s)](https://github.com/paddyroddy/python-template/pull/198) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (today)
+- [Update license copyright year(s)](https://github.com/paddyroddy/.github/pull/329) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Update license copyright year(s)](https://github.com/paddyroddy/dotfiles/pull/114) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
 
 #### ⭐ Recent Stars
 
