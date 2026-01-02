@@ -15,28 +15,28 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (today)
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (today)
+  (1 day ago)
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (today)
+  (1 day ago)
 - [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from https://thepowerof10.info
-  (today)
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Update license copyright year(s)](https://github.com/paddyroddy/latex-template/pull/62) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
-  (today)
+  (1 day ago)
 - [Update license copyright year(s)](https://github.com/paddyroddy/fastest-races/pull/14) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (today)
+  (1 day ago)
 - [Update license copyright year(s)](https://github.com/paddyroddy/python-template/pull/198) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (today)
+  (1 day ago)
 - [Update license copyright year(s)](https://github.com/paddyroddy/.github/pull/329) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
+  (1 day ago)
 - [Update license copyright year(s)](https://github.com/paddyroddy/dotfiles/pull/114) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
