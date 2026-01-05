@@ -14,29 +14,29 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (3 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (today)
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (3 days ago)
+  (4 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (4 days ago)
 - [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from https://thepowerof10.info
-  (3 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
+  (4 days ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Update license copyright year(s)](https://github.com/paddyroddy/latex-template/pull/62) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
-  (3 days ago)
+  (4 days ago)
 - [Update license copyright year(s)](https://github.com/paddyroddy/fastest-races/pull/14) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (3 days ago)
+  (4 days ago)
 - [Update license copyright year(s)](https://github.com/paddyroddy/python-template/pull/198) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (3 days ago)
+  (4 days ago)
 - [Update license copyright year(s)](https://github.com/paddyroddy/.github/pull/329) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
+  (4 days ago)
 - [Update license copyright year(s)](https://github.com/paddyroddy/dotfiles/pull/114) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
