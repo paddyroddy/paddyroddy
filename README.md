@@ -14,29 +14,29 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (today)
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (4 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (4 days ago)
-- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from https://thepowerof10.info
-  (4 days ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (4 days ago)
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Update license copyright year(s)](https://github.com/paddyroddy/latex-template/pull/62) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
-  (4 days ago)
-- [Update license copyright year(s)](https://github.com/paddyroddy/fastest-races/pull/14) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (4 days ago)
-- [Update license copyright year(s)](https://github.com/paddyroddy/python-template/pull/198) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (4 days ago)
-- [Update license copyright year(s)](https://github.com/paddyroddy/.github/pull/329) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (4 days ago)
-- [Update license copyright year(s)](https://github.com/paddyroddy/dotfiles/pull/114) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (4 days ago)
+- [gh-943: bump `array-api-compat` and fix tests](https://github.com/glass-dev/glass/pull/944) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
+- [gh-647: use `union1d` from `array-api-extra`](https://github.com/glass-dev/glass/pull/942) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Paddy/issue 931](https://github.com/glass-dev/glass/pull/941) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Verbose output](https://github.com/glass-dev/glass/pull/939) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-931: fix version for TestPyPI](https://github.com/glass-dev/glass/pull/938) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
