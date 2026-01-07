@@ -14,34 +14,34 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (2 days ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (2 days ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-947: split `positions_from_delta` into internal functions](https://github.com/glass-dev/glass/pull/950) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-945: Add `uv.lock` pre-commit hook](https://github.com/glass-dev/glass/pull/946) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-943: bump `array-api-compat` and fix tests](https://github.com/glass-dev/glass/pull/944) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (today)
+  (1 day ago)
 - [gh-647: use `union1d` from `array-api-extra`](https://github.com/glass-dev/glass/pull/942) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [Paddy/issue 931](https://github.com/glass-dev/glass/pull/941) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [Verbose output](https://github.com/glass-dev/glass/pull/939) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-931: fix version for TestPyPI](https://github.com/glass-dev/glass/pull/938) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-  (2 weeks ago)
+  (3 weeks ago)
 - [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
   (1 month ago)
 - [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
