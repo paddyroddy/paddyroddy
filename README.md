@@ -17,25 +17,25 @@ Research Computing, University College London.
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (2 days ago)
+  (3 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 days ago)
+  (3 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (2 days ago)
+  (3 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (2 days ago)
+  (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Revert &#34;Remove fetch depth&#34;](https://github.com/glass-dev/glass/pull/952) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Remove fetch depth](https://github.com/glass-dev/glass/pull/951) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [Add app to approve workflow runs](https://github.com/UCL-MIRSG/xnat-aws/pull/131) on [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws)
+  (1 day ago)
 - [gh-947: split `positions_from_delta` into internal functions](https://github.com/glass-dev/glass/pull/950) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-945: Add `uv.lock` pre-commit hook](https://github.com/glass-dev/glass/pull/946) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-943: bump `array-api-compat` and fix tests](https://github.com/glass-dev/glass/pull/944) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-647: use `union1d` from `array-api-extra`](https://github.com/glass-dev/glass/pull/942) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
-- [Paddy/issue 931](https://github.com/glass-dev/glass/pull/941) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-945: Add `uv.lock` pre-commit hook](https://github.com/glass-dev/glass/pull/946) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
 
 #### ⭐ Recent Stars
