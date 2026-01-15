@@ -15,7 +15,7 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 week ago)
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
@@ -27,15 +27,15 @@ Research Computing, University College London.
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-902: port functions in `fields.py`](https://github.com/glass-dev/glass/pull/963) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-960: move healpy/healpix work to own module](https://github.com/glass-dev/glass/pull/968) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
+- [gh-902: port functions in `fields.py`](https://github.com/glass-dev/glass/pull/963) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (2 days ago)
 - [gh-961: use `rng_dispatcher` throughout code](https://github.com/glass-dev/glass/pull/962) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [gh-958: make `positions_from_delta` Array API compatible](https://github.com/glass-dev/glass/pull/959) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [Revert &#34;Remove fetch depth&#34;](https://github.com/glass-dev/glass/pull/952) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [Remove fetch depth](https://github.com/glass-dev/glass/pull/951) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 
 #### ⭐ Recent Stars
