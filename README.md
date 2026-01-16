@@ -28,24 +28,24 @@ Research Computing, University College London.
 #### 🔨 My Recent Pull Requests
 
 - [gh-960: move healpy/healpix work to own module](https://github.com/glass-dev/glass/pull/968) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-902: port functions in `fields.py`](https://github.com/glass-dev/glass/pull/963) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
+- [gh-902: port `iternorm`, `cls2cov`, `spectra_indices`, `effective_cls` in `fields.py`](https://github.com/glass-dev/glass/pull/963) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (3 days ago)
 - [gh-961: use `rng_dispatcher` throughout code](https://github.com/glass-dev/glass/pull/962) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+  (4 days ago)
 - [gh-958: make `positions_from_delta` Array API compatible](https://github.com/glass-dev/glass/pull/959) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+  (4 days ago)
 - [Revert &#34;Remove fetch depth&#34;](https://github.com/glass-dev/glass/pull/952) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-  (4 weeks ago)
+  (1 month ago)
 - [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
   (1 month ago)
 - [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
-  (1 month ago)
+  (2 months ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
   (2 months ago)
 - [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
