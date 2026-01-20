@@ -15,7 +15,7 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (2 weeks ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
@@ -28,9 +28,9 @@ Research Computing, University College London.
 #### 🔨 My Recent Pull Requests
 
 - [gh-960: move healpy/healpix work to own module](https://github.com/glass-dev/glass/pull/968) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [gh-902: port `iternorm`, `cls2cov`, `spectra_indices`, `effective_cls` in `fields.py`](https://github.com/glass-dev/glass/pull/963) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (6 days ago)
+- [gh-902: port `iternorm`, `cls2cov`, `spectra_indices`, `effective_cls` in `fields.py`](https://github.com/glass-dev/glass/pull/963) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 week ago)
 - [gh-961: use `rng_dispatcher` throughout code](https://github.com/glass-dev/glass/pull/962) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-958: make `positions_from_delta` Array API compatible](https://github.com/glass-dev/glass/pull/959) on [glass-dev/glass](https://github.com/glass-dev/glass)
