@@ -23,13 +23,13 @@ Research Computing, University College London.
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (2 weeks ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (2 weeks ago)
+  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [gh-960: move `healpy`/`healpix` work to own module](https://github.com/glass-dev/glass/pull/968) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
-- [gh-902: port `iternorm`, `cls2cov`, `spectra_indices`, `effective_cls` in `fields.py`](https://github.com/glass-dev/glass/pull/963) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-902: port `iternorm`, `cls2cov`, `_generate_grf`, `spectra_indices`, `_glass_to_healpix_alm` in `fields.py`](https://github.com/glass-dev/glass/pull/963) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-961: use `rng_dispatcher` throughout code](https://github.com/glass-dev/glass/pull/962) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
