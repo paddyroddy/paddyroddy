@@ -27,16 +27,16 @@ Research Computing, University College London.
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-990: fix `vmap_galactic_ecliptic` porting](https://github.com/glass-dev/glass/pull/991) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-988: Create custom `DTypeLike` Array API type](https://github.com/glass-dev/glass/pull/989) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-960: move `healpy`/`healpix` work to own module](https://github.com/glass-dev/glass/pull/968) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-902: port `iternorm`, `cls2cov`, `_generate_grf`, `spectra_indices`, `_glass_to_healpix_alm` in `fields.py`](https://github.com/glass-dev/glass/pull/963) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-961: use `rng_dispatcher` throughout code](https://github.com/glass-dev/glass/pull/962) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
-- [gh-958: make `positions_from_delta` Array API compatible](https://github.com/glass-dev/glass/pull/959) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [Revert &#34;Remove fetch depth&#34;](https://github.com/glass-dev/glass/pull/952) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
