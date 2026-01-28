@@ -27,16 +27,16 @@ Research Computing, University College London.
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-1000: port `_generate_grf`](https://github.com/glass-dev/glass/pull/1001) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-1002: Add a section to the contributing guidelines on regression](https://github.com/glass-dev/glass/pull/1019) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
+- [gh-1000: port `_generate_grf`](https://github.com/glass-dev/glass/pull/1001) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (2 days ago)
 - [gh-996: Fix bug in `apply_along_axis`](https://github.com/glass-dev/glass/pull/997) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 - [gh-969: determine `xp` when function called in XPAdditions](https://github.com/glass-dev/glass/pull/994) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 - [gh-990: fix `vmap_galactic_ecliptic` porting](https://github.com/glass-dev/glass/pull/991) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [gh-988: Create custom `DTypeLike` Array API type](https://github.com/glass-dev/glass/pull/989) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
