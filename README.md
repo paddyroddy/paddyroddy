@@ -15,7 +15,7 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (3 weeks ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
@@ -23,19 +23,19 @@ Research Computing, University College London.
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (3 weeks ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (3 weeks ago)
+  (4 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-1002: Add a section to the contributing guidelines on regression](https://github.com/glass-dev/glass/pull/1019) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-1024: Remove `from` imports](https://github.com/glass-dev/glass/pull/1025) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [gh-1000: port `_generate_grf`](https://github.com/glass-dev/glass/pull/1001) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-1002: Consistent newline at end of numpydoc docstrings](https://github.com/glass-dev/glass/pull/1023) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-1002: Add a section to the contributing guidelines on regression](https://github.com/glass-dev/glass/pull/1019) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
+- [gh-1000: port `_generate_grf`](https://github.com/glass-dev/glass/pull/1001) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (3 days ago)
 - [gh-996: Fix bug in `apply_along_axis`](https://github.com/glass-dev/glass/pull/997) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [gh-969: determine `xp` when function called in XPAdditions](https://github.com/glass-dev/glass/pull/994) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [gh-990: fix `vmap_galactic_ecliptic` porting](https://github.com/glass-dev/glass/pull/991) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (6 days ago)
 
 #### ⭐ Recent Stars
