@@ -15,7 +15,7 @@ Research Computing, University College London.
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (2 days ago)
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (3 weeks ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
@@ -27,16 +27,16 @@ Research Computing, University College London.
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-1034: Expose `glass.healpix` module](https://github.com/glass-dev/glass/pull/1035) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-998: Change all references to `len` to `.shape[0]`](https://github.com/glass-dev/glass/pull/1032) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-1028: Release of `v2026.1`](https://github.com/glass-dev/glass/pull/1029) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-1024: Remove `from` imports](https://github.com/glass-dev/glass/pull/1025) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-1002: Consistent newline at end of numpydoc docstrings](https://github.com/glass-dev/glass/pull/1023) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-1002: Add a section to the contributing guidelines on regression](https://github.com/glass-dev/glass/pull/1019) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
-- [gh-1000: port `_generate_grf`](https://github.com/glass-dev/glass/pull/1001) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-996: Fix bug in `apply_along_axis`](https://github.com/glass-dev/glass/pull/997) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
+- [gh-1002: Consistent newline at end of numpydoc docstrings](https://github.com/glass-dev/glass/pull/1023) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
