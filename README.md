@@ -14,39 +14,39 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (2 days ago)
+  (3 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (3 weeks ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (3 weeks ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 weeks ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add profile logo to each slide](https://github.com/paddyroddy/talks/pull/138) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Add fzf alias](https://github.com/paddyroddy/dotfiles/pull/117) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [Ask Claude to improve](https://github.com/paddyroddy/dotfiles/pull/116) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [Remove `tmux`](https://github.com/paddyroddy/dotfiles/pull/115) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
 - [gh-1034: Expose `glass.healpix` module](https://github.com/glass-dev/glass/pull/1035) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-998: Change all references to `len` to `.shape[0]`](https://github.com/glass-dev/glass/pull/1032) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-1028: Release of `v2026.1`](https://github.com/glass-dev/glass/pull/1029) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-1024: Remove `from` imports](https://github.com/glass-dev/glass/pull/1025) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-1002: Consistent newline at end of numpydoc docstrings](https://github.com/glass-dev/glass/pull/1023) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (3 days ago)
 
 #### ⭐ Recent Stars
 
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
+  (1 day ago)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+  (1 day ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
   (1 month ago)
 - [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
   (2 months ago)
 - [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
   (2 months ago)
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-  (3 months ago)
-- [jatonline/managing-dependencies-using-uv-and-pixi](https://github.com/jatonline/managing-dependencies-using-uv-and-pixi) - Managing dependencies using uv and pixi
-  (3 months ago)
