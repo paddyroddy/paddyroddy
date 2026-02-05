@@ -14,39 +14,39 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (4 days ago)
+  (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 days ago)
+  (1 day ago)
+- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
+  (2 days ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (2 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add profile logo to each slide](https://github.com/paddyroddy/talks/pull/138) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (4 days ago)
-- [Add fzf alias](https://github.com/paddyroddy/dotfiles/pull/117) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (4 days ago)
-- [Ask Claude to improve](https://github.com/paddyroddy/dotfiles/pull/116) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (4 days ago)
-- [Remove `tmux`](https://github.com/paddyroddy/dotfiles/pull/115) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (4 days ago)
-- [gh-1034: Expose `glass.healpix` module](https://github.com/glass-dev/glass/pull/1035) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
+- [Remove reverse](https://github.com/paddyroddy/dotfiles/pull/119) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [Make sorted `ls` long](https://github.com/paddyroddy/dotfiles/pull/118) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [Change logo from size to percentage](https://github.com/paddyroddy/talks/pull/141) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Disable footer on QR code](https://github.com/paddyroddy/talks/pull/140) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Move QR code to bottom](https://github.com/paddyroddy/talks/pull/139) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [chrissy-dev/protected-github-pages](https://github.com/chrissy-dev/protected-github-pages) - Password Protection for Static Pages
+  (1 day ago)
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
-  (4 days ago)
+  (5 days ago)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-  (4 days ago)
+  (5 days ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
   (1 month ago)
 - [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
-  (2 months ago)
-- [Ranteck/PyStrict-strict-python](https://github.com/Ranteck/PyStrict-strict-python) - Ultra-strict Python project template using uv, ruff, and basedpyright, inspired by TypeScript’s --strict mode.
   (2 months ago)
