@@ -14,28 +14,28 @@ Research Computing, University College London.
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (today)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (1 day ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
 - [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from https://thepowerof10.info
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-985: Force upgrade `uv.lock`](https://github.com/glass-dev/glass/pull/1041) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Revert &#34;Fix local `prek` bug&#34;](https://github.com/UCL-MIRSG/.github/pull/210) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (today)
+- [Revert &#34;Attempt to remove Python&#34;](https://github.com/paddyroddy/.github/pull/357) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Attempt to remove Python](https://github.com/paddyroddy/.github/pull/356) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Revert &#34;Change width ratios&#34;](https://github.com/paddyroddy/paddyroddy.github.io/pull/150) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (1 day ago)
-- [ci: fix project board automation for Dependabot](https://github.com/paddyroddy/fastest-races/pull/16) on [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races)
-  (1 day ago)
-- [ci: fix project board automation for Dependabot](https://github.com/paddyroddy/blog/pull/15) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (1 day ago)
-- [ci: fix project board automation for Dependabot](https://github.com/paddyroddy/latex-template/pull/64) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
-  (1 day ago)
-- [ci: fix project board automation for Dependabot](https://github.com/paddyroddy/posters/pull/22) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+- [Change width ratios](https://github.com/paddyroddy/paddyroddy.github.io/pull/149) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
   (1 day ago)
 
 #### ⭐ Recent Stars
