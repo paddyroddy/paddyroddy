@@ -43,9 +43,9 @@ Research Computing, University College London.
 - [chrissy-dev/protected-github-pages](https://github.com/chrissy-dev/protected-github-pages) - Password Protection for Static Pages
   (2 weeks ago)
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
-  (2 weeks ago)
+  (3 weeks ago)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-  (2 weeks ago)
+  (3 weeks ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
   (2 months ago)
 - [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
