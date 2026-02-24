@@ -20,9 +20,9 @@ Research Computing, University College London.
   (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 week ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (1 week ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
@@ -40,6 +40,8 @@ Research Computing, University College London.
 
 #### ⭐ Recent Stars
 
+- [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
+  (today)
 - [chrissy-dev/protected-github-pages](https://github.com/chrissy-dev/protected-github-pages) - Password Protection for Static Pages
   (2 weeks ago)
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
@@ -48,5 +50,3 @@ Research Computing, University College London.
   (3 weeks ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
   (2 months ago)
-- [dantebben/nox-uv](https://github.com/dantebben/nox-uv) - Facilitate nox integration with uv for Python projects
-  (3 months ago)
