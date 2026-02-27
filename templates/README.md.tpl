@@ -1,7 +1,7 @@
 ### 👋 Hello
 
-I'm Paddy, a Senior Research Software Engineer at the Centre for Advanced
-Research Computing, University College London.
+I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
+(ARC), University College London.
 
 [![Last Commit](https://img.shields.io/github/last-commit/paddyroddy/paddyroddy/main?label=updated)](https://github.com/paddyroddy)
 [![Website](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=for-the-badge&style=flat)](https://paddyroddy.github.io)
