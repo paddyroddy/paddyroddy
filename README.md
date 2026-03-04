@@ -14,39 +14,39 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
+- [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
+  (today)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 day ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (4 days ago)
+- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Remove duplicated typing in docstrings](https://github.com/UCL-MIRSG/xmigrate/pull/66) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (1 day ago)
+- [Tidy up imports](https://github.com/UCL-MIRSG/xmigrate/pull/64) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (1 day ago)
+- [Consistent naming of source/destination funcs](https://github.com/UCL-MIRSG/xmigrate/pull/62) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (1 day ago)
+- [Move `schemas` folder into `.github`](https://github.com/UCL-MIRSG/xmigrate/pull/61) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (1 day ago)
 - [Add `uv-lock` hook](https://github.com/UCL-MIRSG/.github/pull/212) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
-- [Tidy up issue forms](https://github.com/UCL-MIRSG/xmigrate/pull/59) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (1 day ago)
-- [Switch to MIRSG hooks](https://github.com/UCL-MIRSG/xmigrate/pull/57) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (1 day ago)
-- [Add ideas from Nicolas review](https://github.com/paddyroddy/talks/pull/150) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
-- [Upgrade LaTeX to 2026](https://github.com/paddyroddy/dotfiles/pull/123) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [jolars/panache](https://github.com/jolars/panache) - An LSP server, formatter, and linter for Pandoc markdown, Quarto, and RMarkdown
-  (1 day ago)
+  (2 days ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
-  (4 days ago)
+  (5 days ago)
 - [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
   (1 week ago)
 - [chrissy-dev/protected-github-pages](https://github.com/chrissy-dev/protected-github-pages) - Password Protection for Static Pages
-  (3 weeks ago)
+  (4 weeks ago)
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
   (1 month ago)
