@@ -14,28 +14,28 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
-- [conda-forge/transformcl-feedstock](https://github.com/conda-forge/transformcl-feedstock) - A conda-smithy repository for transformcl.
-  (3 days ago)
-- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (3 days ago)
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (1 week ago)
-- [paddyroddy/fastest-races](https://github.com/paddyroddy/fastest-races) - Finds the fastest running races in the UK from https://thepowerof10.info
-  (1 week ago)
+  (1 day ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
+- [conda-forge/transformcl-feedstock](https://github.com/conda-forge/transformcl-feedstock) - A conda-smithy repository for transformcl.
+  (4 days ago)
+- [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
+  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Create unit tests for `users.py`](https://github.com/UCL-MIRSG/xmigrate/pull/86) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (1 day ago)
+- [gh-1050: Bump `pillow`](https://github.com/glass-dev/glass/pull/1051) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
+- [gh-1048: bump `tornado`](https://github.com/glass-dev/glass/pull/1049) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [Add `uv` support in CI](https://github.com/UCL-MIRSG/xmigrate/pull/78) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (1 day ago)
+  (2 days ago)
 - [Don&#39;t separate out folders for sorting](https://github.com/paddyroddy/dotfiles/pull/126) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
-- [Switch from `mkdocs` to `zensical`](https://github.com/UCL-MIRSG/xmigrate/pull/76) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (1 day ago)
-- [Exclude `Brewfile` from typos](https://github.com/paddyroddy/dotfiles/pull/125) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 day ago)
-- [Add and improve docstrings](https://github.com/UCL-MIRSG/xmigrate/pull/75) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
   (2 days ago)
 
 #### ⭐ Recent Stars
