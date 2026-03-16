@@ -15,33 +15,33 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (2 days ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (2 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (3 days ago)
-- [conda-forge/transformcl-feedstock](https://github.com/conda-forge/transformcl-feedstock) - A conda-smithy repository for transformcl.
-  (5 days ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (3 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (4 days ago)
 - [UCL-MIRSG/ansible-collection-infra](https://github.com/UCL-MIRSG/ansible-collection-infra) - Ansible Collection to configure infrastructure for XNAT and OMERO
-  (5 days ago)
+  (6 days ago)
+- [conda-forge/transformcl-feedstock](https://github.com/conda-forge/transformcl-feedstock) - A conda-smithy repository for transformcl.
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Create unit tests for `users.py`](https://github.com/UCL-MIRSG/xmigrate/pull/86) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (2 days ago)
+  (3 days ago)
 - [gh-1050: Bump `pillow`](https://github.com/glass-dev/glass/pull/1051) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [gh-1048: bump `tornado`](https://github.com/glass-dev/glass/pull/1049) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [Add `uv` support in CI](https://github.com/UCL-MIRSG/xmigrate/pull/78) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (3 days ago)
+  (4 days ago)
 - [Don&#39;t separate out folders for sorting](https://github.com/paddyroddy/dotfiles/pull/126) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [jolars/panache](https://github.com/jolars/panache) - A language server, formatter, and linter for Pandoc markdown, Quarto, and R Markdown
-  (1 week ago)
+- [jolars/panache](https://github.com/jolars/panache) - A language server, formatter, and linter for Pandoc, Quarto, and R Markdown
+  (2 weeks ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
   (2 weeks ago)
 - [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
