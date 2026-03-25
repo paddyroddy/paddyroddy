@@ -14,29 +14,29 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
+  (1 day ago)
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
   (1 day ago)
 - [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
-  (1 day ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (5 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (5 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 week ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add terraform update action](https://github.com/UCL-MIRSG/.github/pull/215) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [Improve HTML img](https://github.com/paddyroddy/talks/pull/157) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
-- [Remove `uv-lock`](https://github.com/UCL-MIRSG/.github/pull/214) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+- [Fix talk slide](https://github.com/paddyroddy/talks/pull/156) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
-- [Add `mise` to dotfiles](https://github.com/paddyroddy/dotfiles/pull/127) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (5 days ago)
-- [gh-1052: `RadialWindow` is now a `dataclass`](https://github.com/glass-dev/glass/pull/1053) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
-- [Create unit tests for `custom_forms`](https://github.com/UCL-MIRSG/xmigrate/pull/89) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (6 days ago)
+- [Fix Lincoln bug](https://github.com/paddyroddy/talks/pull/155) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Fix qrcode bug since quarto update](https://github.com/paddyroddy/talks/pull/154) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
+- [Missing dashes](https://github.com/paddyroddy/talks/pull/153) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
