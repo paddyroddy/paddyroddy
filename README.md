@@ -14,36 +14,36 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/condenser-workshop-intro](https://github.com/UCL-ARC/condenser-workshop-intro) - Material for the Introduction to Condenser workshop
-  (4 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (6 days ago)
-- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (6 days ago)
-- [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (6 days ago)
+  (today)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
+- [UCL-ARC/condenser-workshop-intro](https://github.com/UCL-ARC/condenser-workshop-intro) - Material for the Introduction to Condenser workshop
+  (5 days ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Rename institute](https://github.com/paddyroddy/talks/pull/159) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (4 days ago)
-- [Create unit tests for `xml_mapper`](https://github.com/UCL-MIRSG/xmigrate/pull/120) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (5 days ago)
-- [Fix width](https://github.com/paddyroddy/talks/pull/158) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (5 days ago)
-- [Improve HTML img](https://github.com/paddyroddy/talks/pull/157) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (6 days ago)
-- [Fix talk slide](https://github.com/paddyroddy/talks/pull/156) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (6 days ago)
+- [Bump `safe-settings`](https://github.com/paddyroddy/.github/pull/363) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Change docs permissions to `write`](https://github.com/astro-informatics/sleplet/pull/482) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
+- [Add `zizmor` hook for GHA analysis](https://github.com/UCL-MIRSG/.github/pull/219) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Add `zizmor` prek hook](https://github.com/paddyroddy/.github/pull/362) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Add zizmor to master hooks](https://github.com/astro-informatics/sleplet/pull/481) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-  (today)
+  (1 day ago)
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
-  (1 week ago)
+  (2 weeks ago)
 - [jolars/panache](https://github.com/jolars/panache) - A language server, formatter, and linter for Pandoc, Quarto, and R Markdown
   (4 weeks ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
