@@ -52,7 +52,7 @@ jobs:
           ${{ steps.commit-count.outputs.count == 0 && github.ref ==
           'refs/heads/main' }}
         # yamllint disable-line rule:line-length
-        uses: stefanzweifel/git-auto-commit-action@778341af668090896ca464160c2def5d1d1a3eb0 # v6
+        uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7
         with:
           branch: main
           commit_message: Update generated README
