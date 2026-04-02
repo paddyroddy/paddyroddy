@@ -14,38 +14,38 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (today)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
+  (1 day ago)
+- [UCL-MIRSG/genfi2-upload-assistant](https://github.com/UCL-MIRSG/genfi2-upload-assistant)
+  (1 day ago)
+- [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
+  (1 day ago)
+- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
   (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 day ago)
-- [UCL-ARC/condenser-workshop-intro](https://github.com/UCL-ARC/condenser-workshop-intro) - Material for the Introduction to Condenser workshop
-  (5 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Prepare repository for `zizmor`](https://github.com/UCL-MIRSG/mirsg-template/pull/26) on [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template)
+  (1 day ago)
+- [Prepare repository for `zizmor`](https://github.com/UCL-MIRSG/.github/pull/221) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
+- [Bump safe-settings](https://github.com/paddyroddy/.github/pull/364) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 - [Bump `safe-settings`](https://github.com/paddyroddy/.github/pull/363) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
+  (2 days ago)
 - [Change docs permissions to `write`](https://github.com/astro-informatics/sleplet/pull/482) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
-- [Add `zizmor` hook for GHA analysis](https://github.com/UCL-MIRSG/.github/pull/219) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
-- [Add `zizmor` prek hook](https://github.com/paddyroddy/.github/pull/362) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
-- [Add zizmor to master hooks](https://github.com/astro-informatics/sleplet/pull/481) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-  (1 day ago)
+  (3 days ago)
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
   (2 weeks ago)
 - [jolars/panache](https://github.com/jolars/panache) - A language server, formatter, and linter for Pandoc, Quarto, and R Markdown
-  (4 weeks ago)
+  (1 month ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
   (1 month ago)
 - [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
