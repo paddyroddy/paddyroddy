@@ -15,26 +15,26 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/genfi2-upload-assistant](https://github.com/UCL-MIRSG/genfi2-upload-assistant)
-  (5 days ago)
+  (6 days ago)
 - [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (5 days ago)
+  (6 days ago)
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (5 days ago)
+  (6 days ago)
 - [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
-  (5 days ago)
+  (6 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (5 days ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Prepare repository for `zizmor`](https://github.com/UCL-MIRSG/mirsg-template/pull/26) on [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template)
-  (5 days ago)
-- [Prepare repository for `zizmor`](https://github.com/UCL-MIRSG/.github/pull/221) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (5 days ago)
-- [Bump safe-settings](https://github.com/paddyroddy/.github/pull/364) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (5 days ago)
-- [Bump `safe-settings`](https://github.com/paddyroddy/.github/pull/363) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (6 days ago)
+- [Prepare repository for `zizmor`](https://github.com/UCL-MIRSG/.github/pull/221) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (6 days ago)
+- [Bump safe-settings](https://github.com/paddyroddy/.github/pull/364) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (6 days ago)
+- [Bump `safe-settings`](https://github.com/paddyroddy/.github/pull/363) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 week ago)
 - [Change docs permissions to `write`](https://github.com/astro-informatics/sleplet/pull/482) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 week ago)
 
@@ -43,7 +43,7 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
   (1 week ago)
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
-  (2 weeks ago)
+  (3 weeks ago)
 - [jolars/panache](https://github.com/jolars/panache) - A language server, formatter, and linter for Pandoc, Quarto, and R Markdown
   (1 month ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
