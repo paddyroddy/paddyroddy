@@ -15,24 +15,24 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/genfi2-upload-assistant](https://github.com/UCL-MIRSG/genfi2-upload-assistant)
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
-  (6 days ago)
+  (1 week ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Prepare repository for `zizmor`](https://github.com/UCL-MIRSG/mirsg-template/pull/26) on [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template)
-  (6 days ago)
+  (1 week ago)
 - [Prepare repository for `zizmor`](https://github.com/UCL-MIRSG/.github/pull/221) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (6 days ago)
+  (1 week ago)
 - [Bump safe-settings](https://github.com/paddyroddy/.github/pull/364) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (6 days ago)
+  (1 week ago)
 - [Bump `safe-settings`](https://github.com/paddyroddy/.github/pull/363) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 week ago)
 - [Change docs permissions to `write`](https://github.com/astro-informatics/sleplet/pull/482) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
