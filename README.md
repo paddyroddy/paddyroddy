@@ -44,7 +44,7 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
   (1 week ago)
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
   (3 weeks ago)
-- [jolars/panache](https://github.com/jolars/panache) - A language server, formatter, and linter for Pandoc, Quarto, and R Markdown
+- [jolars/panache](https://github.com/jolars/panache) - Language server, formatter, and linter for Pandoc, Quarto, and R Markdown
   (1 month ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
   (1 month ago)
