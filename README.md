@@ -16,13 +16,13 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 - [UCL-MIRSG/genfi2-upload-assistant](https://github.com/UCL-MIRSG/genfi2-upload-assistant)
   (1 week ago)
-- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 week ago)
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
   (1 week ago)
-- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
+- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
   (1 week ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
@@ -36,12 +36,12 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [Bump `safe-settings`](https://github.com/paddyroddy/.github/pull/363) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 week ago)
 - [Change docs permissions to `write`](https://github.com/astro-informatics/sleplet/pull/482) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 week ago)
+  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-  (1 week ago)
+  (2 weeks ago)
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
   (3 weeks ago)
 - [jolars/panache](https://github.com/jolars/panache) - Language server, formatter, and linter for Pandoc, Quarto, and R Markdown
