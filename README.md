@@ -14,25 +14,25 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (today)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (today)
 - [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
-  (1 day ago)
-- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (1 week ago)
-- [UCL-MIRSG/genfi2-upload-assistant](https://github.com/UCL-MIRSG/genfi2-upload-assistant)
-  (1 week ago)
-- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
-  (1 week ago)
+  (2 days ago)
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (1 week ago)
+  (2 weeks ago)
+- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Prepare repository for `zizmor`](https://github.com/UCL-MIRSG/mirsg-template/pull/26) on [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template)
-  (1 week ago)
+  (2 weeks ago)
 - [Prepare repository for `zizmor`](https://github.com/UCL-MIRSG/.github/pull/221) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
+  (2 weeks ago)
 - [Bump safe-settings](https://github.com/paddyroddy/.github/pull/364) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
+  (2 weeks ago)
 - [Bump `safe-settings`](https://github.com/paddyroddy/.github/pull/363) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (2 weeks ago)
 - [Change docs permissions to `write`](https://github.com/astro-informatics/sleplet/pull/482) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
