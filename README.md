@@ -14,36 +14,36 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/genfi2-upload-assistant](https://github.com/UCL-MIRSG/genfi2-upload-assistant)
-  (1 week ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 week ago)
-- [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (1 week ago)
-- [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (1 week ago)
-- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
-  (1 week ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (today)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (today)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Prepare repository for `zizmor`](https://github.com/UCL-MIRSG/mirsg-template/pull/26) on [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template)
-  (1 week ago)
-- [Prepare repository for `zizmor`](https://github.com/UCL-MIRSG/.github/pull/221) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
-- [Bump safe-settings](https://github.com/paddyroddy/.github/pull/364) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
-- [Bump `safe-settings`](https://github.com/paddyroddy/.github/pull/363) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
-- [Change docs permissions to `write`](https://github.com/astro-informatics/sleplet/pull/482) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (2 weeks ago)
+- [Zizmor](https://github.com/paddyroddy/github-readme-stats/pull/243) on [paddyroddy/github-readme-stats](https://github.com/paddyroddy/github-readme-stats)
+  (today)
+- [Change permissions project](https://github.com/paddyroddy/dotfiles/pull/129) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
+- [Change permissions project](https://github.com/paddyroddy/adr-tree-surgery-website/pull/113) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (today)
+- [Change project workflow to PR not target](https://github.com/paddyroddy/posters/pull/23) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (1 day ago)
+- [Change project workflow to PR not target](https://github.com/paddyroddy/.github/pull/366) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
   (2 weeks ago)
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
-  (3 weeks ago)
+  (1 month ago)
 - [jolars/panache](https://github.com/jolars/panache) - Language server, formatter, and linter for Pandoc, Quarto, and R Markdown
   (1 month ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
