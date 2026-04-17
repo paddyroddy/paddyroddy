@@ -14,28 +14,28 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (today)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (today)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (today)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (1 day ago)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
   (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Zizmor](https://github.com/paddyroddy/github-readme-stats/pull/243) on [paddyroddy/github-readme-stats](https://github.com/paddyroddy/github-readme-stats)
-  (today)
-- [Change permissions project](https://github.com/paddyroddy/dotfiles/pull/129) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
-- [Change permissions project](https://github.com/paddyroddy/adr-tree-surgery-website/pull/113) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (today)
-- [Change project workflow to PR not target](https://github.com/paddyroddy/posters/pull/23) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+- [Fix zizmor](https://github.com/paddyroddy/posters/pull/24) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
   (1 day ago)
-- [Change project workflow to PR not target](https://github.com/paddyroddy/.github/pull/366) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [Add PR read scope for `vale`](https://github.com/astro-informatics/sleplet/pull/486) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (1 day ago)
+- [contents: read](https://github.com/paddyroddy/adr-tree-surgery-website/pull/115) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
+  (1 day ago)
+- [contents: read](https://github.com/paddyroddy/dotfiles/pull/131) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [contents: read](https://github.com/paddyroddy/talks/pull/162) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
 
 #### ⭐ Recent Stars
