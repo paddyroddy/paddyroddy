@@ -14,34 +14,34 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (3 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (3 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (3 days ago)
-- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (3 days ago)
+  (4 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (4 days ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (4 days ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (4 days ago)
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Fix zizmor](https://github.com/paddyroddy/posters/pull/24) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (3 days ago)
+  (4 days ago)
 - [Add PR read scope for `vale`](https://github.com/astro-informatics/sleplet/pull/486) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (3 days ago)
+  (4 days ago)
 - [contents: read](https://github.com/paddyroddy/adr-tree-surgery-website/pull/115) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (3 days ago)
+  (4 days ago)
 - [contents: read](https://github.com/paddyroddy/dotfiles/pull/131) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
+  (4 days ago)
 - [contents: read](https://github.com/paddyroddy/talks/pull/162) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (3 days ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-  (2 weeks ago)
+  (3 weeks ago)
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
   (1 month ago)
 - [jolars/panache](https://github.com/jolars/panache) - Language server, formatter, and linter for Pandoc, Quarto, and R Markdown
