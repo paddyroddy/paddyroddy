@@ -14,29 +14,29 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
+- [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
+  (today)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (4 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (4 days ago)
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Tidy up `conftest.py`](https://github.com/UCL-MIRSG/xmigrate/pull/131) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (today)
 - [Fix zizmor](https://github.com/paddyroddy/posters/pull/24) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (4 days ago)
+  (5 days ago)
 - [Add PR read scope for `vale`](https://github.com/astro-informatics/sleplet/pull/486) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (4 days ago)
+  (5 days ago)
 - [contents: read](https://github.com/paddyroddy/adr-tree-surgery-website/pull/115) on [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website)
-  (4 days ago)
+  (5 days ago)
 - [contents: read](https://github.com/paddyroddy/dotfiles/pull/131) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (4 days ago)
-- [contents: read](https://github.com/paddyroddy/talks/pull/162) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
