@@ -14,11 +14,11 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
   (1 day ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (1 week ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (1 week ago)
@@ -27,16 +27,16 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 🔨 My Recent Pull Requests
 
-- [Fix easy ruff rules to improve code](https://github.com/UCL-MIRSG/xmigrate/pull/139) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+- [Make option work as alt](https://github.com/paddyroddy/dotfiles/pull/133) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
+- [Maitain our own `Dockerfile` for `xnat4tests`](https://github.com/UCL-MIRSG/xmigrate/pull/147) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (today)
+- [Add GitHub CLI config](https://github.com/paddyroddy/dotfiles/pull/132) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
+- [Fix easy ruff rules to improve code](https://github.com/UCL-MIRSG/xmigrate/pull/139) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (2 days ago)
 - [Separate out integration tests](https://github.com/UCL-MIRSG/xmigrate/pull/133) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (2 days ago)
-- [Tidy up `conftest.py`](https://github.com/UCL-MIRSG/xmigrate/pull/131) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (2 days ago)
-- [Fix zizmor](https://github.com/paddyroddy/posters/pull/24) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (1 week ago)
-- [Add PR read scope for `vale`](https://github.com/astro-informatics/sleplet/pull/486) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 week ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
