@@ -15,9 +15,9 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (today)
-- [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
   (1 day ago)
+- [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
+  (2 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (1 week ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
@@ -28,15 +28,15 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 🔨 My Recent Pull Requests
 
 - [Make option work as alt](https://github.com/paddyroddy/dotfiles/pull/133) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
-- [Maitain our own `Dockerfile` for `xnat4tests`](https://github.com/UCL-MIRSG/xmigrate/pull/147) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (today)
-- [Add GitHub CLI config](https://github.com/paddyroddy/dotfiles/pull/132) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
-- [Fix easy ruff rules to improve code](https://github.com/UCL-MIRSG/xmigrate/pull/139) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+- [Maintain our own `Dockerfile` for `xnat4tests`](https://github.com/UCL-MIRSG/xmigrate/pull/147) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (1 day ago)
+- [Add GitHub CLI config](https://github.com/paddyroddy/dotfiles/pull/132) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (2 days ago)
-- [Separate out integration tests](https://github.com/UCL-MIRSG/xmigrate/pull/133) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+- [Fix easy ruff rules to improve code](https://github.com/UCL-MIRSG/xmigrate/pull/139) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
   (3 days ago)
+- [Separate out integration tests](https://github.com/UCL-MIRSG/xmigrate/pull/133) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
@@ -49,4 +49,4 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
   (1 month ago)
 - [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
-  (1 month ago)
+  (2 months ago)
