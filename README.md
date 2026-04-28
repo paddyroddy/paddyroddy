@@ -17,7 +17,7 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
   (today)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
   (1 week ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
@@ -28,15 +28,15 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 🔨 My Recent Pull Requests
 
 - [Make option work as alt](https://github.com/paddyroddy/dotfiles/pull/133) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
-- [Maintain our own `Dockerfile` for `xnat4tests`](https://github.com/UCL-MIRSG/xmigrate/pull/147) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (3 days ago)
-- [Add GitHub CLI config](https://github.com/paddyroddy/dotfiles/pull/132) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (4 days ago)
-- [Fix easy ruff rules to improve code](https://github.com/UCL-MIRSG/xmigrate/pull/139) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+- [Maintain our own `Dockerfile` for `xnat4tests`](https://github.com/UCL-MIRSG/xmigrate/pull/147) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (4 days ago)
+- [Add GitHub CLI config](https://github.com/paddyroddy/dotfiles/pull/132) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (5 days ago)
-- [Separate out integration tests](https://github.com/UCL-MIRSG/xmigrate/pull/133) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+- [Fix easy ruff rules to improve code](https://github.com/UCL-MIRSG/xmigrate/pull/139) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
   (6 days ago)
+- [Separate out integration tests](https://github.com/UCL-MIRSG/xmigrate/pull/133) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -44,9 +44,9 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
   (4 weeks ago)
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
   (1 month ago)
-- [jolars/panache](https://github.com/jolars/panache) - Language server, formatter, and linter for Pandoc, Quarto, and R Markdown
+- [jolars/panache](https://github.com/jolars/panache) - Language server, formatter, and linter for Markdown, Quarto, and R Markdown
   (1 month ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
-  (1 month ago)
+  (2 months ago)
 - [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
   (2 months ago)
