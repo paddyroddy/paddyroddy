@@ -15,38 +15,38 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (today)
+  (1 day ago)
+- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
+  (1 day ago)
+- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (4 days ago)
-- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (1 week ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 week ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 week ago)
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Make option work as alt](https://github.com/paddyroddy/dotfiles/pull/133) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (4 days ago)
-- [Maintain our own `Dockerfile` for `xnat4tests`](https://github.com/UCL-MIRSG/xmigrate/pull/147) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (4 days ago)
-- [Add GitHub CLI config](https://github.com/paddyroddy/dotfiles/pull/132) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (5 days ago)
-- [Fix easy ruff rules to improve code](https://github.com/UCL-MIRSG/xmigrate/pull/139) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+- [Maintain our own `Dockerfile` for `xnat4tests`](https://github.com/UCL-MIRSG/xmigrate/pull/147) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (5 days ago)
+- [Add GitHub CLI config](https://github.com/paddyroddy/dotfiles/pull/132) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (6 days ago)
+- [Fix easy ruff rules to improve code](https://github.com/UCL-MIRSG/xmigrate/pull/139) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
+  (1 week ago)
 - [Separate out integration tests](https://github.com/UCL-MIRSG/xmigrate/pull/133) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [cucumber/gherkin](https://github.com/cucumber/gherkin) - A parser and compiler for the Gherkin language.
+  (1 day ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-  (4 weeks ago)
+  (1 month ago)
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
   (1 month ago)
 - [jolars/panache](https://github.com/jolars/panache) - Language server, formatter, and linter for Markdown, Quarto, and R Markdown
   (1 month ago)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
-  (2 months ago)
-- [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
   (2 months ago)
