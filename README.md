@@ -14,39 +14,39 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
+- [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
+  (today)
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
-  (1 day ago)
-- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (5 days ago)
+  (2 days ago)
+- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Make option work as alt](https://github.com/paddyroddy/dotfiles/pull/133) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (5 days ago)
-- [Maintain our own `Dockerfile` for `xnat4tests`](https://github.com/UCL-MIRSG/xmigrate/pull/147) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (5 days ago)
-- [Add GitHub CLI config](https://github.com/paddyroddy/dotfiles/pull/132) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (6 days ago)
-- [Fix easy ruff rules to improve code](https://github.com/UCL-MIRSG/xmigrate/pull/139) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (1 week ago)
-- [Separate out integration tests](https://github.com/UCL-MIRSG/xmigrate/pull/133) on [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate)
-  (1 week ago)
+- [Create CITATION.cff](https://github.com/green-actions/green-actions/pull/17) on [green-actions/green-actions](https://github.com/green-actions/green-actions)
+  (today)
+- [Add dummy action](https://github.com/green-actions/green-actions/pull/16) on [green-actions/green-actions](https://github.com/green-actions/green-actions)
+  (today)
+- [Create CONTRIBUTING.md](https://github.com/green-actions/green-actions/pull/15) on [green-actions/green-actions](https://github.com/green-actions/green-actions)
+  (today)
+- [Create CODE_OF_CONDUCT.md](https://github.com/green-actions/green-actions/pull/14) on [green-actions/green-actions](https://github.com/green-actions/green-actions)
+  (today)
+- [Split all-contributors over two lines](https://github.com/green-actions/green-actions/pull/13) on [green-actions/green-actions](https://github.com/green-actions/green-actions)
+  (today)
 
 #### ⭐ Recent Stars
 
+- [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
+  (today)
 - [cucumber/gherkin](https://github.com/cucumber/gherkin) - A parser and compiler for the Gherkin language.
-  (1 day ago)
+  (2 days ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
   (1 month ago)
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
   (1 month ago)
 - [jolars/panache](https://github.com/jolars/panache) - Language server, formatter, and linter for Markdown, Quarto, and R Markdown
   (1 month ago)
-- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
-  (2 months ago)
