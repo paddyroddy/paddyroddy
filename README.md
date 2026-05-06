@@ -14,39 +14,39 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (today)
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+  (1 day ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 day ago)
 - [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
-  (5 days ago)
+  (6 days ago)
 - [green-actions/talks](https://github.com/green-actions/talks) - A series of talks
-  (5 days ago)
-- [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (1 week ago)
-- [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template) - A template for general MIRSG repositories
-  (1 week ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Remove Node 20 set](https://github.com/paddyroddy/.github/pull/369) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Bump node to v20](https://github.com/paddyroddy/.github/pull/368) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Set `node` version for `markdownlint`](https://github.com/paddyroddy/.github/pull/367) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
 - [Shrink authorship](https://github.com/green-actions/talks/pull/9) on [green-actions/talks](https://github.com/green-actions/talks)
-  (5 days ago)
+  (6 days ago)
 - [Change title](https://github.com/green-actions/talks/pull/8) on [green-actions/talks](https://github.com/green-actions/talks)
-  (5 days ago)
-- [Mermaid theme](https://github.com/green-actions/talks/pull/7) on [green-actions/talks](https://github.com/green-actions/talks)
-  (5 days ago)
-- [Update _quarto.yaml](https://github.com/green-actions/talks/pull/6) on [green-actions/talks](https://github.com/green-actions/talks)
-  (5 days ago)
-- [Shorten Title](https://github.com/green-actions/talks/pull/5) on [green-actions/talks](https://github.com/green-actions/talks)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
+  (1 day ago)
 - [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
-  (5 days ago)
+  (6 days ago)
 - [cucumber/gherkin](https://github.com/cucumber/gherkin) - A parser and compiler for the Gherkin language.
   (1 week ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
   (1 month ago)
 - [zubanls/zuban](https://github.com/zubanls/zuban) - Python Type Checker / Language Server
   (1 month ago)
-- [jolars/panache](https://github.com/jolars/panache) - Language server, formatter, and linter for Markdown, Quarto, and R Markdown
-  (2 months ago)
