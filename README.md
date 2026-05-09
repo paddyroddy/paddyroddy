@@ -15,35 +15,35 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (2 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 days ago)
+  (1 day ago)
 - [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
-  (2 days ago)
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (3 days ago)
 - [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (3 days ago)
+  (4 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (3 days ago)
+  (4 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [gh-1045: bump Array API to `2025.12`](https://github.com/glass-dev/glass/pull/1061) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [gh-1059: remove `uv.lock`](https://github.com/glass-dev/glass/pull/1060) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [Remove Node 20 set](https://github.com/paddyroddy/.github/pull/369) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 days ago)
+  (3 days ago)
 - [Bump node to v20](https://github.com/paddyroddy/.github/pull/368) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 days ago)
+  (3 days ago)
 - [Set `node` version for `markdownlint`](https://github.com/paddyroddy/.github/pull/367) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 days ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
-  (2 days ago)
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
   (3 days ago)
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
+  (4 days ago)
 - [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
   (1 week ago)
 - [cucumber/gherkin](https://github.com/cucumber/gherkin) - A parser and compiler for the Gherkin language.
