@@ -15,24 +15,24 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (2 days ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (3 days ago)
 - [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (5 days ago)
+  (6 days ago)
 - [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
-  (5 days ago)
+  (6 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [gh-1069: fix `ty` warnings and consistent environment](https://github.com/glass-dev/glass/pull/1072) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [Fix tag workflow](https://github.com/UCL-MIRSG/.github/pull/224) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
-- [gh-1066: Pin `ty` in local `pre-commit` hook](https://github.com/glass-dev/glass/pull/1067) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
+- [Fix tag workflow](https://github.com/UCL-MIRSG/.github/pull/224) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (2 days ago)
+- [gh-1066: Pin `ty` in local `pre-commit` hook](https://github.com/glass-dev/glass/pull/1067) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (3 days ago)
 - [gh-1045: bump Array API to `2025.12`](https://github.com/glass-dev/glass/pull/1061) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-1059: remove `uv.lock`](https://github.com/glass-dev/glass/pull/1060) on [glass-dev/glass](https://github.com/glass-dev/glass)
@@ -41,12 +41,12 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### ⭐ Recent Stars
 
 - [mscroggs/rust-intro](https://github.com/mscroggs/rust-intro)
-  (2 days ago)
+  (3 days ago)
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
   (1 week ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
   (1 week ago)
 - [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
-  (1 week ago)
+  (2 weeks ago)
 - [cucumber/gherkin](https://github.com/cucumber/gherkin) - A parser and compiler for the Gherkin language.
   (2 weeks ago)
