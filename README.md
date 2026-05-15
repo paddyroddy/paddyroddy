@@ -14,34 +14,34 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (2 days ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (3 days ago)
-- [UCL-MIRSG/xmigrate](https://github.com/UCL-MIRSG/xmigrate) - A Python package to migrate projects from one XNAT to another
-  (6 days ago)
-- [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
-  (6 days ago)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (today)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
+  (today)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (today)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-1069: fix `ty` warnings and consistent environment](https://github.com/glass-dev/glass/pull/1072) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [Fix tag workflow](https://github.com/UCL-MIRSG/.github/pull/224) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (2 days ago)
-- [gh-1066: Pin `ty` in local `pre-commit` hook](https://github.com/glass-dev/glass/pull/1067) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-1045: bump Array API to `2025.12`](https://github.com/glass-dev/glass/pull/1061) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-1059: remove `uv.lock`](https://github.com/glass-dev/glass/pull/1060) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
+- [Change project permissions](https://github.com/UCL-MIRSG/.github/pull/225) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (today)
+- [Fix permissions](https://github.com/paddyroddy/posters/pull/25) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (today)
+- [Fix permissions](https://github.com/paddyroddy/dotfiles/pull/134) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
+- [Fix permissions](https://github.com/paddyroddy/python-template/pull/208) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (today)
+- [Fix vale permissions](https://github.com/paddyroddy/latex-template/pull/69) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+  (today)
 
 #### ⭐ Recent Stars
 
 - [mscroggs/rust-intro](https://github.com/mscroggs/rust-intro)
-  (3 days ago)
+  (4 days ago)
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
   (1 week ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
