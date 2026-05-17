@@ -15,33 +15,33 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [gh-1074: add `zizmor` to improve GitHub Action security](https://github.com/glass-dev/glass/pull/1075) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-1070: Replace `pre-commit.ci` with manual workflow](https://github.com/glass-dev/glass/pull/1073) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [Enable issues/PRs to project board](https://github.com/paddyroddy/.github/pull/377) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 - [Enable issues/PRs to project board](https://github.com/paddyroddy/paddyroddy.github.io/pull/161) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
+  (2 days ago)
 - [Enable issues/PRs to project board](https://github.com/paddyroddy/blog/pull/20) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [mscroggs/rust-intro](https://github.com/mscroggs/rust-intro)
-  (5 days ago)
+  (6 days ago)
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
   (1 week ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
