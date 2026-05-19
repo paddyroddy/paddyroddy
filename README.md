@@ -14,29 +14,29 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (3 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (today)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (today)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (3 days ago)
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (3 days ago)
+  (today)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (today)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-1074: add `zizmor` to improve GitHub Action security](https://github.com/glass-dev/glass/pull/1075) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-1070: Replace `pre-commit.ci` with manual workflow](https://github.com/glass-dev/glass/pull/1073) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [Enable issues/PRs to project board](https://github.com/paddyroddy/.github/pull/377) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
-- [Enable issues/PRs to project board](https://github.com/paddyroddy/paddyroddy.github.io/pull/161) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (3 days ago)
-- [Enable issues/PRs to project board](https://github.com/paddyroddy/blog/pull/20) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (3 days ago)
+- [gh-1079: format docstrings and markdown with `ruff`](https://github.com/glass-dev/glass/pull/1080) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
+- [Use `ruff` to format markdown files](https://github.com/paddyroddy/python-template/pull/211) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (today)
+- [Use `ruff` to format markdown files](https://github.com/astro-informatics/sleplet/pull/488) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
+- [Remove `blacken-docs` and use `ruff-format`](https://github.com/paddyroddy/.github/pull/378) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [Change org of `vale-action` repo](https://github.com/UCL-ARC/python-tooling/pull/625) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
@@ -45,8 +45,8 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
   (1 week ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
-  (1 week ago)
+  (2 weeks ago)
 - [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
   (2 weeks ago)
 - [cucumber/gherkin](https://github.com/cucumber/gherkin) - A parser and compiler for the Gherkin language.
-  (2 weeks ago)
+  (3 weeks ago)
