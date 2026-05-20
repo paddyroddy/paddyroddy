@@ -14,28 +14,28 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (today)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (today)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (today)
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (today)
+  (1 day ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (today)
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-1076: Use array comparison functions from `array-api-extra`](https://github.com/glass-dev/glass/pull/1083) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-1079: format docstrings and markdown with `ruff`](https://github.com/glass-dev/glass/pull/1080) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (today)
+  (1 day ago)
 - [Use `ruff` to format markdown files](https://github.com/paddyroddy/python-template/pull/211) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (today)
+  (1 day ago)
 - [Use `ruff` to format markdown files](https://github.com/astro-informatics/sleplet/pull/488) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (today)
+  (1 day ago)
 - [Remove `blacken-docs` and use `ruff-format`](https://github.com/paddyroddy/.github/pull/378) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
-- [Change org of `vale-action` repo](https://github.com/UCL-ARC/python-tooling/pull/625) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
   (1 day ago)
 
 #### ⭐ Recent Stars
@@ -43,7 +43,7 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [mscroggs/rust-intro](https://github.com/mscroggs/rust-intro)
   (1 week ago)
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
-  (1 week ago)
+  (2 weeks ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
   (2 weeks ago)
 - [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
