@@ -15,28 +15,28 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (today)
+  (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-1090: move `ty` from `pre-commit` to `nox`](https://github.com/glass-dev/glass/pull/1091) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
 - [gh-1076: Use array comparison functions from `array-api-extra`](https://github.com/glass-dev/glass/pull/1083) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-1079: format docstrings and markdown with `ruff`](https://github.com/glass-dev/glass/pull/1080) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [Use `ruff` to format markdown files](https://github.com/paddyroddy/python-template/pull/211) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (1 day ago)
+  (2 days ago)
 - [Use `ruff` to format markdown files](https://github.com/astro-informatics/sleplet/pull/488) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 day ago)
-- [Remove `blacken-docs` and use `ruff-format`](https://github.com/paddyroddy/.github/pull/378) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
@@ -47,6 +47,6 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
   (2 weeks ago)
 - [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
-  (2 weeks ago)
+  (3 weeks ago)
 - [cucumber/gherkin](https://github.com/cucumber/gherkin) - A parser and compiler for the Gherkin language.
   (3 weeks ago)
