@@ -14,32 +14,34 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (2 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 days ago)
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 days ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (2 days ago)
+  (today)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (today)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-1090: move `ty` from `pre-commit` to `nox`](https://github.com/glass-dev/glass/pull/1091) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Pin to `2.1.17`](https://github.com/paddyroddy/.github/pull/380) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (today)
-- [gh-1076: Use array comparison functions from `array-api-extra`](https://github.com/glass-dev/glass/pull/1083) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-1079: format docstrings and markdown with `ruff`](https://github.com/glass-dev/glass/pull/1080) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [Use `ruff` to format markdown files](https://github.com/paddyroddy/python-template/pull/211) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (2 days ago)
-- [Use `ruff` to format markdown files](https://github.com/astro-informatics/sleplet/pull/488) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (2 days ago)
+- [Add min release age except our actions/hooks](https://github.com/UCL-MIRSG/.github/pull/226) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (today)
+- [Add min release age except our actions/hooks](https://github.com/UCL-ARC/.github/pull/37) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (today)
+- [Add min release age except our actions/hooks](https://github.com/paddyroddy/.github/pull/379) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [`minimumReleaseAge` missing from `pre-commit`](https://github.com/astral-sh/renovate-config/pull/20) on [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config)
+  (today)
 
 #### ⭐ Recent Stars
 
+- [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
+  (today)
 - [mscroggs/rust-intro](https://github.com/mscroggs/rust-intro)
   (1 week ago)
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
@@ -47,6 +49,4 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
   (2 weeks ago)
 - [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
-  (3 weeks ago)
-- [cucumber/gherkin](https://github.com/cucumber/gherkin) - A parser and compiler for the Gherkin language.
   (3 weeks ago)
