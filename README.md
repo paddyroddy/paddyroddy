@@ -14,39 +14,39 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (today)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (today)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (today)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Pin to `2.1.17`](https://github.com/paddyroddy/.github/pull/380) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
+  (1 day ago)
 - [Add min release age except our actions/hooks](https://github.com/UCL-MIRSG/.github/pull/226) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (today)
+  (1 day ago)
 - [Add min release age except our actions/hooks](https://github.com/UCL-ARC/.github/pull/37) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (today)
+  (1 day ago)
 - [Add min release age except our actions/hooks](https://github.com/paddyroddy/.github/pull/379) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
+  (1 day ago)
 - [`minimumReleaseAge` missing from `pre-commit`](https://github.com/astral-sh/renovate-config/pull/20) on [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config)
-  (today)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
+  (1 day ago)
 - [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
-  (today)
+  (1 day ago)
 - [mscroggs/rust-intro](https://github.com/mscroggs/rust-intro)
   (1 week ago)
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
   (2 weeks ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
   (2 weeks ago)
-- [green-actions/green-actions](https://github.com/green-actions/green-actions) - A tool to compute GitHub Actions usage
-  (3 weeks ago)
