@@ -14,36 +14,36 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
   (1 day ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (1 day ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (5 days ago)
+  (6 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (5 days ago)
-- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (5 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Remove initial in my name](https://github.com/paddyroddy/paddyroddy.github.io/pull/164) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
+  (1 day ago)
+- [Remove initial in my name](https://github.com/paddyroddy/blog/pull/21) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
+  (1 day ago)
+- [Create ARC Festival Poster](https://github.com/paddyroddy/posters/pull/27) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (1 day ago)
 - [Pin to `2.1.17`](https://github.com/paddyroddy/.github/pull/380) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (5 days ago)
+  (6 days ago)
 - [Add min release age except our actions/hooks](https://github.com/UCL-MIRSG/.github/pull/226) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (5 days ago)
-- [Add min release age except our actions/hooks](https://github.com/UCL-ARC/.github/pull/37) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (5 days ago)
-- [Add min release age except our actions/hooks](https://github.com/paddyroddy/.github/pull/379) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (5 days ago)
-- [`minimumReleaseAge` missing from `pre-commit`](https://github.com/astral-sh/renovate-config/pull/20) on [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
-  (5 days ago)
+  (6 days ago)
 - [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
-  (5 days ago)
+  (6 days ago)
 - [mscroggs/rust-intro](https://github.com/mscroggs/rust-intro)
   (2 weeks ago)
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
