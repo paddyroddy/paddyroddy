@@ -15,35 +15,35 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (1 day ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (2 days ago)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (2 days ago)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (3 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-690: Drop `3.10` support](https://github.com/glass-dev/glass/pull/1093) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
 - [Remove initial in my name](https://github.com/paddyroddy/paddyroddy.github.io/pull/164) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
+  (2 days ago)
 - [Remove initial in my name](https://github.com/paddyroddy/blog/pull/21) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (1 day ago)
+  (2 days ago)
 - [Create ARC Festival Poster](https://github.com/paddyroddy/posters/pull/27) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (1 day ago)
+  (2 days ago)
 - [Pin to `2.1.17`](https://github.com/paddyroddy/.github/pull/380) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (6 days ago)
-- [Add min release age except our actions/hooks](https://github.com/UCL-MIRSG/.github/pull/226) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (6 days ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
-  (6 days ago)
+  (1 week ago)
 - [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
-  (6 days ago)
+  (1 week ago)
 - [mscroggs/rust-intro](https://github.com/mscroggs/rust-intro)
   (2 weeks ago)
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
