@@ -14,29 +14,29 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (5 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (today)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (today)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (5 days ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (6 days ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 week ago)
+- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [gh-983: fix some `typing` ignores, sort fixtures, tidy typing](https://github.com/glass-dev/glass/pull/1095) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Add `zizmor` brew](https://github.com/paddyroddy/dotfiles/pull/137) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (today)
+- [gh-983: fix some `typing` ignores, sort fixtures, tidy typing](https://github.com/glass-dev/glass/pull/1095) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-983: fix some tying ignore comments](https://github.com/glass-dev/glass/pull/1094) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+  (4 days ago)
 - [gh-690: Drop `3.10` support](https://github.com/glass-dev/glass/pull/1093) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+  (4 days ago)
 - [Remove initial in my name](https://github.com/paddyroddy/paddyroddy.github.io/pull/164) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (5 days ago)
-- [Remove initial in my name](https://github.com/paddyroddy/blog/pull/21) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
@@ -49,4 +49,4 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
   (3 weeks ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
-  (3 weeks ago)
+  (4 weeks ago)
