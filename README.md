@@ -14,29 +14,29 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (today)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (today)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (today)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (6 days ago)
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (6 days ago)
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add `zizmor` brew](https://github.com/paddyroddy/dotfiles/pull/137) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
-- [gh-983: fix some `typing` ignores, sort fixtures, tidy typing](https://github.com/glass-dev/glass/pull/1095) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [Remove J.](https://github.com/paddyroddy/dotfiles/pull/139) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
-- [gh-983: fix some tying ignore comments](https://github.com/glass-dev/glass/pull/1094) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [gh-690: Drop `3.10` support](https://github.com/glass-dev/glass/pull/1093) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
-- [Remove initial in my name](https://github.com/paddyroddy/paddyroddy.github.io/pull/164) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (6 days ago)
+- [Remove J.](https://github.com/paddyroddy/latex-template/pull/71) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
+  (1 day ago)
+- [Remove J.](https://github.com/paddyroddy/.github/pull/382) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Remove J.](https://github.com/paddyroddy/python-template/pull/213) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
+  (1 day ago)
+- [Remove J.](https://github.com/paddyroddy/dotfiles/pull/138) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
@@ -47,6 +47,6 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [mscroggs/rust-intro](https://github.com/mscroggs/rust-intro)
   (3 weeks ago)
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
-  (3 weeks ago)
+  (4 weeks ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
   (4 weeks ago)
