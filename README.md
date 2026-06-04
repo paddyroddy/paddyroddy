@@ -16,26 +16,26 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (today)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
+  (today)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (2 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (2 days ago)
 - [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Remove J.](https://github.com/paddyroddy/dotfiles/pull/139) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [gh-1036: perform spell checking within code files](https://github.com/glass-dev/glass/pull/1108) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
+- [gh-1106: pin `vale` version in action to fix docs check](https://github.com/glass-dev/glass/pull/1107) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
+- [Pin `vale` version](https://github.com/paddyroddy/.github/pull/383) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
+- [gh-1040: change workflows to `ubuntu-slim`](https://github.com/glass-dev/glass/pull/1105) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
-- [Remove J.](https://github.com/paddyroddy/latex-template/pull/71) on [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template)
-  (1 day ago)
-- [Remove J.](https://github.com/paddyroddy/.github/pull/382) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
-- [Remove J.](https://github.com/paddyroddy/python-template/pull/213) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (1 day ago)
-- [Remove J.](https://github.com/paddyroddy/dotfiles/pull/138) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [gh-1103: Release of `v2026.2`](https://github.com/glass-dev/glass/pull/1104) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
 
 #### ⭐ Recent Stars
@@ -49,4 +49,4 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
   (4 weeks ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
-  (4 weeks ago)
+  (1 month ago)
