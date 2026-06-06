@@ -14,29 +14,29 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (1 day ago)
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 day ago)
+  (2 days ago)
 - [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
-  (1 day ago)
-- [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (3 days ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [gh-382: Attempt to port to `ragged`](https://github.com/glass-dev/glass/pull/1109) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-1036: perform spell checking within code files](https://github.com/glass-dev/glass/pull/1108) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [gh-1106: pin `vale` version in action to fix docs check](https://github.com/glass-dev/glass/pull/1107) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
-- [Pin `vale` version](https://github.com/paddyroddy/.github/pull/383) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
-- [gh-1040: change workflows to `ubuntu-slim`](https://github.com/glass-dev/glass/pull/1105) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 days ago)
+- [gh-1036: perform spell checking within code files](https://github.com/glass-dev/glass/pull/1108) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (2 days ago)
+- [gh-1106: pin `vale` version in action to fix docs check](https://github.com/glass-dev/glass/pull/1107) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (2 days ago)
+- [Pin `vale` version](https://github.com/paddyroddy/.github/pull/383) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (2 days ago)
+- [gh-1040: change workflows to `ubuntu-slim`](https://github.com/glass-dev/glass/pull/1105) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
