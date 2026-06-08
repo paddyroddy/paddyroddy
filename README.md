@@ -15,27 +15,27 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 days ago)
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (2 days ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (3 days ago)
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
-- [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
+  (today)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (today)
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
+  (today)
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
   (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Turn off `RedHat.CaseSensitiveTerms`](https://github.com/paddyroddy/talks/pull/180) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (today)
+- [Bump all GitHub Actions to latest semver](https://github.com/UCL-ARC/.github/pull/40) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
+  (today)
+- [Bump all GitHub Actions to latest semver](https://github.com/UCL-MIRSG/.github/pull/227) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (today)
+- [Bump all GitHub Actions to latest semver](https://github.com/paddyroddy/.github/pull/384) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (today)
 - [gh-382: Attempt to port to `ragged`](https://github.com/glass-dev/glass/pull/1109) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-1036: perform spell checking within code files](https://github.com/glass-dev/glass/pull/1108) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-1106: pin `vale` version in action to fix docs check](https://github.com/glass-dev/glass/pull/1107) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [Pin `vale` version](https://github.com/paddyroddy/.github/pull/383) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (3 days ago)
-- [gh-1040: change workflows to `ubuntu-slim`](https://github.com/glass-dev/glass/pull/1105) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (4 days ago)
 
 #### ⭐ Recent Stars
@@ -45,7 +45,7 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
   (2 weeks ago)
 - [mscroggs/rust-intro](https://github.com/mscroggs/rust-intro)
-  (3 weeks ago)
+  (4 weeks ago)
 - [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
   (1 month ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
