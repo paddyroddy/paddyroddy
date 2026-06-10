@@ -14,39 +14,39 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (today)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
   (today)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (today)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 day ago)
-- [UCL-ARC/.github](https://github.com/UCL-ARC/.github) - Default files for all repositories
-  (1 day ago)
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Bump all GitHub Actions to latest semver](https://github.com/UCL-ARC/python-tooling/pull/629) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
+  (today)
+- [gh-1127: `broadcast_shapes` part of Array API &#43; bump `ty`](https://github.com/glass-dev/glass/pull/1128) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
+- [gh-1117: Ensure explicit shapes in `jax.random`](https://github.com/glass-dev/glass/pull/1126) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [Remove exclamation marks manually](https://github.com/paddyroddy/talks/pull/182) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (today)
+  (1 day ago)
 - [Fix actions with `checkout` from other repo](https://github.com/UCL-ARC/.github/pull/41) on [UCL-ARC/.github](https://github.com/UCL-ARC/.github)
-  (today)
-- [Fix actions with `checkout` from other repo](https://github.com/UCL-MIRSG/.github/pull/228) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (today)
-- [Fix actions with `checkout` from other repo](https://github.com/paddyroddy/.github/pull/385) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
-- [Turn off `RedHat.CaseSensitiveTerms`](https://github.com/paddyroddy/talks/pull/180) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [data-apis/array-api-extra](https://github.com/data-apis/array-api-extra) - Extra array functions built on top of the array API standard.
+  (today)
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
   (2 weeks ago)
 - [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
   (2 weeks ago)
 - [mscroggs/rust-intro](https://github.com/mscroggs/rust-intro)
-  (4 weeks ago)
-- [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
   (1 month ago)
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary
+- [wong-hl/git-for-researchers](https://github.com/wong-hl/git-for-researchers) - GitHub pages website with links to useful git resources for researchers
   (1 month ago)
