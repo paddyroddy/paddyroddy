@@ -14,38 +14,38 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (today)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (3 days ago)
-- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
-  (4 days ago)
+  (1 day ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (4 days ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+- [paddyroddy/python-template](https://github.com/paddyroddy/python-template) - Template for python development
   (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Zizmor talk](https://github.com/paddyroddy/talks/pull/183) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (3 days ago)
-- [Swap `mypy` in favour of `ty`](https://github.com/UCL-ARC/python-tooling/pull/630) on [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling)
-  (3 days ago)
-- [Switch from `mypy` to `ty`](https://github.com/paddyroddy/python-template/pull/214) on [paddyroddy/python-template](https://github.com/paddyroddy/python-template)
-  (4 days ago)
-- [Switch from `mypy` to `ty`](https://github.com/astro-informatics/sleplet/pull/489) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (4 days ago)
-- [Switch `mypy` to `ty`](https://github.com/paddyroddy/.github/pull/386) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (4 days ago)
+- [Trust brews](https://github.com/paddyroddy/dotfiles/pull/140) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [Remove TMUX](https://github.com/paddyroddy/.github/pull/389) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Add to list of excluded repos](https://github.com/paddyroddy/.github/pull/388) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Add tag ruleset to protect tags](https://github.com/paddyroddy/.github/pull/387) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
+- [Add tag ruleset to protect tags](https://github.com/UCL-MIRSG/.github/pull/229) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [cloe-org/cloelib](https://github.com/cloe-org/cloelib) - Library of theoretical model predictions for photometric and spectroscopic large-scale structure observables
-  (5 days ago)
+  (6 days ago)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
-  (5 days ago)
+  (6 days ago)
 - [data-apis/array-api-extra](https://github.com/data-apis/array-api-extra) - Extra array functions built on top of the array API standard.
-  (5 days ago)
+  (6 days ago)
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
   (3 weeks ago)
 - [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
