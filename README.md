@@ -15,28 +15,28 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (3 days ago)
+  (4 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (5 days ago)
+  (6 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (5 days ago)
+  (6 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (5 days ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Trust brews](https://github.com/paddyroddy/dotfiles/pull/140) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (5 days ago)
+  (6 days ago)
 - [Remove TMUX](https://github.com/paddyroddy/.github/pull/389) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (5 days ago)
+  (6 days ago)
 - [Add to list of excluded repos](https://github.com/paddyroddy/.github/pull/388) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (5 days ago)
+  (6 days ago)
 - [Add tag ruleset to protect tags](https://github.com/paddyroddy/.github/pull/387) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (5 days ago)
+  (6 days ago)
 - [Add tag ruleset to protect tags](https://github.com/UCL-MIRSG/.github/pull/229) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
@@ -47,6 +47,6 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [data-apis/array-api-extra](https://github.com/data-apis/array-api-extra) - Extra array functions built on top of the array API standard.
   (1 week ago)
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
-  (4 weeks ago)
+  (1 month ago)
 - [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
-  (4 weeks ago)
+  (1 month ago)
