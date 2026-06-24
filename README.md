@@ -15,11 +15,11 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (today)
+  (1 day ago)
 - [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
@@ -41,11 +41,11 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### ⭐ Recent Stars
 
 - [cloe-org/cloelib](https://github.com/cloe-org/cloelib) - Library of theoretical model predictions for photometric and spectroscopic large-scale structure observables
-  (1 week ago)
+  (2 weeks ago)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
-  (1 week ago)
+  (2 weeks ago)
 - [data-apis/array-api-extra](https://github.com/data-apis/array-api-extra) - Extra array functions built on top of the array API standard.
-  (1 week ago)
+  (2 weeks ago)
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
   (1 month ago)
 - [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
