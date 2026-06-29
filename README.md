@@ -14,29 +14,29 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (today)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (today)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (5 days ago)
+  (6 days ago)
 - [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
   (1 week ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 week ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 week ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Quick intro](https://github.com/paddyroddy/talks/pull/184) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (today)
 - [Trust brews](https://github.com/paddyroddy/dotfiles/pull/140) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (1 week ago)
+  (2 weeks ago)
 - [Remove TMUX](https://github.com/paddyroddy/.github/pull/389) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
+  (2 weeks ago)
 - [Add to list of excluded repos](https://github.com/paddyroddy/.github/pull/388) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
+  (2 weeks ago)
 - [Add tag ruleset to protect tags](https://github.com/paddyroddy/.github/pull/387) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 week ago)
-- [Add tag ruleset to protect tags](https://github.com/UCL-MIRSG/.github/pull/229) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 week ago)
+  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
