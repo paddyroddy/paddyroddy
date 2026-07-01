@@ -14,39 +14,39 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (1 day ago)
-- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 week ago)
+  (today)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+  (today)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (today)
+- [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
+  (2 days ago)
 - [astral-sh/renovate-config](https://github.com/astral-sh/renovate-config) - Org-wide Renovate presets
   (1 week ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-1153: Add temporary fix for NumPy in examples](https://github.com/glass-dev/glass/pull/1154) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
+- [Fix 0-dimensional bug for `YHe`](https://github.com/cmbant/CAMB/pull/204) on [cmbant/CAMB](https://github.com/cmbant/CAMB)
+  (today)
 - [Quick intro](https://github.com/paddyroddy/talks/pull/184) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
-  (1 day ago)
+  (2 days ago)
 - [Trust brews](https://github.com/paddyroddy/dotfiles/pull/140) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (2 weeks ago)
 - [Remove TMUX](https://github.com/paddyroddy/.github/pull/389) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 weeks ago)
-- [Add to list of excluded repos](https://github.com/paddyroddy/.github/pull/388) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (2 weeks ago)
-- [Add tag ruleset to protect tags](https://github.com/paddyroddy/.github/pull/387) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling &amp; scraping framework for Python.
-  (1 day ago)
+  (2 days ago)
 - [cloe-org/cloelib](https://github.com/cloe-org/cloelib) - Library of theoretical model predictions for photometric and spectroscopic large-scale structure observables
-  (2 weeks ago)
+  (3 weeks ago)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
-  (2 weeks ago)
+  (3 weeks ago)
 - [data-apis/array-api-extra](https://github.com/data-apis/array-api-extra) - Extra array functions built on top of the array API standard.
-  (2 weeks ago)
+  (3 weeks ago)
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations.
   (1 month ago)
