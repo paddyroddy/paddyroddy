@@ -21,10 +21,11 @@ jobs:
         id: generate-token
         # yamllint disable-line rule:line-length
         uses: actions/create-github-app-token@fee1f7d63c2ff003460e3d139729b119787bc349 # v2
+        env:
+          PRIVATE_KEY: ${{ secrets.README_APP_PRIVATE_KEY }}
         with:
           app-id: ${{ vars.README_APP_ID }}
-          # yamllint disable-line rule:line-length
-          private-key: ${{ secrets.README_APP_PRIVATE_KEY }} # zizmor: ignore[secrets-outside-env]
+          private-key: ${{ env.PRIVATE_KEY }}
           permission-contents: write
 
       - name: Checkout source
