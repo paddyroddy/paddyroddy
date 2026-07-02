@@ -25,6 +25,7 @@ jobs:
           app-id: ${{ vars.README_APP_ID }}
           # yamllint disable-line rule:line-length
           private-key: ${{ secrets.README_APP_PRIVATE_KEY }} # zizmor: ignore[secrets-outside-env]
+          permission-contents: write
 
       - name: Checkout source
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
