@@ -15,38 +15,38 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (today)
+  (1 day ago)
 - [paddyroddy/latex-template](https://github.com/paddyroddy/latex-template) - Template for latex development
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
-  (1 day ago)
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add Copilot Review ruleset](https://github.com/paddyroddy/.github/pull/398) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 - [Revert &#34;Make `copilot-pull-request-reviewer` mandatory&#34;](https://github.com/paddyroddy/.github/pull/397) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (today)
+  (1 day ago)
 - [gh-1155: Pin `array-api-strict` for `2025.12` version](https://github.com/glass-dev/glass/pull/1156) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [Make `copilot-pull-request-reviewer` mandatory](https://github.com/paddyroddy/.github/pull/394) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 - [Fix zizmor ignore statements](https://github.com/UCL-MIRSG/.github/pull/231) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (1 day ago)
-- [Fix remaining `zizmor` ignore statements](https://github.com/UCL-MIRSG/mirsg-template/pull/27) on [UCL-MIRSG/mirsg-template](https://github.com/UCL-MIRSG/mirsg-template)
-  (1 day ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [Millak/guix](https://github.com/Millak/guix) - mirror of GNU Guix
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
   (1 day ago)
+- [Millak/guix](https://github.com/Millak/guix) - mirror of GNU Guix
+  (2 days ago)
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling &amp; scraping framework for Python.
-  (4 days ago)
+  (5 days ago)
 - [cloe-org/cloelib](https://github.com/cloe-org/cloelib) - Library of theoretical model predictions for photometric and spectroscopic large-scale structure observables
   (3 weeks ago)
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
-  (3 weeks ago)
-- [data-apis/array-api-extra](https://github.com/data-apis/array-api-extra) - Extra array functions built on top of the array API standard.
   (3 weeks ago)
