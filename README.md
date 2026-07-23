@@ -15,11 +15,11 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 day ago)
+  (today)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (6 days ago)
+  (1 week ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
@@ -27,26 +27,26 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 🔨 My Recent Pull Requests
 
-- [Brew](https://github.com/paddyroddy/dotfiles/pull/143) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [Add codex](https://github.com/paddyroddy/dotfiles/pull/144) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 day ago)
+- [Brew](https://github.com/paddyroddy/dotfiles/pull/143) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (2 days ago)
 - [Prepare for lazy imports with `__lazy_modules__`](https://github.com/astro-informatics/sleplet/pull/492) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (6 days ago)
-- [gh-1167: Prepare for lazy imports in `3.15`](https://github.com/glass-dev/glass/pull/1168) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [Update `safe-settings` repo name](https://github.com/UCL-MIRSG/.github/pull/233) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 week ago)
-- [Update `safe-settings` repo name](https://github.com/paddyroddy/.github/pull/399) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+- [gh-1167: Prepare for lazy imports in `3.15`](https://github.com/glass-dev/glass/pull/1168) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 week ago)
+- [Update `safe-settings` repo name](https://github.com/UCL-MIRSG/.github/pull/233) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [python-organizers/conferences](https://github.com/python-organizers/conferences) - List of Python Conferences around the World
-  (today)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+- [savannahostrowski/debugwand](https://github.com/savannahostrowski/debugwand) - An *experimental* zero-preparation remote debugger for Python applications running in *local* Kubernetes clusters or Docker containers.
   (1 day ago)
+- [python-organizers/conferences](https://github.com/python-organizers/conferences) - List of Python Conferences around the World
+  (1 day ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+  (2 days ago)
 - [pauleveritt/satyrn-ai](https://github.com/pauleveritt/satyrn-ai)
-  (2 days ago)
+  (3 days ago)
 - [pauleveritt/tainie](https://github.com/pauleveritt/tainie)
-  (2 days ago)
-- [facebook/Lifeguard](https://github.com/facebook/Lifeguard) - Lifeguard is a static analyzer to detect Lazy Imports incompatibilities and ease the adoption overhead for Lazy Imports in Python
-  (5 days ago)
+  (3 days ago)
