@@ -15,38 +15,38 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (4 days ago)
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Fix `human.json` again](https://github.com/paddyroddy/posters/pull/36) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (3 days ago)
+  (4 days ago)
 - [Fix `human.json` again](https://github.com/paddyroddy/blog/pull/31) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (3 days ago)
+  (4 days ago)
 - [Full URL for `human.json`](https://github.com/paddyroddy/posters/pull/35) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (3 days ago)
+  (4 days ago)
 - [Full URL for `human.json`](https://github.com/paddyroddy/blog/pull/30) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (3 days ago)
+  (4 days ago)
 - [Add base URL to fix link checking](https://github.com/paddyroddy/posters/pull/34) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (3 days ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+  (1 day ago)
 - [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
-  (today)
+  (1 day ago)
 - [savannahostrowski/debugwand](https://github.com/savannahostrowski/debugwand) - An *experimental* zero-preparation remote debugger for Python applications running in *local* Kubernetes clusters or Docker containers.
-  (5 days ago)
-- [python-organizers/conferences](https://github.com/python-organizers/conferences) - List of Python Conferences around the World
-  (5 days ago)
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
   (6 days ago)
-- [pauleveritt/satyrn-ai](https://github.com/pauleveritt/satyrn-ai)
+- [python-organizers/conferences](https://github.com/python-organizers/conferences) - List of Python Conferences around the World
+  (6 days ago)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
   (1 week ago)
