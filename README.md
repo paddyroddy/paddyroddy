@@ -14,39 +14,39 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (today)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (4 days ago)
+  (1 day ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
-  (5 days ago)
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (5 days ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-1170: Increase timeout to `25` mins for examples](https://github.com/glass-dev/glass/pull/1171) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
+- [Add `footer=false` to pedantic slide](https://github.com/paddyroddy/talks/pull/192) on [paddyroddy/talks](https://github.com/paddyroddy/talks)
+  (1 day ago)
 - [Fix `human.json` again](https://github.com/paddyroddy/posters/pull/36) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (4 days ago)
+  (5 days ago)
 - [Fix `human.json` again](https://github.com/paddyroddy/blog/pull/31) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (4 days ago)
+  (5 days ago)
 - [Full URL for `human.json`](https://github.com/paddyroddy/posters/pull/35) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (4 days ago)
-- [Full URL for `human.json`](https://github.com/paddyroddy/blog/pull/30) on [paddyroddy/blog](https://github.com/paddyroddy/blog)
-  (4 days ago)
-- [Add base URL to fix link checking](https://github.com/paddyroddy/posters/pull/34) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-  (1 day ago)
+  (2 days ago)
 - [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
-  (1 day ago)
+  (2 days ago)
 - [savannahostrowski/debugwand](https://github.com/savannahostrowski/debugwand) - An *experimental* zero-preparation remote debugger for Python applications running in *local* Kubernetes clusters or Docker containers.
-  (6 days ago)
+  (1 week ago)
 - [python-organizers/conferences](https://github.com/python-organizers/conferences) - List of Python Conferences around the World
-  (6 days ago)
+  (1 week ago)
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
   (1 week ago)
