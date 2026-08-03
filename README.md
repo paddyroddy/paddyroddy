@@ -15,11 +15,11 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (2 days ago)
+  (3 days ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
-  (2 days ago)
+  (3 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (4 days ago)
+  (5 days ago)
 - [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
   (1 week ago)
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
@@ -28,22 +28,22 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 🔨 My Recent Pull Requests
 
 - [gh-1182: Release of `v2026.3`](https://github.com/glass-dev/glass/pull/1183) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-1173: Rename `default_rng` tests](https://github.com/glass-dev/glass/pull/1181) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-930: Make the regressions pass if func is missing on `main`](https://github.com/glass-dev/glass/pull/1180) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-1172: Test to see regression tests run from a fork](https://github.com/glass-dev/glass/pull/1179) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-1172: Allow regression tests to be run from forks](https://github.com/glass-dev/glass/pull/1176) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (3 days ago)
+- [gh-1173: Rename `default_rng` tests](https://github.com/glass-dev/glass/pull/1181) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (3 days ago)
+- [gh-930: Make the regressions pass if func is missing on `main`](https://github.com/glass-dev/glass/pull/1180) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (3 days ago)
+- [gh-1172: Test to see regression tests run from a fork](https://github.com/glass-dev/glass/pull/1179) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (3 days ago)
+- [gh-1172: Allow regression tests to be run from forks](https://github.com/glass-dev/glass/pull/1176) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-  (6 days ago)
+  (1 week ago)
 - [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
-  (6 days ago)
+  (1 week ago)
 - [savannahostrowski/debugwand](https://github.com/savannahostrowski/debugwand) - An *experimental* zero-preparation remote debugger for Python applications running in *local* Kubernetes clusters or Docker containers.
   (1 week ago)
 - [python-organizers/conferences](https://github.com/python-organizers/conferences) - List of Python Conferences around the World
