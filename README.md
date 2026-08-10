@@ -14,16 +14,16 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 week ago)
+- [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
+  (today)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (1 day ago)
+- [paddyroddy/adr-tree-surgery-website](https://github.com/paddyroddy/adr-tree-surgery-website) - A.D.R Tree Surgery website
+  (1 day ago)
 - [paddyroddy/talks](https://github.com/paddyroddy/talks) - A series of talks I&#39;ve given
   (1 week ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 week ago)
-- [paddyroddy/blog](https://github.com/paddyroddy/blog) - A series of blogs I&#39;ve written
-  (2 weeks ago)
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
@@ -41,9 +41,9 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### ⭐ Recent Stars
 
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-  (1 week ago)
+  (2 weeks ago)
 - [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
-  (1 week ago)
+  (2 weeks ago)
 - [savannahostrowski/debugwand](https://github.com/savannahostrowski/debugwand) - An *experimental* zero-preparation remote debugger for Python applications running in *local* Kubernetes clusters or Docker containers.
   (2 weeks ago)
 - [python-organizers/conferences](https://github.com/python-organizers/conferences) - List of Python Conferences around the World
