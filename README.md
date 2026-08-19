@@ -15,7 +15,7 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (6 days ago)
+  (1 week ago)
 - [paddyroddy/phd-thesis](https://github.com/paddyroddy/phd-thesis) - Slepian Wavelets for the Analysis of Incomplete Manifolds
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
@@ -45,8 +45,8 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
   (3 weeks ago)
 - [savannahostrowski/debugwand](https://github.com/savannahostrowski/debugwand) - An *experimental* zero-preparation remote debugger for Python applications running in *local* Kubernetes clusters or Docker containers.
-  (3 weeks ago)
+  (4 weeks ago)
 - [python-organizers/conferences](https://github.com/python-organizers/conferences) - List of Python Conferences around the World
-  (3 weeks ago)
+  (4 weeks ago)
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
   (4 weeks ago)
