@@ -36,7 +36,7 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [gh-1172: Test to see regression tests run from a fork](https://github.com/glass-dev/glass/pull/1179) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 weeks ago)
 - [gh-1172: Allow regression tests to be run from forks](https://github.com/glass-dev/glass/pull/1176) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 weeks ago)
+  (3 weeks ago)
 
 #### ⭐ Recent Stars
 
@@ -49,4 +49,4 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [python-organizers/conferences](https://github.com/python-organizers/conferences) - List of Python Conferences around the World
   (4 weeks ago)
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-  (4 weeks ago)
+  (1 month ago)
