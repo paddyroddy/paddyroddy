@@ -14,39 +14,39 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
-  (today)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (today)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (today)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 day ago)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (1 week ago)
+- [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
+  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 day ago)
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (2 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update casks](https://github.com/paddyroddy/dotfiles/pull/145) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
+- [gh-1203: Bump `array-api-extra` to `v0.11.1`](https://github.com/glass-dev/glass/pull/1204) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-1201: Remove NumPy upper bound pin](https://github.com/glass-dev/glass/pull/1202) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (today)
+  (1 day ago)
 - [gh-1199: Add new lines in TOML inline tables](https://github.com/glass-dev/glass/pull/1200) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (today)
+  (1 day ago)
 - [gh-1197: Remove `toml-sort` hack for `first`](https://github.com/glass-dev/glass/pull/1198) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (today)
-- [gh-1194: Prepare for `2026.4` release](https://github.com/glass-dev/glass/pull/1195) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (today)
-- [gh-1191: Fix the release workflow image](https://github.com/glass-dev/glass/pull/1193) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android)
-  (today)
-- [sane-apps/SaneBar](https://github.com/sane-apps/SaneBar) - The privacy-first menu bar manager for macOS. Now 100% free and open source (MIT) — every feature unlocked. Native, lightweight, and scriptable.
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
   (1 day ago)
+- [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android)
+  (1 day ago)
+- [sane-apps/SaneBar](https://github.com/sane-apps/SaneBar) - The privacy-first menu bar manager for macOS. Now 100% free and open source (MIT) — every feature unlocked. Native, lightweight, and scriptable.
+  (2 days ago)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
   (1 month ago)
 - [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
-  (1 month ago)
-- [savannahostrowski/debugwand](https://github.com/savannahostrowski/debugwand) - An *experimental* zero-preparation remote debugger for Python applications running in *local* Kubernetes clusters or Docker containers.
   (1 month ago)
