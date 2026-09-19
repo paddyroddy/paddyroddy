@@ -14,39 +14,39 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (today)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (2 days ago)
+  (1 day ago)
 - [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
-  (2 days ago)
+  (3 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (2 days ago)
-- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (3 days ago)
+- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (3 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Ensure downloaded posters aren&#39;t called `index.pdf`](https://github.com/paddyroddy/posters/pull/37) on [paddyroddy/posters](https://github.com/paddyroddy/posters)
+  (1 day ago)
 - [Add `just`](https://github.com/paddyroddy/dotfiles/pull/146) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
+  (1 day ago)
 - [Embrace KYAML](https://github.com/paddyroddy/.github/pull/402) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 - [Embrace KYAML for YAML files](https://github.com/paddyroddy/.github/pull/401) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
-  (1 day ago)
+  (2 days ago)
 - [Update casks](https://github.com/paddyroddy/dotfiles/pull/145) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (2 days ago)
-- [gh-1203: Bump `array-api-extra` to `v0.11.1`](https://github.com/glass-dev/glass/pull/1204) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
+- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi resolves — and answers in O(1). Every language runs its own tree-sitter grammar into the same query map.
+  (1 day ago)
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
-  (2 days ago)
-- [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android)
-  (2 days ago)
-- [sane-apps/SaneBar](https://github.com/sane-apps/SaneBar) - The privacy-first menu bar manager for macOS. Now 100% free and open source (MIT) — every feature unlocked. Native, lightweight, and scriptable.
   (3 days ago)
+- [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android)
+  (3 days ago)
+- [sane-apps/SaneBar](https://github.com/sane-apps/SaneBar) - The privacy-first menu bar manager for macOS. Now 100% free and open source (MIT) — every feature unlocked. Native, lightweight, and scriptable.
+  (4 days ago)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-  (1 month ago)
-- [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
   (1 month ago)
