@@ -15,11 +15,11 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
-  (2 days ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (3 days ago)
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (4 days ago)
+- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
+  (5 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
@@ -27,21 +27,21 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-1224: Enable and then fix all `ty` rules](https://github.com/glass-dev/glass/pull/1225) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (1 day ago)
 - [gh-1174: Use `sentinel` type for missing valuess](https://github.com/glass-dev/glass/pull/1223) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [gh-981: Remove `inplace` calls from `glass.healpix`](https://github.com/glass-dev/glass/pull/1220) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [gh-892: Test `positions_from_delta` with `loglinear_bias`](https://github.com/glass-dev/glass/pull/1219) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
+  (4 days ago)
 - [gh-1149: Skip test_cls2cov_no_jax for JAX](https://github.com/glass-dev/glass/pull/1218) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-1210: Remove `shear_from_convergence` function](https://github.com/glass-dev/glass/pull/1217) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-  (today)
+  (1 day ago)
 - [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi resolves — and answers in O(1). Every language runs its own tree-sitter grammar into the same query map.
   (1 week ago)
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
