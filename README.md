@@ -14,39 +14,39 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
-  (6 days ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 day ago)
+- [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
   (1 week ago)
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
   (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [gh-893: Add docstring to explain difference for `cls2cov`](https://github.com/glass-dev/glass/pull/1227) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (today)
+  (1 day ago)
 - [gh-618: Fix `matplotlib` config and use `retina` format](https://github.com/glass-dev/glass/pull/1226) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (today)
+  (1 day ago)
 - [gh-1224: Enable and then fix all `ty` rules](https://github.com/glass-dev/glass/pull/1225) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 - [gh-1174: Use `sentinel` type for missing values](https://github.com/glass-dev/glass/pull/1223) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
+  (1 week ago)
 - [gh-981: Remove `inplace` calls from `glass.healpix`](https://github.com/glass-dev/glass/pull/1220) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-  (4 days ago)
-- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi is compiler-backed code intelligence (Agent&#43;MCP). Claude Code greps; Cursor embeds; Aider maps signatures; Benzi resolves — and answers in O(1). Every language runs its own tree-sitter grammar into the same query map.
+  (5 days ago)
+- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - A compiler-backed AI coding agent (MCP compatible). Claude Code greps; Cursor embeds; Aider maps signatures; Benzi resolves -- and answers in O(1). Every language runs its own tree-sitter grammar into the same query map.
   (1 week ago)
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
-  (1 week ago)
+  (2 weeks ago)
 - [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android)
-  (1 week ago)
+  (2 weeks ago)
 - [sane-apps/SaneBar](https://github.com/sane-apps/SaneBar) - The privacy-first menu bar manager for macOS. Now 100% free and open source (MIT) — every feature unlocked. Native, lightweight, and scriptable.
   (2 weeks ago)
