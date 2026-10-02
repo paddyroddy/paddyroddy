@@ -21,29 +21,29 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
   (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (1 week ago)
+  (2 weeks ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-1077: Spherical hard switch using S2FFT with SHT wrappers](https://github.com/glass-dev/glass/pull/1232) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
 - [gh-893: Add docstring to explain difference for `cls2cov`](https://github.com/glass-dev/glass/pull/1227) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [gh-618: Fix `matplotlib` config and use `retina` format](https://github.com/glass-dev/glass/pull/1226) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [gh-1224: Enable and then fix all `ty` rules](https://github.com/glass-dev/glass/pull/1225) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [gh-1174: Use `sentinel` type for missing values](https://github.com/glass-dev/glass/pull/1223) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
-- [gh-981: Remove `inplace` calls from `glass.healpix`](https://github.com/glass-dev/glass/pull/1220) on [glass-dev/glass](https://github.com/glass-dev/glass)
+- [gh-1174: Use `sentinel` type for missing values](https://github.com/glass-dev/glass/pull/1223) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-  (6 days ago)
-- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi is a compiler-backed AI coding agent. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi resolves -- and answers in O(1). Every language runs its own tree-sitter grammar into the same query map. (Benzi compiler exposed over MCP)
   (1 week ago)
+- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi is a compiler-backed AI coding agent. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi resolves -- and answers in O(1). Every language runs its own tree-sitter grammar into the same query map. (Benzi compiler exposed over MCP)
+  (2 weeks ago)
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
   (2 weeks ago)
 - [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android)
