@@ -15,7 +15,7 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
+  (2 days ago)
 - [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
   (1 week ago)
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
@@ -28,11 +28,11 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 🔨 My Recent Pull Requests
 
 - [gh-1077: Spherical hard switch using S2FFT with SHT wrappers](https://github.com/glass-dev/glass/pull/1232) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-893: Add docstring to explain difference for `cls2cov`](https://github.com/glass-dev/glass/pull/1227) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 - [gh-618: Fix `matplotlib` config and use `retina` format](https://github.com/glass-dev/glass/pull/1226) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (4 days ago)
+  (5 days ago)
 - [gh-1224: Enable and then fix all `ty` rules](https://github.com/glass-dev/glass/pull/1225) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-1174: Use `sentinel` type for missing values](https://github.com/glass-dev/glass/pull/1223) on [glass-dev/glass](https://github.com/glass-dev/glass)
