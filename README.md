@@ -14,39 +14,39 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 day ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (3 days ago)
+  (today)
+- [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
+  (2 days ago)
 - [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
   (1 week ago)
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
   (2 weeks ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-1233: Make 64 bit JAX fixture and be consitent with fixtures](https://github.com/glass-dev/glass/pull/1240) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
+- [gh-1238: Move all `importlib.util` lines to their own file](https://github.com/glass-dev/glass/pull/1239) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
+- [Fix unable to use # symbol bug](https://github.com/paddyroddy/dotfiles/pull/147) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
+- [gh-1235: Tidy up RNG fixtures](https://github.com/glass-dev/glass/pull/1236) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
 - [Update HM PB](https://github.com/paddyroddy/paddyroddy.github.io/pull/173) on [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io)
-  (1 day ago)
-- [gh-1077: Spherical hard switch using S2FFT with SHT wrappers](https://github.com/glass-dev/glass/pull/1232) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (3 days ago)
-- [gh-893: Add docstring to explain difference for `cls2cov`](https://github.com/glass-dev/glass/pull/1227) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [gh-618: Fix `matplotlib` config and use `retina` format](https://github.com/glass-dev/glass/pull/1226) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (6 days ago)
-- [gh-1224: Enable and then fix all `ty` rules](https://github.com/glass-dev/glass/pull/1225) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
   (1 week ago)
-- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi is a compiler-backed coding agent that compiles your codebase into a resolved, queryable map of calls, data flow, control flow and class hierarchy first; then it reads, explains, runs, edits and verifies your code using it. Includes a runtime tracer that settles what static analysis can&#39;t. The Benzi compiler also works as an MCP server.
+- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi is a compiler-backed coding agent that compiles your codebase into a resolved, queryable map of calls, data flow, and control flow first; then it explains, runs, edits and verifies your code using it. Includes a runtime tracer that settles what static analysis can&#39;t. The Benzi compiler also works as an MCP server.
   (2 weeks ago)
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
   (2 weeks ago)
 - [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android)
   (2 weeks ago)
 - [sane-apps/SaneBar](https://github.com/sane-apps/SaneBar) - The privacy-first menu bar manager for macOS. Now 100% free and open source (MIT) — every feature unlocked. Native, lightweight, and scriptable.
-  (2 weeks ago)
+  (3 weeks ago)
