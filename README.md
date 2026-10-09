@@ -15,11 +15,11 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (2 days ago)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (3 days ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (4 days ago)
+  (5 days ago)
 - [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
   (2 weeks ago)
 - [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
@@ -27,23 +27,23 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-1247: Check the the `ARRAY_BACKEND` variable is working](https://github.com/glass-dev/glass/pull/1252) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
 - [gh-1243: Remove unused `healpix`/`healpy` wrappers](https://github.com/glass-dev/glass/pull/1245) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-794: Create wrapper for harmonic transforms](https://github.com/glass-dev/glass/pull/1242) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [gh-1233: Make 64 bit JAX fixture and be consitent with fixtures](https://github.com/glass-dev/glass/pull/1240) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [gh-1238: Move all `importlib.util` lines to their own file](https://github.com/glass-dev/glass/pull/1239) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [Fix unable to use # symbol bug](https://github.com/paddyroddy/dotfiles/pull/147) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (2 days ago)
+  (3 days ago)
 
 #### ⭐ Recent Stars
 
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-  (1 week ago)
-- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Compiler-backed coding agent that compiles your codebase into a resolved, queryable map of calls, data flow, and control flow first; then it explains, runs, edits and verifies your code using it. Includes a runtime tracer that settles what static analysis can&#39;t. The Benzi compiler also works as an MCP server.
   (2 weeks ago)
+- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Compiler-backed coding agent that compiles your codebase into a resolved, queryable map of calls, data flow, and control flow first; then it explains, runs, edits and verifies your code using it. Includes a runtime tracer that settles what static analysis can&#39;t. The Benzi compiler also works as an MCP server.
+  (3 weeks ago)
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
   (3 weeks ago)
 - [freeotp/freeotp-android](https://github.com/freeotp/freeotp-android)
