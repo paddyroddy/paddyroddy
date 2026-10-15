@@ -14,34 +14,34 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (1 day ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (1 day ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (1 week ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
   (1 week ago)
-- [conda-forge/glass-feedstock](https://github.com/conda-forge/glass-feedstock) - A conda-smithy repository for glass.
-  (3 weeks ago)
-- [paddyroddy/posters](https://github.com/paddyroddy/posters) - A series of posters I&#39;ve presented
-  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [gh-1258: Create NumPy fixture for testing](https://github.com/glass-dev/glass/pull/1259) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (today)
+- [Bump Safe-Settings to v3](https://github.com/UCL-MIRSG/.github/pull/238) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (1 day ago)
 - [gh-1253: Add Python 3.15 support](https://github.com/glass-dev/glass/pull/1254) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
+  (3 days ago)
 - [gh-1247: Check the the `ARRAY_BACKEND` variable is working](https://github.com/glass-dev/glass/pull/1252) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
+  (6 days ago)
 - [gh-1243: Remove unused `healpix`/`healpy` wrappers](https://github.com/glass-dev/glass/pull/1245) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-794: Create wrapper for harmonic transforms](https://github.com/glass-dev/glass/pull/1242) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
-- [gh-1233: Make 64 bit JAX fixture and be consitent with fixtures](https://github.com/glass-dev/glass/pull/1240) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
-  (2 days ago)
+  (3 days ago)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
   (2 weeks ago)
 - [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Compiler-backed coding agent that compiles your codebase into a resolved, queryable map of calls, data flow, control flow, and class hierarchy first; then it reads, explains, runs, edits and verifies your code using it. Includes a runtime tracer that settles what static analysis can&#39;t. The Benzi compiler also works as an MCP server.
