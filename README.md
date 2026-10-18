@@ -15,38 +15,38 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (1 day ago)
+  (2 days ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (3 days ago)
+  (4 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
   (1 week ago)
 - [paddyroddy/paddyroddy.github.io](https://github.com/paddyroddy/paddyroddy.github.io) - Personal website
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [gh-1256: Prepare for `2026.5` release](https://github.com/glass-dev/glass/pull/1266) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 day ago)
+  (2 days ago)
 - [gh-1264: Reuse `nox` environments to speed up linting workflow](https://github.com/glass-dev/glass/pull/1265) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [gh-1258: Create NumPy fixture for testing](https://github.com/glass-dev/glass/pull/1259) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (2 days ago)
-- [Bump Safe-Settings to v3](https://github.com/UCL-MIRSG/.github/pull/238) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
   (3 days ago)
+- [gh-1258: Create NumPy fixture for testing](https://github.com/glass-dev/glass/pull/1259) on [glass-dev/glass](https://github.com/glass-dev/glass)
+  (3 days ago)
+- [Bump Safe-Settings to v3](https://github.com/UCL-MIRSG/.github/pull/238) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (4 days ago)
 - [gh-1253: Add Python 3.15 support](https://github.com/glass-dev/glass/pull/1254) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [remenoscodes/git-native-issue](https://github.com/remenoscodes/git-native-issue) - Distributed issue tracking embedded in Git — track issues locally, sync anywhere, no server required
-  (1 day ago)
+  (2 days ago)
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
-  (5 days ago)
+  (6 days ago)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
   (3 weeks ago)
-- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Most coding agents grep and glob raw source into LLM&#39;s context window and hope the model is smart. Benzi compiles your codebase into a map of calls, data flow, control flow and class hierarchy first, then reads, explains, runs, edits and verifies from it. 82.4% SWE-bench Verified pass@1 for &lt; $13.
-  (4 weeks ago)
+- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Most coding agents grep and glob raw source into LLM&#39;s context window and hope the model is smart. Benzi compiles your codebase into a queryable map of calls, data flow, control flow and class hierarchy first; then it reads, explains, runs, edits and verifies your code using it. Includes a runtime tracer. 82.4% SWE-bench Verified for &lt; $13.
+  (1 month ago)
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
   (1 month ago)
