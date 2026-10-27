@@ -15,11 +15,11 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+  (4 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (5 days ago)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
   (6 days ago)
+- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
+  (1 week ago)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
@@ -28,9 +28,9 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 🔨 My Recent Pull Requests
 
 - [Speedup dotfiles with codex](https://github.com/paddyroddy/dotfiles/pull/148) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
+  (4 days ago)
 - [Add helm chart and minikube script](https://github.com/UCL-ARC/CapX/pull/2) on [UCL-ARC/CapX](https://github.com/UCL-ARC/CapX)
-  (5 days ago)
+  (6 days ago)
 - [gh-1269: Fix JAX `multinomial` for `0.12.0`](https://github.com/glass-dev/glass/pull/1270) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-1256: Prepare for `2026.5` release](https://github.com/glass-dev/glass/pull/1266) on [glass-dev/glass](https://github.com/glass-dev/glass)
