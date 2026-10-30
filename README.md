@@ -15,7 +15,7 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (6 days ago)
+  (1 week ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (1 week ago)
 - [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
@@ -28,20 +28,20 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 🔨 My Recent Pull Requests
 
 - [Speedup dotfiles with codex](https://github.com/paddyroddy/dotfiles/pull/148) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (6 days ago)
+  (1 week ago)
 - [Add helm chart and minikube script](https://github.com/UCL-ARC/CapX/pull/2) on [UCL-ARC/CapX](https://github.com/UCL-ARC/CapX)
   (1 week ago)
 - [gh-1269: Fix JAX `multinomial` for `0.12.0`](https://github.com/glass-dev/glass/pull/1270) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (1 week ago)
 - [gh-1256: Prepare for `2026.5` release](https://github.com/glass-dev/glass/pull/1266) on [glass-dev/glass](https://github.com/glass-dev/glass)
-  (1 week ago)
+  (2 weeks ago)
 - [gh-1264: Reuse `nox` environments to speed up linting workflow](https://github.com/glass-dev/glass/pull/1265) on [glass-dev/glass](https://github.com/glass-dev/glass)
   (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [remenoscodes/git-native-issue](https://github.com/remenoscodes/git-native-issue) - Distributed issue tracking embedded in Git — track issues locally, sync anywhere, no server required
-  (1 week ago)
+  (2 weeks ago)
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
   (2 weeks ago)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
