@@ -46,7 +46,7 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
   (2 weeks ago)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
   (1 month ago)
-- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi is code intelligence infrastructure for AI models. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi resolves — and answers in O(1). Every language runs its own tree-sitter grammar into the same query map. Includes a runtime tracer | 82.4% SWE-bench Verified for &lt; $13 | Compiler also exposed over MCP
+- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi is code intelligence infrastructure for AI models. It compiles your codebase into a resolved, queryable map of calls, data flow, control flow and class hierarchy first; then it reads, explains, runs, edits and verifies your code using it. Every language runs its own tree-sitter grammar into the same query map.
   (1 month ago)
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
   (1 month ago)
