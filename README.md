@@ -14,23 +14,23 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
+- [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
+  (today)
+- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
+  (today)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (today)
+- [UCL-MIRSG/docs](https://github.com/UCL-MIRSG/docs) - Public facing documentation for MIRSG and our services
+  (today)
 - [UCL-MIRSG/azure-mail](https://github.com/UCL-MIRSG/azure-mail) - A Python package for sending emails in Office 365 via an Azure app
-  (today)
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (today)
-- [glass-dev/glass](https://github.com/glass-dev/glass) - Generator for Large Scale Structure
-  (today)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (1 week ago)
+  (1 day ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Disable MD060](https://github.com/UCL-MIRSG/.github/pull/240) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (today)
+  (1 day ago)
 - [Add curl](https://github.com/paddyroddy/dotfiles/pull/149) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
+  (1 day ago)
 - [Speedup dotfiles with codex](https://github.com/paddyroddy/dotfiles/pull/148) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 week ago)
 - [Add helm chart and minikube script](https://github.com/UCL-ARC/CapX/pull/2) on [UCL-ARC/CapX](https://github.com/UCL-ARC/CapX)
@@ -41,7 +41,7 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### ⭐ Recent Stars
 
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-  (today)
+  (1 day ago)
 - [remenoscodes/git-native-issue](https://github.com/remenoscodes/git-native-issue) - Distributed issue tracking embedded in Git — track issues locally, sync anywhere, no server required
   (2 weeks ago)
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
