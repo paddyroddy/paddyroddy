@@ -14,29 +14,29 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (6 days ago)
+  (today)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (today)
 - [UCL-MIRSG/docs](https://github.com/UCL-MIRSG/docs) - Public facing documentation for MIRSG and our services
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Change runner from `ubuntu-slim` to `ubuntu-latest`](https://github.com/astro-informatics/sleplet/pull/499) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
+- [Extensions](https://github.com/paddyroddy/dotfiles/pull/154) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
+- [Add file scan exclusions](https://github.com/paddyroddy/dotfiles/pull/153) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
 - [Integrate with UCL SSO](https://github.com/UCL-ARC/CapX/pull/6) on [UCL-ARC/CapX](https://github.com/UCL-ARC/CapX)
-  (3 days ago)
+  (4 days ago)
 - [Auto install extensions](https://github.com/paddyroddy/dotfiles/pull/152) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
-- [Add secure-pipes and zed casks](https://github.com/paddyroddy/dotfiles/pull/151) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
-- [Backup the database](https://github.com/UCL-ARC/CapX/pull/4) on [UCL-ARC/CapX](https://github.com/UCL-ARC/CapX)
-  (3 days ago)
-- [Add Zed config](https://github.com/paddyroddy/dotfiles/pull/150) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (5 days ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
