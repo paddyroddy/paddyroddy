@@ -15,9 +15,9 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (today)
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (today)
+  (1 day ago)
 - [UCL-MIRSG/docs](https://github.com/UCL-MIRSG/docs) - Public facing documentation for MIRSG and our services
   (1 week ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
@@ -28,15 +28,15 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 🔨 My Recent Pull Requests
 
 - [Change runner from `ubuntu-slim` to `ubuntu-latest`](https://github.com/astro-informatics/sleplet/pull/499) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (today)
+  (1 day ago)
 - [Extensions](https://github.com/paddyroddy/dotfiles/pull/154) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
+  (1 day ago)
 - [Add file scan exclusions](https://github.com/paddyroddy/dotfiles/pull/153) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (today)
+  (1 day ago)
 - [Integrate with UCL SSO](https://github.com/UCL-ARC/CapX/pull/6) on [UCL-ARC/CapX](https://github.com/UCL-ARC/CapX)
-  (4 days ago)
+  (5 days ago)
 - [Auto install extensions](https://github.com/paddyroddy/dotfiles/pull/152) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (4 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
@@ -45,7 +45,7 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [remenoscodes/git-native-issue](https://github.com/remenoscodes/git-native-issue) - Distributed issue tracking embedded in Git — track issues locally, sync anywhere, no server required
   (3 weeks ago)
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
-  (4 weeks ago)
+  (1 month ago)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
   (1 month ago)
 - [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi is code intelligence infrastructure for AI models. It compiles your codebase into a resolved, queryable map of calls, data flow, control flow and class hierarchy first; then it reads, explains, runs, edits and verifies your code using it. Every language runs its own tree-sitter grammar into the same query map.
