@@ -15,35 +15,35 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (2 days ago)
+  (today)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
-- [UCL-MIRSG/docs](https://github.com/UCL-MIRSG/docs) - Public facing documentation for MIRSG and our services
-  (1 week ago)
+  (3 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 week ago)
 - [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
   (1 week ago)
+- [UCL-MIRSG/docs](https://github.com/UCL-MIRSG/docs) - Public facing documentation for MIRSG and our services
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Bump Python to 3.15](https://github.com/astro-informatics/sleplet/pull/500) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
+  (today)
 - [Change runner from `ubuntu-slim` to `ubuntu-latest`](https://github.com/astro-informatics/sleplet/pull/499) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (2 days ago)
+  (3 days ago)
 - [Extensions](https://github.com/paddyroddy/dotfiles/pull/154) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (2 days ago)
+  (3 days ago)
 - [Add file scan exclusions](https://github.com/paddyroddy/dotfiles/pull/153) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (2 days ago)
+  (3 days ago)
 - [Integrate with UCL SSO](https://github.com/UCL-ARC/CapX/pull/6) on [UCL-ARC/CapX](https://github.com/UCL-ARC/CapX)
-  (6 days ago)
-- [Auto install extensions](https://github.com/paddyroddy/dotfiles/pull/152) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (6 days ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
   (1 week ago)
 - [remenoscodes/git-native-issue](https://github.com/remenoscodes/git-native-issue) - Distributed issue tracking embedded in Git — track issues locally, sync anywhere, no server required
-  (3 weeks ago)
+  (4 weeks ago)
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
   (1 month ago)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
