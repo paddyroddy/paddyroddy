@@ -15,9 +15,9 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (today)
+  (1 day ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+  (4 days ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (1 week ago)
 - [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
@@ -28,13 +28,13 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 🔨 My Recent Pull Requests
 
 - [Bump Python to 3.15](https://github.com/astro-informatics/sleplet/pull/500) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (today)
+  (1 day ago)
 - [Change runner from `ubuntu-slim` to `ubuntu-latest`](https://github.com/astro-informatics/sleplet/pull/499) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (3 days ago)
+  (4 days ago)
 - [Extensions](https://github.com/paddyroddy/dotfiles/pull/154) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
+  (4 days ago)
 - [Add file scan exclusions](https://github.com/paddyroddy/dotfiles/pull/153) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
+  (4 days ago)
 - [Integrate with UCL SSO](https://github.com/UCL-ARC/CapX/pull/6) on [UCL-ARC/CapX](https://github.com/UCL-ARC/CapX)
   (1 week ago)
 
