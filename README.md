@@ -15,27 +15,27 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
+  (today)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (5 days ago)
-- [UCL-MIRSG/docs](https://github.com/UCL-MIRSG/docs) - Public facing documentation for MIRSG and our services
+  (6 days ago)
+- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
   (2 weeks ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (2 weeks ago)
-- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
+- [UCL-MIRSG/docs](https://github.com/UCL-MIRSG/docs) - Public facing documentation for MIRSG and our services
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add .vscode to ignored files in settings.json](https://github.com/paddyroddy/dotfiles/pull/157) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (today)
 - [Remove vscode line removal from update script](https://github.com/paddyroddy/dotfiles/pull/156) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (2 days ago)
+  (3 days ago)
 - [Remove visual-studio-code from Brewfile](https://github.com/paddyroddy/dotfiles/pull/155) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (2 days ago)
+  (3 days ago)
 - [Bump Python to 3.15](https://github.com/astro-informatics/sleplet/pull/500) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (5 days ago)
+  (6 days ago)
 - [Change runner from `ubuntu-slim` to `ubuntu-latest`](https://github.com/astro-informatics/sleplet/pull/499) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (1 week ago)
-- [Extensions](https://github.com/paddyroddy/dotfiles/pull/154) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 week ago)
 
 #### ⭐ Recent Stars
