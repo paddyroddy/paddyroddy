@@ -14,28 +14,28 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+- [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
   (today)
+- [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
+  (1 day ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
-  (6 days ago)
+  (1 week ago)
 - [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
   (2 weeks ago)
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
   (2 weeks ago)
-- [UCL-MIRSG/docs](https://github.com/UCL-MIRSG/docs) - Public facing documentation for MIRSG and our services
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add .vscode to ignored files in settings.json](https://github.com/paddyroddy/dotfiles/pull/157) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+- [Add dockerfile extension to auto install settings](https://github.com/paddyroddy/dotfiles/pull/158) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (today)
+- [Add .vscode to ignored files in settings.json](https://github.com/paddyroddy/dotfiles/pull/157) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (1 day ago)
 - [Remove vscode line removal from update script](https://github.com/paddyroddy/dotfiles/pull/156) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
+  (4 days ago)
 - [Remove visual-studio-code from Brewfile](https://github.com/paddyroddy/dotfiles/pull/155) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
+  (4 days ago)
 - [Bump Python to 3.15](https://github.com/astro-informatics/sleplet/pull/500) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
-  (6 days ago)
-- [Change runner from `ubuntu-slim` to `ubuntu-latest`](https://github.com/astro-informatics/sleplet/pull/499) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 week ago)
 
 #### ⭐ Recent Stars
