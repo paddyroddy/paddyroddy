@@ -14,34 +14,34 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 
 #### 👷 Explore My Current Projects
 
-- [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
-  (2 days ago)
+- [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
+  (today)
 - [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
-  (2 days ago)
+  (1 day ago)
+- [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
+  (3 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (2 days ago)
+  (3 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 week ago)
-- [UCL-MIRSG/drc-containers](https://github.com/UCL-MIRSG/drc-containers) - Custom DRC containers for use with the XNAT container service
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Remove actionlint hook from mirsg-hooks.yaml](https://github.com/UCL-MIRSG/.github/pull/243) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
+  (today)
+- [Remove actionlint hook](https://github.com/paddyroddy/.github/pull/415) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (1 day ago)
 - [Add dockerfile extension to auto install settings](https://github.com/paddyroddy/dotfiles/pull/158) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (2 days ago)
-- [Add .vscode to ignored files in settings.json](https://github.com/paddyroddy/dotfiles/pull/157) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (3 days ago)
+- [Add .vscode to ignored files in settings.json](https://github.com/paddyroddy/dotfiles/pull/157) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (4 days ago)
 - [Remove vscode line removal from update script](https://github.com/paddyroddy/dotfiles/pull/156) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (6 days ago)
-- [Remove visual-studio-code from Brewfile](https://github.com/paddyroddy/dotfiles/pull/155) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (6 days ago)
-- [Bump Python to 3.15](https://github.com/astro-informatics/sleplet/pull/500) on [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-  (2 weeks ago)
+  (3 weeks ago)
 - [remenoscodes/git-native-issue](https://github.com/remenoscodes/git-native-issue) - Distributed issue tracking embedded in Git — track issues locally, sync anywhere, no server required
   (1 month ago)
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
