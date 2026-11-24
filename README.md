@@ -15,31 +15,33 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 #### 👷 Explore My Current Projects
 
 - [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github) - Default files for all repositories
-  (today)
-- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
   (1 day ago)
+- [paddyroddy/.github](https://github.com/paddyroddy/.github) - Default files for all repositories
+  (2 days ago)
 - [conda-forge/flt-feedstock](https://github.com/conda-forge/flt-feedstock) - A conda-smithy repository for flt.
-  (3 days ago)
+  (4 days ago)
 - [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles) - My dotfiles
-  (3 days ago)
+  (4 days ago)
 - [astro-informatics/sleplet](https://github.com/astro-informatics/sleplet) - Slepian Scale-Discretised Wavelets in Python
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Remove actionlint hook from mirsg-hooks.yaml](https://github.com/UCL-MIRSG/.github/pull/243) on [UCL-MIRSG/.github](https://github.com/UCL-MIRSG/.github)
-  (today)
-- [Remove actionlint hook](https://github.com/paddyroddy/.github/pull/415) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
   (1 day ago)
+- [Remove actionlint hook](https://github.com/paddyroddy/.github/pull/415) on [paddyroddy/.github](https://github.com/paddyroddy/.github)
+  (2 days ago)
 - [Add dockerfile extension to auto install settings](https://github.com/paddyroddy/dotfiles/pull/158) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
-  (3 days ago)
-- [Add .vscode to ignored files in settings.json](https://github.com/paddyroddy/dotfiles/pull/157) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (4 days ago)
+- [Add .vscode to ignored files in settings.json](https://github.com/paddyroddy/dotfiles/pull/157) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
+  (5 days ago)
 - [Remove vscode line removal from update script](https://github.com/paddyroddy/dotfiles/pull/156) on [paddyroddy/dotfiles](https://github.com/paddyroddy/dotfiles)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
+  (today)
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
   (3 weeks ago)
 - [remenoscodes/git-native-issue](https://github.com/remenoscodes/git-native-issue) - Distributed issue tracking embedded in Git — track issues locally, sync anywhere, no server required
@@ -47,6 +49,4 @@ I'm Paddy, a Senior Research Software Engineer at Advanced Research Computing
 - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
   (1 month ago)
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-  (1 month ago)
-- [oooscoos/Benzi](https://github.com/oooscoos/Benzi) - Benzi is code intelligence infrastructure for AI models. It compiles your codebase into a resolved, queryable map of calls, data flow, control flow and class hierarchy first; then it reads, explains, runs, edits and verifies your code using it. Every language runs its own tree-sitter grammar into the same query map.
   (2 months ago)
